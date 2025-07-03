@@ -1,0 +1,224 @@
+/* 전체 콘텐츠 컨테이너 */
+.container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* E-모델하우스 배너 */
+.bener {
+  width: 100vw;
+  height: auto;
+}
+
+/* 큰 이미지 */
+.image {
+  width: 60rem;
+  height: auto;
+
+  @media (max-width: 900px) {
+    width: 100vw;
+  }
+}
+
+/* 텍스트 박스 */
+.textBox {
+  margin: 3vw 0 0 0;
+  text-align: center;
+  font-size: 2.5vw;
+
+  div:nth-of-type(1) {
+    font-weight: 200;
+  }
+  div:nth-of-type(2) {
+    margin-top: 0.5vw;
+    font-weight: 800;
+    color: #095052;
+  }
+}
+
+/* 공통 박스 */
+.commonBox,
+.commonBox2 {
+  margin: 2vw 0;
+  width: 60%;
+  background-color: #f8f4f0;
+  border: 1px solid #e9e2da;
+
+  @media (max-width: 900px) {
+    width: 90%;
+  }
+
+  .notice {
+    padding: 0 1vw;
+    line-height: 1.1vw;
+    font-size: 1vw;
+    color: #ada8a2;
+
+    @media (max-width: 900px) {
+      padding: 0 3vw;
+      font-size: 2.5vw;
+      line-height: 3vw;
+      text-indent: -2vw;
+    }
+  }
+
+  .notice:nth-of-type(1) {
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+  }
+
+  .notice:nth-of-type(2),
+  .notice:nth-of-type(3),
+  .notice:nth-of-type(4),
+  .notice:nth-of-type(5),
+  .notice:nth-of-type(6) {
+    padding-bottom: 1vw;
+  }
+}
+
+/* 하단 나타나는 이미지 */
+.image2 {
+  margin: 4vw 0 0 0;
+  width: 60%;
+  height: auto;
+  opacity: 0;
+  transform: scale(1.05);
+  transition: opacity 1.5s ease, transform 1.5s ease;
+
+  &.showImage2 {
+    opacity: 1;
+    transform: scale(1);
+  }
+
+  @media (max-width: 900px) {
+    width: 90%;
+  }
+}
+
+/* 시각장애인용 스크린리더 텍스트 */
+.screenReaderOnly {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  border: 0;
+  clip: rect(0, 0, 0, 0);
+  overflow: hidden;
+}
+
+/* 탭 메뉴 컨테이너 */
+.tabMenu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3vw;
+  width: 100%;
+  max-width: 40vw;  
+  border-radius: 2vw;
+  gap: 10px;
+}
+
+/* 탭 버튼 스타일 */
+.tabButton {
+  font-family: 'SUIT-Regular';
+  flex: 100 1 20%;
+  min-width: 100px;
+  text-align: center;
+  padding: 10px 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #095052;
+  background-color: #fff;
+  border: 2px solid #095052;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-decoration: none;
+}
+
+.tabButton:hover {
+  background-color: #095052;
+  color: #ffffff;
+}
+
+.tabButton.activeTab {
+  background-color: #095052;
+  color: #ffffff;
+}
+
+/* 반응형 대응 */
+@media (max-width: 768px) {
+  .tabMenu {
+    max-width: 90%;
+    gap: 8px;
+  }
+
+  .tabButton {
+    font-size: 0.9rem;
+    padding: 8px 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .tabButton {
+    font-size: 0.8rem;
+    padding: 6px 0;
+  }
+}
+
+/* VR 영상 섹션 */
+.vrSection {
+  text-align: center;
+  margin-top: -1vw;
+  padding: 2vw 0;
+  width: 100%;
+}
+
+.vrTitle {
+  font-size: 2.2rem;
+  font-weight: 700;
+  margin-bottom: 0.8rem;
+  color: #222;
+}
+
+.vrSubTitle {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #095052;
+  margin-bottom: 0.5rem;
+}
+
+.vrDescription {
+  font-size: 1vw;
+  color: #666;
+  margin-bottom: 1.5rem;
+}
+
+.vrIframe,
+.videoPlayer {
+  width: 90%;
+  height: 700px;
+  max-width: 1000px;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+@media (max-width: 768px) {
+  .vrIframe,
+  .videoPlayer {
+    height: 400px;
+  }
+}
+
+@media (max-width: 480px) {
+  .vrIframe,
+  .videoPlayer {
+    height: 300px;
+  }
+}
