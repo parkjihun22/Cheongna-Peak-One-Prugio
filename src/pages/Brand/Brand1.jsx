@@ -58,56 +58,56 @@ const Brand1 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>용인푸르지오 원클러스터2단지 - 브랜드 소개</title>
+        <title>청라 피크원 푸르지오 - 브랜드 소개</title>
         <meta
           name="description"
-          content="용인푸르지오 원클러스터2단지의 브랜드 철학과 가치를 소개합니다. 대우건설의 대표 브랜드 프로지오는 고급스러움과 실용성을 결합한 주거공간을 제공합니다. 고객의 삶을 중심에 둔 설계와 혁신적인 기술, 지속 가능한 개발 철학을 통해 미래를 선도하는 주거 문화를 만들어갑니다. 힐스테이트의 브랜드 스토리와 비전을 확인해보세요.
+          content="청라 피크원 푸르지오의 브랜드 철학과 가치를 소개합니다. 대우건설의 대표 브랜드 프로지오는 고급스러움과 실용성을 결합한 주거공간을 제공합니다. 고객의 삶을 중심에 둔 설계와 혁신적인 기술, 지속 가능한 개발 철학을 통해 미래를 선도하는 주거 문화를 만들어갑니다. 힐스테이트의 브랜드 스토리와 비전을 확인해보세요.
 "
         />
-        <meta name="keywords" content="용인푸르지오원클러스터, 용인푸르지오원클러스터2단지, 용인푸르지오원클러스터2단지모델하우스" />
+        <meta name="keywords" content="청라피크원푸르지오, 청라 피크원 푸르지오, 청라 피크원 푸르지오모델하우스" />
         <link
           rel="canonical"
-          href="https://www.beyinegzersizi.com/Brand/intro"
+          href="https://www.bunyang-114.com/Brand/intro"
         />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
           property="og:title"
-          content="용인푸르지오 원클러스터2단지 - 브랜드 소개"
+          content="청라 피크원 푸르지오 - 브랜드 소개"
         />
         <meta
           property="og:description"
-          content="용인푸르지오 원클러스터2단지의 브랜드 철학과 가치를 소개합니다. 대우건설의 대표 브랜드 프로지오는 고급스러움과 실용성을 결합한 주거공간을 제공합니다. 고객의 삶을 중심에 둔 설계와 혁신적인 기술, 지속 가능한 개발 철학을 통해 미래를 선도하는 주거 문화를 만들어갑니다. 힐스테이트의 브랜드 스토리와 비전을 확인해보세요.
+          content="청라 피크원 푸르지오의 브랜드 철학과 가치를 소개합니다. 대우건설의 대표 브랜드 프로지오는 고급스러움과 실용성을 결합한 주거공간을 제공합니다. 고객의 삶을 중심에 둔 설계와 혁신적인 기술, 지속 가능한 개발 철학을 통해 미래를 선도하는 주거 문화를 만들어갑니다. 힐스테이트의 브랜드 스토리와 비전을 확인해보세요.
 "
         />
         <meta
           property="og:image"
-          content="https://www.beyinegzersizi.com/Main1.png"
+          content="https://www.bunyang-114.com/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.beyinegzersizi.com/Brand/intro"
+          content="https://www.bunyang-114.com/Brand/intro"
         />
-        <meta property="og:site_name" content="용인푸르지오 원클러스터2단지" />
+        <meta property="og:site_name" content="청라 피크원 푸르지오" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="용인푸르지오 원클러스터2단지 - 브랜드 소개"
+          content="청라 피크원 푸르지오 - 브랜드 소개"
         />
         <meta
           name="twitter:description"
-          content="용인푸르지오 원클러스터2단지의 브랜드 철학과 가치를 소개합니다. 대우건설의 대표 브랜드 프로지오는 고급스러움과 실용성을 결합한 주거공간을 제공합니다. 고객의 삶을 중심에 둔 설계와 혁신적인 기술, 지속 가능한 개발 철학을 통해 미래를 선도하는 주거 문화를 만들어갑니다. 힐스테이트의 브랜드 스토리와 비전을 확인해보세요.
+          content="청라 피크원 푸르지오의 브랜드 철학과 가치를 소개합니다. 대우건설의 대표 브랜드 프로지오는 고급스러움과 실용성을 결합한 주거공간을 제공합니다. 고객의 삶을 중심에 둔 설계와 혁신적인 기술, 지속 가능한 개발 철학을 통해 미래를 선도하는 주거 문화를 만들어갑니다. 힐스테이트의 브랜드 스토리와 비전을 확인해보세요.
 "
         />
         <meta
           name="twitter:image"
-          content="https://www.beyinegzersizi.com/Main1.png"
+          content="https://www.bunyang-114.com/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.beyinegzersizi.com/Brand/intro"
+          content="https://www.bunyang-114.com/Brand/intro"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -116,10 +116,10 @@ const Brand1 = () => {
                                         {
                                             "@context": "https://schema.org",
                                             "@type": "WebPage",
-                                            "name": "용인푸르지오 원클러스터2단지 - 브랜드 소개",
-                                            "description": "용인푸르지오 원클러스터2단지의 브랜드 철학과 가치를 소개합니다. 대우건설의 대표 브랜드 프로지오는 고급스러움과 실용성을 결합한 주거공간을 제공합니다. 고객의 삶을 중심에 둔 설계와 혁신적인 기술, 지속 가능한 개발 철학을 통해 미래를 선도하는 주거 문화를 만들어갑니다. 힐스테이트의 브랜드 스토리와 비전을 확인해보세요.
+                                            "name": "청라 피크원 푸르지오 - 브랜드 소개",
+                                            "description": "청라 피크원 푸르지오의 브랜드 철학과 가치를 소개합니다. 대우건설의 대표 브랜드 프로지오는 고급스러움과 실용성을 결합한 주거공간을 제공합니다. 고객의 삶을 중심에 둔 설계와 혁신적인 기술, 지속 가능한 개발 철학을 통해 미래를 선도하는 주거 문화를 만들어갑니다. 힐스테이트의 브랜드 스토리와 비전을 확인해보세요.
 ",
-                                            "url": "https://www.beyinegzersizi.com/Brand/intro"
+                                            "url": "https://www.bunyang-114.com/Brand/intro"
                                         }
                                         `}
         </script>
@@ -133,8 +133,8 @@ const Brand1 = () => {
 
             <MenuBar contents={menuContents} />
             {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
-            <h1 className={styles.screenReaderOnly}>용인푸르지오원클러스터 - 브랜드소개</h1>
-			<p className={styles.screenReaderOnly}>용인푸르지오원클러스터의 신뢰와 품질을 최우선으로 여기는 브랜드입니다. 최첨단 설계와 고급 자재를 사용하여 입주자에게 최고의 주거 환경을 제공합니다. 지속적인 혁신과 고객 만족을 위한 브랜드 철학을 바탕으로, 미래 지향적인 주택을 제시하는 
+            <h1 className={styles.screenReaderOnly}>청라피크원푸르지오 - 브랜드소개</h1>
+			<p className={styles.screenReaderOnly}>청라피크원푸르지오의 신뢰와 품질을 최우선으로 여기는 브랜드입니다. 최첨단 설계와 고급 자재를 사용하여 입주자에게 최고의 주거 환경을 제공합니다. 지속적인 혁신과 고객 만족을 위한 브랜드 철학을 바탕으로, 미래 지향적인 주택을 제시하는 
         의 브랜드 가치를 경험해보세요
 			</p>	
 
@@ -143,7 +143,7 @@ const Brand1 = () => {
                 <div>푸르지오, 반도체클러스터의 중심에 서다</div>
 </div>
 
-            <img className={`${styles.image} ${isImageVisible ? styles.visible : ''}`} src={page1} alt="용인푸르지오원클러스터 brand-Image1" />
+            <img className={`${styles.image} ${isImageVisible ? styles.visible : ''}`} src={page1} alt="청라피크원푸르지오 brand-Image1" />
 
             <Footer />
         </div>

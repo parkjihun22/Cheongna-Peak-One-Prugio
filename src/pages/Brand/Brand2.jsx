@@ -55,56 +55,56 @@ const Brand2 = () => {
 		<meta name="robots" content="index, follow" />
 
 		{/* SEO 최적화를 위한 메타 태그 */}
-		<title>용인푸르지오 원클러스터2단지 - 홍보영상</title>
+		<title>청라 피크원 푸르지오 - 홍보영상</title>
 		<meta
 		  name="description"
-		  content="용인푸르지오원클러스터의 홍보영상을 통해 단지의 매력적인 디자인과 최신 편의시설을 생생하게 만나보세요. 현대적 감각과 고급스러움을 결합한 주거 환경, 용인의 중심에서 경험할 수 있는 새로운 라이프스타일을 영상으로 확인하세요.
+		  content="청라피크원푸르지오의 홍보영상을 통해 단지의 매력적인 디자인과 최신 편의시설을 생생하게 만나보세요. 현대적 감각과 고급스러움을 결합한 주거 환경, 청라의 중심에서 경험할 수 있는 새로운 라이프스타일을 영상으로 확인하세요.
 "
 		/>
-  		<meta name="keywords" content="용인푸르지오원클러스터, 용인푸르지오원클러스터2단지, 용인푸르지오원클러스터2단지모델하우스" />			
+  		<meta name="keywords" content="청라피크원푸르지오, 청라 피크원 푸르지오, 청라 피크원 푸르지오모델하우스" />			
 		<link
 		  rel="canonical"
-		  href="https://www.beyinegzersizi.com/Brand/video"
+		  href="https://www.bunyang-114.com/Brand/video"
 		/>
 
 		{/* Open Graph - 소셜 미디어 공유 최적화 */}
 		<meta
 		  property="og:title"
-		  content="용인푸르지오 원클러스터2단지 - 홍보영상"
+		  content="청라 피크원 푸르지오 - 홍보영상"
 		/>
 		<meta
 		  property="og:description"
-		  content="용인푸르지오원클러스터의 홍보영상을 통해 단지의 매력적인 디자인과 최신 편의시설을 생생하게 만나보세요. 현대적 감각과 고급스러움을 결합한 주거 환경, 용인의 중심에서 경험할 수 있는 새로운 라이프스타일을 영상으로 확인하세요.
+		  content="청라피크원푸르지오의 홍보영상을 통해 단지의 매력적인 디자인과 최신 편의시설을 생생하게 만나보세요. 현대적 감각과 고급스러움을 결합한 주거 환경, 청라의 중심에서 경험할 수 있는 새로운 라이프스타일을 영상으로 확인하세요.
 "
 		/>
 		<meta
 		  property="og:image"
-		  content="https://www.beyinegzersizi.com/Main1.png"
+		  content="https://www.bunyang-114.com/Main1.png"
 		/>
 		<meta
 		  property="og:url"
-		  content="https://www.beyinegzersizi.com/Brand/video"
+		  content="https://www.bunyang-114.com/Brand/video"
 		/>
-		<meta property="og:site_name" content="용인푸르지오 원클러스터2단지" />
+		<meta property="og:site_name" content="청라 피크원 푸르지오" />
 
 		{/* Twitter 카드 설정 */}
 		<meta name="twitter:card" content="summary_large_image" />
 		<meta
 		  name="twitter:title"
-		  content="용인푸르지오 원클러스터2단지 - 홍보영상"
+		  content="청라 피크원 푸르지오 - 홍보영상"
 		/>
 		<meta
 		  name="twitter:description"
-		  content="용인푸르지오원클러스터의 홍보영상을 통해 단지의 매력적인 디자인과 최신 편의시설을 생생하게 만나보세요. 현대적 감각과 고급스러움을 결합한 주거 환경, 용인의 중심에서 경험할 수 있는 새로운 라이프스타일을 영상으로 확인하세요.
+		  content="청라피크원푸르지오의 홍보영상을 통해 단지의 매력적인 디자인과 최신 편의시설을 생생하게 만나보세요. 현대적 감각과 고급스러움을 결합한 주거 환경, 청라의 중심에서 경험할 수 있는 새로운 라이프스타일을 영상으로 확인하세요.
 "
 		/>
 		<meta
 		  name="twitter:image"
-		  content="https://www.beyinegzersizi.com/Main1.png"
+		  content="https://www.bunyang-114.com/Main1.png"
 		/>
 		<meta
 		  name="twitter:url"
-		  content="https://www.beyinegzersizi.com/Brand/video"
+		  content="https://www.bunyang-114.com/Brand/video"
 		/>
 
 		{/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -113,10 +113,10 @@ const Brand2 = () => {
 										{
 											"@context": "https://schema.org",
 											"@type": "WebPage",
-											"name": "용인푸르지오 원클러스터2단지 - 홍보영상",
-											"description": "용인푸르지오원클러스터의 홍보영상을 통해 단지의 매력적인 디자인과 최신 편의시설을 생생하게 만나보세요. 현대적 감각과 고급스러움을 결합한 주거 환경, 용인의 중심에서 경험할 수 있는 새로운 라이프스타일을 영상으로 확인하세요.
+											"name": "청라 피크원 푸르지오 - 홍보영상",
+											"description": "청라피크원푸르지오의 홍보영상을 통해 단지의 매력적인 디자인과 최신 편의시설을 생생하게 만나보세요. 현대적 감각과 고급스러움을 결합한 주거 환경, 청라의 중심에서 경험할 수 있는 새로운 라이프스타일을 영상으로 확인하세요.
 ",
-											"url": "https://www.beyinegzersizi.com/Brand/video"
+											"url": "https://www.bunyang-114.com/Brand/video"
 										}
 										`}
 		</script>
@@ -130,12 +130,12 @@ const Brand2 = () => {
 			<MenuBar contents={menuContents} />
 
 						{/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
-						<h1 className={styles.screenReaderOnly}>용인푸르지오원클러스터 - 홍보영상</h1>
-						<p className={styles.screenReaderOnly}>용인푸르지오원클러스터의 홍보영상을 통해 단지의 매력적인 디자인과 최신 편의시설을 생생하게 만나보세요. 현대적 감각과 고급스러움을 결합한 주거 환경, 용인의 중심에서 경험할 수 있는 새로운 라이프스타일을 영상으로 확인하세요.
+						<h1 className={styles.screenReaderOnly}>청라피크원푸르지오 - 홍보영상</h1>
+						<p className={styles.screenReaderOnly}>청라피크원푸르지오의 홍보영상을 통해 단지의 매력적인 디자인과 최신 편의시설을 생생하게 만나보세요. 현대적 감각과 고급스러움을 결합한 주거 환경, 청라의 중심에서 경험할 수 있는 새로운 라이프스타일을 영상으로 확인하세요.
 						</p>	
 
 			<div className={`${styles.textBox} ${isTextVisible ? styles.active : ''}`}>
-                <div>용인 푸르지오 원클러스터가 눈부신 가치 위에</div>
+                <div>청라 피크원 푸르지오가 눈부신 가치 위에</div>
                 <div>새로운 자부심으로 찾아옵니다.</div>
             </div>
 

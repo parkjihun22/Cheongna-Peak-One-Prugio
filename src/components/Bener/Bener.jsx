@@ -20,7 +20,7 @@ const Bener = ({ title }) => {
             <img
                 className={`${styles.benerImage} ${isLoaded ? styles.showImage : ''}`}
                 src={img}
-                alt="용인 푸르지오원 클러스터-benerimage"
+                alt="청라 피크원 푸르지오-benerimage"
             />
             <div className={styles.overlay}></div>
             <div
@@ -50,7 +50,7 @@ const contents = (text, isLoaded) => {
                     반도체 클러스터의 중심 
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    NO.1 브랜드 용인 푸르지오 원클러스터와 함께합니다.
+                    NO.1 브랜드 청라 피크원 푸르지오와 함께합니다.
                 </div>
             </>
         );
@@ -61,13 +61,13 @@ const contents = (text, isLoaded) => {
                     푸르지오가 선택한 새도시!
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    용인반도체클러스트 · 삼성 · SK 하이닉스의 프리미엄
+                    청라반도체클러스트 · 삼성 · SK 하이닉스의 프리미엄
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
                     가장 높은 브랜드의 첫 시작
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    용인 푸르지오 원클러스터
+                    청라 피크원 푸르지오
                 </div>
             </>
         );
@@ -78,7 +78,7 @@ const contents = (text, isLoaded) => {
                     수준 높은 생활, 첨단신도시내 착한 브랜드 아파트
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    기대하던 모든 프리미엄이 용인 푸르지오 원클러스터에서 펼쳐집니다
+                    기대하던 모든 프리미엄이 청라 피크원 푸르지오에서 펼쳐집니다
                 </div>
             </>
         );
@@ -92,7 +92,7 @@ const contents = (text, isLoaded) => {
                     편리한 생활을 위한 최적의 공간설계
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    소수에게만 허락된용인 푸르지오 원클러스터, 처음이자 마지막으로 용인의 핵심중심에 찾아옵니다
+                    소수에게만 허락된청라 피크원 푸르지오, 처음이자 마지막으로 청라의 핵심중심에 찾아옵니다
                 </div>
             </>
         );

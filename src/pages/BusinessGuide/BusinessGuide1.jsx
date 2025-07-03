@@ -18,8 +18,8 @@ import tableImage3 from "../../assets/BusinessGuide/BusinessGuide1/tableImage.jp
 
 // 2단지 사업개요 데이터
 const projectData2 = [
-  { label: "사업명", value: "용인 용인푸르지오 원클러스터2단지" },
-  { label: "사업위치", value: "용인시 처인구 남동 산126-1일원" },
+  { label: "사업명", value: "청라 피크원 푸르지오" },
+  { label: "사업위치", value: "인천시 처인구 남동 산126-1일원" },
   { label: "대지면적", value: "106,050.4985㎡" },
   { label: "건축면적", value: "12,000.0000㎡" },
   { label: "연면적", value: "350,000.0000㎡" },
@@ -30,8 +30,8 @@ const projectData2 = [
 
 // 3단지 사업개요 데이터
 const projectData3 = [
-  { label: "사업명", value: "용인 푸르지오 원클러스터 3단지" },
-  { label: "사업위치", value: "용인시 처인구 남동 243일원" },
+  { label: "사업명", value: "청라 피크원 푸르지오 3단지" },
+  { label: "사업위치", value: "인천시 처인구 남동 243일원" },
   { label: "대지면적", value: "106,050.4985㎡" },
   { label: "건축면적", value: "11,500.0000㎡" },
   { label: "연면적", value: "340,000.0000㎡" },
@@ -83,18 +83,18 @@ const BusinessGuide = () => {
   // SEO 및 메타 태그에 사용할 데이터
   const metaData = {
     2: {
-      title: "용인푸르지오 원클러스터2단지 - 사업안내",
+      title: "청라 피크원 푸르지오 - 사업안내",
       description:
-        "용인푸르지오 원클러스터2단지의 사업개요를 통해 프로젝트의 비전과 가치를 확인하세요. 단지 설계, 개발 목표, 주변 환경과의 조화 등을 중점적으로 설명합니다.",
-      url: "https://www.beyinegzersizi.com/BusinessGuide/intro",
-      image: "https://www.beyinegzersizi.com/Main1.png",
+        "청라 피크원 푸르지오의 사업개요를 통해 프로젝트의 비전과 가치를 확인하세요. 단지 설계, 개발 목표, 주변 환경과의 조화 등을 중점적으로 설명합니다.",
+      url: "https://www.bunyang-114.com/BusinessGuide/intro",
+      image: "https://www.bunyang-114.com/Main1.png",
     },
     3: {
-      title: "용인푸르지오 원클러스터 3단지 - 사업안내",
+      title: "청라 피크원 푸르지오 3단지 - 사업안내",
       description:
-        "푸르지오 원클러스터 3단지의 사업개요를 통해 프로젝트의 비전과 가치를 확인하세요. 단지 설계, 개발 목표, 주변 환경과의 조화 등을 중점적으로 설명합니다.",
-      url: "https://www.beyinegzersizi.com/BusinessGuide/intro",
-      image: "https://www.beyinegzersizi.com/Main1.png",
+        "청라피크원푸르지오 3단지의 사업개요를 통해 프로젝트의 비전과 가치를 확인하세요. 단지 설계, 개발 목표, 주변 환경과의 조화 등을 중점적으로 설명합니다.",
+      url: "https://www.bunyang-114.com/BusinessGuide/intro",
+      image: "https://www.bunyang-114.com/Main1.png",
     },
   };
 
@@ -112,7 +112,7 @@ const BusinessGuide = () => {
         <meta name="robots" content="index, follow" />
         <title>{metaData[selectedPhase].title}</title>
         <meta name="description" content={metaData[selectedPhase].description} />
-        <meta name="keywords" content="용인푸르지오원클러스터, 용인푸르지오원클러스터2단지, 용인푸르지오원클러스터2단지모델하우스" />
+        <meta name="keywords" content="청라피크원푸르지오, 청라 피크원 푸르지오, 청라 피크원 푸르지오모델하우스" />
         <link rel="canonical" href={metaData[selectedPhase].url} />
         <meta property="og:title" content={metaData[selectedPhase].title} />
         <meta
@@ -158,7 +158,7 @@ const BusinessGuide = () => {
       <img
         className={styles.img3}
         src={currentContent.pageImage}
-        alt={`푸르지오 원클러스터 ${selectedPhase}단지 조감도`}
+        alt={`청라피크원푸르지오 ${selectedPhase}단지 조감도`}
       />
 	  
 	  {/* 단지 선택 버튼 */}

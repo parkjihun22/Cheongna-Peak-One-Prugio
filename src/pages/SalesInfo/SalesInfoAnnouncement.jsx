@@ -78,62 +78,62 @@ const ComplexGuide1 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>용인푸르지오 원클러스터2단지 - 모집공고안내</title>
+        <title>청라 피크원 푸르지오 - 모집공고안내</title>
         <meta
           name="description"
-          content="용인푸르지오 원클러스터2단지의 모집 공고는 분양 전 단계에서 중요한 안내문입니다. 이 페이지에서는 모집 공고에 포함된 중요한 날짜, 자격 조건, 필요한 서류 등을 명확하게 안내하여 예비 청약자들이 혼동 없이 청약을 준비할 수 있도록 지원합니다. 모집 공고를 통해 필수 정보들을 빠짐없이 체크하세요.
+          content="청라 피크원 푸르지오의 모집 공고는 분양 전 단계에서 중요한 안내문입니다. 이 페이지에서는 모집 공고에 포함된 중요한 날짜, 자격 조건, 필요한 서류 등을 명확하게 안내하여 예비 청약자들이 혼동 없이 청약을 준비할 수 있도록 지원합니다. 모집 공고를 통해 필수 정보들을 빠짐없이 체크하세요.
 
 "
         />
         <meta
           name="keywords"
-          content="용인푸르지오원클러스터2단지, 용인푸르지오원클러스터, 용인푸르지오원클러스터2단지모델하우스"
+          content="청라 피크원 푸르지오, 청라피크원푸르지오, 청라 피크원 푸르지오모델하우스"
         />
         <link
           rel="canonical"
-          href="https://www.beyinegzersizi.com/SalesInfo/announcement"
+          href="https://www.bunyang-114.com/SalesInfo/announcement"
         />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
           property="og:title"
-          content="용인푸르지오 원클러스터2단지 - 모집공고안내"
+          content="청라 피크원 푸르지오 - 모집공고안내"
         />
         <meta
           property="og:description"
-          content="용인푸르지오 원클러스터2단지의 모집 공고는 분양 전 단계에서 중요한 안내문입니다. 이 페이지에서는 모집 공고에 포함된 중요한 날짜, 자격 조건, 필요한 서류 등을 명확하게 안내하여 예비 청약자들이 혼동 없이 청약을 준비할 수 있도록 지원합니다. 모집 공고를 통해 필수 정보들을 빠짐없이 체크하세요.
+          content="청라 피크원 푸르지오의 모집 공고는 분양 전 단계에서 중요한 안내문입니다. 이 페이지에서는 모집 공고에 포함된 중요한 날짜, 자격 조건, 필요한 서류 등을 명확하게 안내하여 예비 청약자들이 혼동 없이 청약을 준비할 수 있도록 지원합니다. 모집 공고를 통해 필수 정보들을 빠짐없이 체크하세요.
 
 "
         />
         <meta
           property="og:image"
-          content="https://www.beyinegzersizi.com/Main1.png"
+          content="https://www.bunyang-114.com/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.beyinegzersizi.com/SalesInfo/announcement"
+          content="https://www.bunyang-114.com/SalesInfo/announcement"
         />
-        <meta property="og:site_name" content="용인푸르지오 원클러스터2단지" />
+        <meta property="og:site_name" content="청라 피크원 푸르지오" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="용인푸르지오 원클러스터2단지 - 모집공고안내"
+          content="청라 피크원 푸르지오 - 모집공고안내"
         />
         <meta
           name="twitter:description"
-          content="용인푸르지오 원클러스터2단지의 모집 공고는 분양 전 단계에서 중요한 안내문입니다. 이 페이지에서는 모집 공고에 포함된 중요한 날짜, 자격 조건, 필요한 서류 등을 명확하게 안내하여 예비 청약자들이 혼동 없이 청약을 준비할 수 있도록 지원합니다. 모집 공고를 통해 필수 정보들을 빠짐없이 체크하세요.
+          content="청라 피크원 푸르지오의 모집 공고는 분양 전 단계에서 중요한 안내문입니다. 이 페이지에서는 모집 공고에 포함된 중요한 날짜, 자격 조건, 필요한 서류 등을 명확하게 안내하여 예비 청약자들이 혼동 없이 청약을 준비할 수 있도록 지원합니다. 모집 공고를 통해 필수 정보들을 빠짐없이 체크하세요.
 
 "
         />
         <meta
           name="twitter:image"
-          content="https://www.beyinegzersizi.com/Main1.png"
+          content="https://www.bunyang-114.com/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.beyinegzersizi.com/SalesInfo/announcement"
+          content="https://www.bunyang-114.com/SalesInfo/announcement"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -142,11 +142,11 @@ const ComplexGuide1 = () => {
                                         {
                                             "@context": "https://schema.org",
                                             "@type": "WebPage",
-                                            "name": "용인푸르지오 원클러스터2단지 - 모집공고안내",
-                                            "description": "용인푸르지오 원클러스터2단지의 모집 공고는 분양 전 단계에서 중요한 안내문입니다. 이 페이지에서는 모집 공고에 포함된 중요한 날짜, 자격 조건, 필요한 서류 등을 명확하게 안내하여 예비 청약자들이 혼동 없이 청약을 준비할 수 있도록 지원합니다. 모집 공고를 통해 필수 정보들을 빠짐없이 체크하세요.
+                                            "name": "청라 피크원 푸르지오 - 모집공고안내",
+                                            "description": "청라 피크원 푸르지오의 모집 공고는 분양 전 단계에서 중요한 안내문입니다. 이 페이지에서는 모집 공고에 포함된 중요한 날짜, 자격 조건, 필요한 서류 등을 명확하게 안내하여 예비 청약자들이 혼동 없이 청약을 준비할 수 있도록 지원합니다. 모집 공고를 통해 필수 정보들을 빠짐없이 체크하세요.
 
 ",
-                                            "url": "https://www.beyinegzersizi.com/SalesInfo/announcement"
+                                            "url": "https://www.bunyang-114.com/SalesInfo/announcement"
                                         }
                                         `}
         </script>
@@ -157,10 +157,10 @@ const ComplexGuide1 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        용인푸르지오 원클러스터2단지- 모집공고안내
+        청라 피크원 푸르지오- 모집공고안내
       </h1>
       <p className={styles.screenReaderOnly}>
-        용인푸르지오 원클러스터2단지모집 공고는 분양 전 단계에서 중요한
+        청라 피크원 푸르지오모집 공고는 분양 전 단계에서 중요한
         안내문입니다. 이 페이지에서는 모집 공고에 포함된 중요한 날짜, 자격 조건,
         필요한 서류 등을 명확하게 안내하여 예비 청약자들이 혼동 없이 청약을
         준비할 수 있도록 지원합니다. 모집 공고를 통해 필수 정보들을 빠짐없이
@@ -168,12 +168,12 @@ const ComplexGuide1 = () => {
       </p>
       <div className={styles.textBox}>
         <div>입주자 모집공고안내를 확인하세요</div>
-        <div>용인푸르지오 원클러스터2단지</div>
+        <div>청라 피크원 푸르지오</div>
       </div>
       <img
         className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
         src={page1}
-        alt="용인푸르지오 원클러스터2단지모집공고안내-image1"
+        alt="청라 피크원 푸르지오모집공고안내-image1"
         onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
          />
       {/* 입주자 모집공고 PDF로 보기 버튼 */}
@@ -182,7 +182,7 @@ const ComplexGuide1 = () => {
                 <span>모집공고 PDF<br/>확인하기</span>
             </button>
 
-      용인푸르지오 원클러스터2단지
+      청라 피크원 푸르지오
       {/* 로딩 중일 때 표시할 스피너 */}
       {isLoading && (
         <div className={styles.loader}>

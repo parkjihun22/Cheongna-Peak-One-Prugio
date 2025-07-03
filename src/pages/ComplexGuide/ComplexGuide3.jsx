@@ -59,56 +59,56 @@ const ComplexGuide3 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>용인푸르지오 원클러스터2단지 - 커뮤니티</title>
+        <title>청라 피크원 푸르지오 - 커뮤니티</title>
         <meta
           name="description"
-          content="용인푸르지오 원클러스터2단지의 커뮤니티 시설을 소개합니다. 피트니스 센터, 독서실, 카페 등 다양한 편의시설이 마련되어 있어 입주민의 생활 품격을 높이고, 편리함을 제공합니다.
+          content="청라 피크원 푸르지오의 커뮤니티 시설을 소개합니다. 피트니스 센터, 독서실, 카페 등 다양한 편의시설이 마련되어 있어 입주민의 생활 품격을 높이고, 편리함을 제공합니다.
 "
         />
-        <meta name="keywords" content="용인푸르지오원클러스터, 용인푸르지오원클러스터2단지, 용인푸르지오원클러스터2단지모델하우스" />
+        <meta name="keywords" content="청라피크원푸르지오, 청라 피크원 푸르지오, 청라 피크원 푸르지오모델하우스" />
         <link
           rel="canonical"
-          href="https://www.beyinegzersizi.com/ComplexGuide/community"
+          href="https://www.bunyang-114.com/ComplexGuide/community"
         />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
           property="og:title"
-          content="용인푸르지오 원클러스터2단지 - 커뮤니티"
+          content="청라 피크원 푸르지오 - 커뮤니티"
         />
         <meta
           property="og:description"
-          content="용인푸르지오 원클러스터2단지의 커뮤니티 시설을 소개합니다. 피트니스 센터, 독서실, 카페 등 다양한 편의시설이 마련되어 있어 입주민의 생활 품격을 높이고, 편리함을 제공합니다.
+          content="청라 피크원 푸르지오의 커뮤니티 시설을 소개합니다. 피트니스 센터, 독서실, 카페 등 다양한 편의시설이 마련되어 있어 입주민의 생활 품격을 높이고, 편리함을 제공합니다.
 "
         />
         <meta
           property="og:image"
-          content="https://www.beyinegzersizi.com/Main1.png"
+          content="https://www.bunyang-114.com/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.beyinegzersizi.com/ComplexGuide/community"
+          content="https://www.bunyang-114.com/ComplexGuide/community"
         />
-        <meta property="og:site_name" content="용인푸르지오 원클러스터2단지" />
+        <meta property="og:site_name" content="청라 피크원 푸르지오" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="용인푸르지오 원클러스터2단지 - 커뮤니티"
+          content="청라 피크원 푸르지오 - 커뮤니티"
         />
         <meta
           name="twitter:description"
-          content="용인푸르지오 원클러스터2단지의 커뮤니티 시설을 소개합니다. 피트니스 센터, 독서실, 카페 등 다양한 편의시설이 마련되어 있어 입주민의 생활 품격을 높이고, 편리함을 제공합니다.
+          content="청라 피크원 푸르지오의 커뮤니티 시설을 소개합니다. 피트니스 센터, 독서실, 카페 등 다양한 편의시설이 마련되어 있어 입주민의 생활 품격을 높이고, 편리함을 제공합니다.
 "
         />
         <meta
           name="twitter:image"
-          content="https://www.beyinegzersizi.com/Main1.png"
+          content="https://www.bunyang-114.com/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.beyinegzersizi.com/ComplexGuide/community"
+          content="https://www.bunyang-114.com/ComplexGuide/community"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -117,10 +117,10 @@ const ComplexGuide3 = () => {
 										{
 											"@context": "https://schema.org",
 											"@type": "WebPage",
-											"name": "용인푸르지오 원클러스터2단지 - 커뮤니티",
-											"description": "용인푸르지오 원클러스터2단지의 커뮤니티 시설을 소개합니다. 피트니스 센터, 독서실, 카페 등 다양한 편의시설이 마련되어 있어 입주민의 생활 품격을 높이고, 편리함을 제공합니다.
+											"name": "청라 피크원 푸르지오 - 커뮤니티",
+											"description": "청라 피크원 푸르지오의 커뮤니티 시설을 소개합니다. 피트니스 센터, 독서실, 카페 등 다양한 편의시설이 마련되어 있어 입주민의 생활 품격을 높이고, 편리함을 제공합니다.
 ",
-											"url": "https://www.beyinegzersizi.com/ComplexGuide/community"
+											"url": "https://www.bunyang-114.com/ComplexGuide/community"
 										}
 										`}
         </script>
@@ -132,10 +132,10 @@ const ComplexGuide3 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        용인푸르지오 원클러스터2단지 - 커뮤니티
+        청라 피크원 푸르지오 - 커뮤니티
       </h1>
       <p className={styles.screenReaderOnly}>
-        용인푸르지오 원클러스터2단지의 커뮤니티 페이지에서는 단지 내 다양한
+        청라 피크원 푸르지오의 커뮤니티 페이지에서는 단지 내 다양한
         커뮤니티 시설을 소개합니다. 헬스장, 독서실, 카페 등 주민들의 편리한
         생활을 위한 다양한 시설들이 준비되어 있습니다. 이러한 시설들이
         입주민들의 삶의 질을 높이고, 더 나은 공동체 생활을 만들어주는 역할을
@@ -143,7 +143,7 @@ const ComplexGuide3 = () => {
       </p>
 
       <div className={styles.textBox}>
-        <div>푸르지오 원클러스터가 눈부신 가치 위에</div>
+        <div>청라피크원푸르지오가 눈부신 가치 위에</div>
         <div>새로운 자부심으로 찾아옵니다.</div>
       </div>
 
@@ -151,7 +151,7 @@ const ComplexGuide3 = () => {
       <img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="용인푸르지오 원클러스터2단지 커뮤니티 안내 -image1"
+				alt="청라 피크원 푸르지오 커뮤니티 안내 -image1"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 

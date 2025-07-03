@@ -68,56 +68,56 @@ const FloorPlanVideos = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>용인푸르지오 원클러스터2단지 - 평면안내</title>
+        <title>청라 피크원 푸르지오 - 평면안내</title>
         <meta
           name="description"
-          content="세대안내영상 안내 페이지는 용인푸르지오원클러스터의 각 아파트 세대안내영상을 제공합니다.
+          content="세대안내영상 안내 페이지는 청라피크원푸르지오의 각 아파트 세대안내영상을 제공합니다.
 "
         />
-        <meta name="keywords" content="용인푸르지오원클러스터, 용인푸르지오원클러스터2단지, 용인푸르지오원클러스터2단지모델하우스" />
+        <meta name="keywords" content="청라피크원푸르지오, 청라 피크원 푸르지오, 청라 피크원 푸르지오모델하우스" />
         <link
           rel="canonical"
-          href="https://www.beyinegzersizi.com/FloorPlan/videos"
+          href="https://www.bunyang-114.com/FloorPlan/videos"
         />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
           property="og:title"
-          content="용인푸르지오 원클러스터2단지 - 평면안내"
+          content="청라 피크원 푸르지오 - 평면안내"
         />
         <meta
           property="og:description"
-          content="세대안내영상 안내 페이지는 용인푸르지오원클러스터의 각 아파트 세대안내영상을 제공합니다.
+          content="세대안내영상 안내 페이지는 청라피크원푸르지오의 각 아파트 세대안내영상을 제공합니다.
 "
         />
         <meta
           property="og:image"
-          content="https://www.beyinegzersizi.com/Main1.png"
+          content="https://www.bunyang-114.com/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.beyinegzersizi.com/FloorPlan/videos"
+          content="https://www.bunyang-114.com/FloorPlan/videos"
         />
-        <meta property="og:site_name" content="용인푸르지오 원클러스터2단지" />
+        <meta property="og:site_name" content="청라 피크원 푸르지오" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="용인푸르지오 원클러스터2단지 - 평면안내"
+          content="청라 피크원 푸르지오 - 평면안내"
         />
         <meta
           name="twitter:description"
-          content="세대안내영상 안내 페이지는 용인푸르지오원클러스터의 각 아파트 세대안내영상을 제공합니다.
+          content="세대안내영상 안내 페이지는 청라피크원푸르지오의 각 아파트 세대안내영상을 제공합니다.
 "
         />
         <meta
           name="twitter:image"
-          content="https://www.beyinegzersizi.com/Main1.png"
+          content="https://www.bunyang-114.com/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.beyinegzersizi.com/FloorPlan/videos"
+          content="https://www.bunyang-114.com/FloorPlan/videos"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -126,10 +126,10 @@ const FloorPlanVideos = () => {
                     {
                       "@context": "https://schema.org",
                       "@type": "WebPage",
-                      "name": "용인푸르지오 원클러스터2단지 - 평면안내",
-                      "description": "세대안내영상 안내 페이지는 용인푸르지오원클러스터의 각 아파트 세대안내영상을 제공합니다.
+                      "name": "청라 피크원 푸르지오 - 평면안내",
+                      "description": "세대안내영상 안내 페이지는 청라피크원푸르지오의 각 아파트 세대안내영상을 제공합니다.
 ",
-                      "url": "https://www.beyinegzersizi.com/FloorPlan/videos"
+                      "url": "https://www.bunyang-114.com/FloorPlan/videos"
                     }
                     `}
         </script>
@@ -141,12 +141,12 @@ const FloorPlanVideos = () => {
       <MenuBar contents={menuContents} />
 
       <h1 className={styles.screenReaderOnly}>
-        용인푸르지오원클러스터 - 홍보영상
+        청라피크원푸르지오 - 홍보영상
       </h1>
       <p className={styles.screenReaderOnly}>세대안내영상 안내 페이지입니다.</p>
 
       <div className={styles.textBox}>
-        <div>용인 반도체클러스터의 눈부신 가치 위에 찾아오는</div>
+        <div>반도체클러스터의 눈부신 가치 위에 찾아오는</div>
         <div>푸르지오의 가치를 영상으로 확인해보세요</div>
       </div>
 

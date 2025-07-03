@@ -179,14 +179,14 @@ const handleInputChange = (e) => {
         />
 
         {/* SEO 최적화를 위한 메타 태그 추가 */}
-        <title>▪용인푸르지오 원클러스터2단지</title>
+        <title>▪청라 피크원 푸르지오</title>
         <meta
           name="description"
-          content="용인푸르지오원클러스터ㅣ☎️(대표)1533-8848ㅣ용인푸르지오원클러스터2단지ㅣ견본주택ㅣ모델하우스ㅣ위치ㅣ청약ㅣ분양ㅣ분양가ㅣ공급정보ㅣ잔여세대문의ㅣ고객센터ㅣ방문예약"
+          content="청라피크원푸르지오ㅣ☎️(대표)1533-8848ㅣ청라 피크원 푸르지오ㅣ견본주택ㅣ모델하우스ㅣ위치ㅣ청약ㅣ분양ㅣ분양가ㅣ공급정보ㅣ잔여세대문의ㅣ고객센터ㅣ방문예약"
         />
-        <meta name="keywords" content="용인푸르지오원클러스터, 용인푸르지오원클러스터2단지, 용인푸르지오원클러스터2단지모델하우스" />
+        <meta name="keywords" content="청라피크원푸르지오, 청라 피크원 푸르지오, 청라 피크원 푸르지오모델하우스" />
         <meta name="robots" content="index, follow" />
-        <link rel="canonical" href="https://www.beyinegzersizi.com/" />
+        <link rel="canonical" href="https://www.bunyang-114.com/" />
 
         {/* 모바일 친화성을 위한 추가 태그 */}
         <meta name="HandheldFriendly" content="True" />
@@ -195,32 +195,32 @@ const handleInputChange = (e) => {
         {/* Open Graph - 소셜 미디어(페이스북, LinkedIn 등) 공유 최적화 */}
         <meta
           property="og:title"
-          content="▪용인푸르지오 원클러스터2단지"
+          content="▪청라 피크원 푸르지오"
         />
         <meta
           property="og:description"
-          content="용인푸르지오원클러스터ㅣ☎️(대표)1533-8848ㅣ용인푸르지오원클러스터2단지ㅣ견본주택ㅣ모델하우스ㅣ위치ㅣ청약ㅣ분양ㅣ분양가ㅣ공급정보ㅣ잔여세대문의ㅣ고객센터ㅣ방문예약"
+          content="청라피크원푸르지오ㅣ☎️(대표)1533-8848ㅣ청라 피크원 푸르지오ㅣ견본주택ㅣ모델하우스ㅣ위치ㅣ청약ㅣ분양ㅣ분양가ㅣ공급정보ㅣ잔여세대문의ㅣ고객센터ㅣ방문예약"
         />
-        <meta property="og:url" content="https://www.beyinegzersizi.com/" />
+        <meta property="og:url" content="https://www.bunyang-114.com/" />
         <meta property="og:type" content="website" />
         <meta
           property="og:image"
-          content="https://www.beyinegzersizi.com/Main1.png" // 실제 메인 이미지 URL로 변경하세요.
+          content="https://www.bunyang-114.com/Main1.png" // 실제 메인 이미지 URL로 변경하세요.
         />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="▪용인푸르지오 원클러스터2단지"
+          content="▪청라 피크원 푸르지오"
         />
         <meta
           name="twitter:description"
-          content="용인푸르지오원클러스터ㅣ☎️(대표)1533-8848ㅣ용인푸르지오원클러스터2단지ㅣ견본주택ㅣ모델하우스ㅣ위치ㅣ청약ㅣ분양ㅣ분양가ㅣ공급정보ㅣ잔여세대문의ㅣ고객센터ㅣ방문예약"
+          content="청라피크원푸르지오ㅣ☎️(대표)1533-8848ㅣ청라 피크원 푸르지오ㅣ견본주택ㅣ모델하우스ㅣ위치ㅣ청약ㅣ분양ㅣ분양가ㅣ공급정보ㅣ잔여세대문의ㅣ고객센터ㅣ방문예약"
         />
         <meta
           name="twitter:image"
-          content="https://www.beyinegzersizi.com/Main1.png" // 실제 이미지 URL로 변경하세요.
+          content="https://www.bunyang-114.com/Main1.png" // 실제 이미지 URL로 변경하세요.
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도를 높이기 위한 스키마 마크업 */}
@@ -229,15 +229,15 @@ const handleInputChange = (e) => {
       {
         "@context": "http://schema.org",
         "@type": "ApartmentComplex",
-        "name": "용인푸르지오 원클러스터2단지",
+        "name": "청라 피크원 푸르지오",
         "description": "브랜드 평판 1위 프리미엄 아파트. 방문 예약 시 신세계상품권 증정 등 다양한 혜택을 제공합니다.",
-        "url": "https://www.beyinegzersizi.com/",
-        "image": "https://www.beyinegzersizi.com/Main1.png",
+        "url": "https://www.bunyang-114.com/",
+        "image": "https://www.bunyang-114.com/Main1.png",
         "telephone": "1533-8848",
         "address": {
           "@type": "PostalAddress",
-          "streetAddress": "경기도 용인 은화삼지구",
-          "addressLocality": "용인",
+          "streetAddress": "경기도 청라 은화삼지구",
+          "addressLocality": "청라",
           "addressRegion": "경기도",
           "postalCode": "우편번호"
         }
@@ -275,7 +275,7 @@ const handleInputChange = (e) => {
             <img
               src={mainImage}
               className={styles.mainImage}
-              alt="푸르지오 원클러스터-mainimage1"
+              alt="청라피크원푸르지오-mainimage1"
             />
             <div className={styles.overlay}></div>
             <div className={styles.mainImageTextBox}>
@@ -292,7 +292,7 @@ const handleInputChange = (e) => {
                   반도체 클러스터의 중심이 될
                 </div>
                 <div className={styles.mainImageLine}></div>
-                <div className={styles.mainImageText}>푸르지오 원클러스터 2,3단지</div>
+                <div className={styles.mainImageText}>청라피크원푸르지오 </div>
               </div>
               {/* 기존 관심고객 등록 링크 대신 방문예약 버튼 클릭 시 팝업 오픈 */}
               <div>
@@ -303,7 +303,7 @@ const handleInputChange = (e) => {
                   <img
                     src={subpinkimg}
                     className={styles.subPinkImg}
-                    alt="용인푸르지오원클러스터2단지 관심고객등록"
+                    alt="청라 피크원 푸르지오 관심고객등록"
                   />
                 </button>
               </div>
@@ -323,7 +323,7 @@ const handleInputChange = (e) => {
                   경안천 수변공원으로 쾌적한 힐링 라이프 <br />
                   - 지역 내 주요 간선도로 및 교통망 개선을 통해 주요지역 연결
                   광역교통망의 중심
-                  <br />- 모두를 누리는 용인 푸르지오 원클러스터
+                  <br />- 모두를 누리는 청라 피크원 푸르지오
                 </div>
                 <div className={styles.text4}>
                   <a
@@ -340,7 +340,7 @@ const handleInputChange = (e) => {
               <div className={styles.menuBox}>
                 <img
                   src={section1_Image1}
-                  alt="용인 푸르지오 원클러스터 브랜드소개-image2"
+                  alt="청라 피크원 푸르지오 브랜드소개-image2"
                 />
                 <Link to="/Brand/video" className={styles.btn}>
                   브랜드 소개 {">"}
@@ -357,7 +357,7 @@ const handleInputChange = (e) => {
                   <br />
                   <span>
                     최고의 브랜드 아파트 <br />
-                    푸르지오 원클러스터
+                    청라피크원푸르지오
                   </span>
                 </div>
                 <div className={styles.subTitle}>
@@ -365,13 +365,13 @@ const handleInputChange = (e) => {
                   <div className={styles.subText}>
                     찬란한 비전에 완벽한 주거가치까지 더해
                     <br />
-                    푸르지오 원클러스터가 함께합니다
+                    청라피크원푸르지오가 함께합니다
                   </div>
                 </div>
               </div>
               <img
                 src={section8Img3}
-                alt="푸르지오 원클러스터 입지환경소개-image2"
+                alt="청라피크원푸르지오 입지환경소개-image2"
               />
             </div>
           </div>
@@ -385,7 +385,7 @@ const handleInputChange = (e) => {
                 <div className={`${styles.text2} fadeUpRepeat`}>
                   기대한 모든 프리미엄이
                   <br />
-                  푸르지오 원클러스터에서 펼쳐집니다
+                  청라피크원푸르지오에서 펼쳐집니다
                 </div>
                 <div className={`${styles.text3} fadeUpRepeat`}>
                   SPECIAL PLAN
@@ -405,7 +405,7 @@ const handleInputChange = (e) => {
               </div>
               <img
                 src={section2_Image1}
-                alt="푸르지오 원클러스터 아파트 조감도-image3"
+                alt="청라피크원푸르지오 아파트 조감도-image3"
               />
             </div>
           </div>
@@ -437,9 +437,9 @@ const handleInputChange = (e) => {
               <div className={styles.imageBox}>
                 <img
                   src={section4_Image1}
-                  alt="푸르지오 원클러스터 브랜드소개-image4"
+                  alt="청라피크원푸르지오 브랜드소개-image4"
                 />
-                <div className={styles.text1}>푸르지오 원클러스터</div>
+                <div className={styles.text1}>청라피크원푸르지오</div>
                 <div className={styles.text2}>THE NATURAL NOBILITY</div>
                 <div className={styles.text3}>
                   당신의 삶, 그 고귀함이 계속되길
@@ -461,7 +461,7 @@ const handleInputChange = (e) => {
   {/* 상단 타이틀 영역 (좌: 제목/부제, 우: 안내문구) */}
   <div className={styles.pcTitleRow}>
     <div className={styles.leftTitle}>
-      <h2>용인푸르지오 원클러스터2단지</h2>
+      <h2>청라 피크원 푸르지오</h2>
       <p>방문예약</p>
     </div>
     <div className={styles.rightText}>
@@ -521,7 +521,7 @@ const handleInputChange = (e) => {
             <div className={styles.section9}>
               <div className={styles.textBox}>
                 <div className={styles.title}>
-                  푸르지오 원클러스터
+                  청라피크원푸르지오
                   <br />
                   <span>견본주택 오시는길</span>
                 </div>
@@ -530,11 +530,11 @@ const handleInputChange = (e) => {
                   <div className={styles.subText}>
                     찬란한 비전에 완벽한 주거가치까지 더해
                     <br />
-                    푸르지오 원클러스터가 함께합니다
+                    청라피크원푸르지오가 함께합니다
                   </div>
                 </div>
               </div>
-              <img src={map1} alt="푸르지오 원클러스터 오시는길안내-image1" />
+              <img src={map1} alt="청라피크원푸르지오 오시는길안내-image1" />
             </div>
           </div> */}
 
@@ -588,7 +588,7 @@ const handleInputChange = (e) => {
   <img
     src={mobileImageMain}
     className={styles.mainImage}
-    alt="푸르지오 원클러스터 mobilemain-image1"
+    alt="청라피크원푸르지오 mobilemain-image1"
   />
   <div className={styles.overlay}></div>
 
@@ -609,9 +609,8 @@ const handleInputChange = (e) => {
     </div>
     <div className={styles.mainImageTitleBox1}>
       <div className={styles.mainImageText1}>
-        용인 푸르지오 원클러스터
+        청라 피크원 푸르지오
         <br />
-        2단지
       </div>
     </div>
   </div>
@@ -674,13 +673,13 @@ const handleInputChange = (e) => {
                 <div className={styles.subText}>
                   완벽한 비전중심에서 완벽한 주거가치까지 더해
                   <br />
-                  푸르지오 원클러스터가 함께합니다
+                  청라피크원푸르지오가 함께합니다
                 </div>
               </div>
             </div>
             <img
               src={section8Img3}
-              alt="푸르지오 원클러스터 mobile입지안내-image1"
+              alt="청라피크원푸르지오 mobile입지안내-image1"
             />
           </div> */}
 
@@ -692,19 +691,19 @@ const handleInputChange = (e) => {
               <div className={`${styles.text2} fadeUpRepeat`}>
                 기대한 모든 프리미엄이
                 <br />
-                푸르지오 원클러스터에서 펼쳐집니다
+                청라피크원푸르지오에서 펼쳐집니다
               </div>
               <div className={`${styles.text3} fadeUpRepeat`}>SPECIAL PLAN</div>
               <div className={`${styles.text4} fadeUpRepeat`}>
                 살수록 자부심이 차원이 다른
                 <br />
-                프리미엄 주거라이프를 푸르지오 원클러스터에서<br />
+                프리미엄 주거라이프를 청라피크원푸르지오에서<br />
                 확인하세요
               </div>
             </div>
             <img
               src={section2_Image1}
-              alt="푸르지오 원클러스터 mobile조감도-image1"
+              alt="청라피크원푸르지오 mobile조감도-image1"
             />
           </div> */}
 
@@ -736,7 +735,7 @@ const handleInputChange = (e) => {
             <div>
               <img
                 src={section1_Image1}
-                alt="푸르지오 원클러스터 브랜드소개 mobile-image5"
+                alt="청라피크원푸르지오 브랜드소개 mobile-image5"
               />
               <Link to="/Brand/intro" className={styles.btn}>
                 브랜드 소개 {">"}
@@ -746,7 +745,7 @@ const handleInputChange = (e) => {
 
           {/* 모바일 방문예약 섹션 */}
 <div className={styles.mobileVisitContainer}>
-  <h2>용인푸르지오 원클러스터2단지</h2>
+  <h2>청라 피크원 푸르지오</h2>
   <p className={styles.mobileSubTitle}>방문예약</p>
   <p className={styles.mobileInfoText}>
     방문예약 등록 시 모델하우스 주소 SMS발송 및<br />
@@ -792,7 +791,7 @@ const handleInputChange = (e) => {
             <div className={styles.section9}>
               <img
                 src={mobilemap1}
-                alt="푸르지오 원클러스터 오시는길안내-mobileimage2"
+                alt="청라피크원푸르지오 오시는길안내-mobileimage2"
               />
             </div>
           </div> */}

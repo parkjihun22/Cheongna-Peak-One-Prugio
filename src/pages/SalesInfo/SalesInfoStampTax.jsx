@@ -60,62 +60,62 @@ const ComplexGuide1 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>용인푸르지오 원클러스터2단지 - 인지세안내 </title>
+        <title>청라 피크원 푸르지오 - 인지세안내 </title>
         <meta
           name="description"
-          content="용인푸르지오 원클러스터2단지 의 인지세 안내 페이지는 분양과 관련된 세금 정보를 제공합니다. 인지세는 계약서 작성 시 부과되는 세금으로, 이를 사전에 파악하고 준비하는 것이 중요합니다. 이 페이지에서는 인지세의 계산 방법, 세액, 납부 절차 등을 쉽게 설명하여 고객들이 정확하게 준비할 수 있도록 돕습니다.
+          content="청라 피크원 푸르지오 의 인지세 안내 페이지는 분양과 관련된 세금 정보를 제공합니다. 인지세는 계약서 작성 시 부과되는 세금으로, 이를 사전에 파악하고 준비하는 것이 중요합니다. 이 페이지에서는 인지세의 계산 방법, 세액, 납부 절차 등을 쉽게 설명하여 고객들이 정확하게 준비할 수 있도록 돕습니다.
 
 "
         />
         <meta
           name="keywords"
-          content="용인푸르지오원클러스터2단지, 용인푸르지오원클러스터, 용인푸르지오원클러스터2단지모델하우스"
+          content="청라 피크원 푸르지오, 청라피크원푸르지오, 청라 피크원 푸르지오모델하우스"
         />
         <link
           rel="canonical"
-          href="https://www.beyinegzersizi.com/SalesInfo/stampTax"
+          href="https://www.bunyang-114.com/SalesInfo/stampTax"
         />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
           property="og:title"
-          content="용인푸르지오 원클러스터2단지 - 인지세안내 "
+          content="청라 피크원 푸르지오 - 인지세안내 "
         />
         <meta
           property="og:description"
-          content="용인푸르지오 원클러스터2단지 의 인지세 안내 페이지는 분양과 관련된 세금 정보를 제공합니다. 인지세는 계약서 작성 시 부과되는 세금으로, 이를 사전에 파악하고 준비하는 것이 중요합니다. 이 페이지에서는 인지세의 계산 방법, 세액, 납부 절차 등을 쉽게 설명하여 고객들이 정확하게 준비할 수 있도록 돕습니다.
+          content="청라 피크원 푸르지오 의 인지세 안내 페이지는 분양과 관련된 세금 정보를 제공합니다. 인지세는 계약서 작성 시 부과되는 세금으로, 이를 사전에 파악하고 준비하는 것이 중요합니다. 이 페이지에서는 인지세의 계산 방법, 세액, 납부 절차 등을 쉽게 설명하여 고객들이 정확하게 준비할 수 있도록 돕습니다.
 
 "
         />
         <meta
           property="og:image"
-          content="https://www.beyinegzersizi.com/Main1.png"
+          content="https://www.bunyang-114.com/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.beyinegzersizi.com/SalesInfo/stampTax"
+          content="https://www.bunyang-114.com/SalesInfo/stampTax"
         />
-        <meta property="og:site_name" content="용인푸르지오 원클러스터2단지" />
+        <meta property="og:site_name" content="청라 피크원 푸르지오" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="용인푸르지오 원클러스터2단지 - 인지세안내 "
+          content="청라 피크원 푸르지오 - 인지세안내 "
         />
         <meta
           name="twitter:description"
-          content="용인푸르지오 원클러스터2단지의 인지세 안내 페이지는 분양과 관련된 세금 정보를 제공합니다. 인지세는 계약서 작성 시 부과되는 세금으로, 이를 사전에 파악하고 준비하는 것이 중요합니다. 이 페이지에서는 인지세의 계산 방법, 세액, 납부 절차 등을 쉽게 설명하여 고객들이 정확하게 준비할 수 있도록 돕습니다.
+          content="청라 피크원 푸르지오의 인지세 안내 페이지는 분양과 관련된 세금 정보를 제공합니다. 인지세는 계약서 작성 시 부과되는 세금으로, 이를 사전에 파악하고 준비하는 것이 중요합니다. 이 페이지에서는 인지세의 계산 방법, 세액, 납부 절차 등을 쉽게 설명하여 고객들이 정확하게 준비할 수 있도록 돕습니다.
 
 "
         />
         <meta
           name="twitter:image"
-          content="https://www.beyinegzersizi.com/Main1.png"
+          content="https://www.bunyang-114.com/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.beyinegzersizi.com/SalesInfo/stampTax"
+          content="https://www.bunyang-114.com/SalesInfo/stampTax"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -124,11 +124,11 @@ const ComplexGuide1 = () => {
                                         {
                                             "@context": "https://schema.org",
                                             "@type": "WebPage",
-                                            "name": "용인푸르지오 원클러스터2단지 - 인지세안내 ",
-                                            "description": "용인푸르지오 원클러스터2단지의 인지세 안내 페이지는 분양과 관련된 세금 정보를 제공합니다. 인지세는 계약서 작성 시 부과되는 세금으로, 이를 사전에 파악하고 준비하는 것이 중요합니다. 이 페이지에서는 인지세의 계산 방법, 세액, 납부 절차 등을 쉽게 설명하여 고객들이 정확하게 준비할 수 있도록 돕습니다.
+                                            "name": "청라 피크원 푸르지오 - 인지세안내 ",
+                                            "description": "청라 피크원 푸르지오의 인지세 안내 페이지는 분양과 관련된 세금 정보를 제공합니다. 인지세는 계약서 작성 시 부과되는 세금으로, 이를 사전에 파악하고 준비하는 것이 중요합니다. 이 페이지에서는 인지세의 계산 방법, 세액, 납부 절차 등을 쉽게 설명하여 고객들이 정확하게 준비할 수 있도록 돕습니다.
 
 ",
-                                            "url": "https://www.beyinegzersizi.com/SalesInfo/stampTax"
+                                            "url": "https://www.bunyang-114.com/SalesInfo/stampTax"
                                         }
                                         `}
         </script>
@@ -142,10 +142,10 @@ const ComplexGuide1 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        용인푸르지오 원클러스터2단지 - 인지세안내
+        청라 피크원 푸르지오 - 인지세안내
       </h1>
       <p className={styles.screenReaderOnly}>
-        용인푸르지오 원클러스터2단지의 인지세 안내 페이지는 분양과 관련된 세금
+        청라 피크원 푸르지오의 인지세 안내 페이지는 분양과 관련된 세금
         정보를 제공합니다. 인지세는 계약서 작성 시 부과되는 세금으로, 이를
         사전에 파악하고 준비하는 것이 중요합니다. 이 페이지에서는 인지세의 계산
         방법, 세액, 납부 절차 등을 쉽게 설명하여 고객들이 정확하게 준비할 수
@@ -154,14 +154,14 @@ const ComplexGuide1 = () => {
 
       <div className={styles.textBox}>
         <div>인터넷 청약하는 방법을 확인하세요</div>
-        <div>소수만 누리는 프리미엄 용인푸르지오 원클러스터2단지 </div>
+        <div>소수만 누리는 프리미엄 청라 피크원 푸르지오 </div>
       </div>
 
       {/* 이미지에 애니메이션 효과 추가 */}
       {/*<img
         className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
         src={page1}
-        alt="용인푸르지오 원클러스터2단지 인지세안내-image1"
+        alt="청라 피크원 푸르지오 인지세안내-image1"
         onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
       />*/}
 

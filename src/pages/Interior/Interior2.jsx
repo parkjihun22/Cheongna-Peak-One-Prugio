@@ -64,56 +64,56 @@ const Interior2 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>용인푸르지오 원클러스터2단지 - 84A 인테리어</title>
+        <title>청라 피크원 푸르지오 - 84A 인테리어</title>
         <meta
           name="description"
-          content="84A타입의 인테리어 페이지에서는 용인푸르지오 원클러스터2단지의 고급 인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다.
+          content="84A타입의 인테리어 페이지에서는 청라 피크원 푸르지오의 고급 인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다.
 "
         />
-        <meta name="keywords" content="용인푸르지오원클러스터, 용인푸르지오원클러스터2단지, 용인푸르지오원클러스터2단지모델하우스" />
+        <meta name="keywords" content="청라피크원푸르지오, 청라 피크원 푸르지오, 청라 피크원 푸르지오모델하우스" />
         <link
           rel="canonical"
-          href="https://www.beyinegzersizi.com/Interior/84A"
+          href="https://www.bunyang-114.com/Interior/84A"
         />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
           property="og:title"
-          content="용인푸르지오 원클러스터2단지 - 84A인테리어"
+          content="청라 피크원 푸르지오 - 84A인테리어"
         />
         <meta
           property="og:description"
-          content="84A타입의 인테리어 페이지에서는 용인푸르지오 원클러스터2단지의 고급 인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다.
+          content="84A타입의 인테리어 페이지에서는 청라 피크원 푸르지오의 고급 인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다.
 "
         />
         <meta
           property="og:image"
-          content="https://www.beyinegzersizi.com/Main1.png"
+          content="https://www.bunyang-114.com/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.beyinegzersizi.com/Interior/84A"
+          content="https://www.bunyang-114.com/Interior/84A"
         />
-        <meta property="og:site_name" content="용인푸르지오 원클러스터2단지" />
+        <meta property="og:site_name" content="청라 피크원 푸르지오" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="용인푸르지오 원클러스터2단지 - 84A인테리어"
+          content="청라 피크원 푸르지오 - 84A인테리어"
         />
         <meta
           name="twitter:description"
-          content="84A타입의 인테리어 페이지에서는 용인푸르지오 원클러스터2단지의 고급 인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다.
+          content="84A타입의 인테리어 페이지에서는 청라 피크원 푸르지오의 고급 인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다.
 "
         />
         <meta
           name="twitter:image"
-          content="https://www.beyinegzersizi.com/Main1.png"
+          content="https://www.bunyang-114.com/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.beyinegzersizi.com/Interior/84A"
+          content="https://www.bunyang-114.com/Interior/84A"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -122,10 +122,10 @@ const Interior2 = () => {
 										{
 											"@context": "https://schema.org",
 											"@type": "WebPage",
-											"name": "용인푸르지오 원클러스터2단지 - 84A인테리어",
-											"description": "84A타입의 인테리어 페이지에서는 용인푸르지오 원클러스터2단지의 고급 인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다.
+											"name": "청라 피크원 푸르지오 - 84A인테리어",
+											"description": "84A타입의 인테리어 페이지에서는 청라 피크원 푸르지오의 고급 인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다.
 ",
-											"url": "https://www.beyinegzersizi.com/Interior/84A"
+											"url": "https://www.bunyang-114.com/Interior/84A"
 										}
 										`}
         </script>
@@ -139,10 +139,10 @@ const Interior2 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        용인푸르지오 원클러스터2단지 - 84A 인테리어
+        청라 피크원 푸르지오 - 84A 인테리어
       </h1>
       <p className={styles.screenReaderOnly}>
-        84A타입의 84A인테리어 페이지에서는 용인푸르지오 원클러스터2단지의 고급
+        84A타입의 84A인테리어 페이지에서는 청라 피크원 푸르지오의 고급
         84A인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A인테리어 요소들이
         결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의
         84A인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수
@@ -158,7 +158,7 @@ const Interior2 = () => {
       <img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="용인푸르지오 원클러스터2단지 84A 인테리어 안내 이미지"
+				alt="청라 피크원 푸르지오 84A 인테리어 안내 이미지"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 

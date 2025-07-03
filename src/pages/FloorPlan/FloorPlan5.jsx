@@ -65,7 +65,7 @@ const FloorPlan5 = () => {
 			<MenuBar contents={menuContents} />
 
 			<div className={styles.textBox}>
-				<div>용인 반도체클러스터의 눈부신 가치 위에</div>
+				<div>반도체클러스터의 눈부신 가치 위에</div>
 				<div>푸르지오의 새로운 자부심으로 찾아옵니다.</div>
 			</div>
 
@@ -73,7 +73,7 @@ const FloorPlan5 = () => {
 			<img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="용인 푸르지오원 클러스터 2단지 84C 평면안내 이미지"
+				alt="청라 피크원 푸르지오 84C 평면안내 이미지"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 

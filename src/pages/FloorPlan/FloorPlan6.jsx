@@ -59,12 +59,12 @@ const FloorPlan6 = () => {
 			<Header isChanged={isScroll} />
 			<FixIcon />
 
-			<Bener title="용인 푸르지오원 클러스터 119B 평면image" />
+			<Bener title="청라 피크원 푸르지오 119B 평면image" />
 
 			<MenuBar contents={menuContents} />
 
 			<div className={styles.textBox}>
-				<div>용인 반도체클러스터의 눈부신 가치 위에</div>
+				<div>반도체클러스터의 눈부신 가치 위에</div>
 				<div>푸르지오의 새로운 자부심으로 찾아옵니다.</div>
 			</div>
 

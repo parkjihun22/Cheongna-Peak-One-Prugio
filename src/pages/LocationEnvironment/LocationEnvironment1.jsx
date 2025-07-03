@@ -23,15 +23,15 @@ const LocationSection = [
   {
     img: section2Image1,
     titleText:
-      "미래가치를 높여주는<br />용인반도체 벨트 ",
+      "미래가치를 높여주는<br />청라반도체 벨트 ",
     contentText:
-      "첨단시스템 반도체 클러스터(계획), 용인반도체 클러스터 일반산업단지<br />L자형 반도체벨트의 비전을 선점하는<br />독보적 프리미엄 브랜드",
+      "첨단시스템 반도체 클러스터(계획), 청라반도체 클러스터 일반산업단지<br />L자형 반도체벨트의 비전을 선점하는<br />독보적 프리미엄 브랜드",
   },
   {
     img: section2Image2,
     titleText: "차량 10분내 대형병원 인접<br />의세권을 누리릴 수 있는 프리미엄",
     contentText:
-      "용인의 의세권을 책임지는<br />오래된 의료경력을 갖고 있는<br /> 500병상 규모 명지병원 인접",
+      "청라의 의세권을 책임지는<br />오래된 의료경력을 갖고 있는<br /> 500병상 규모 명지병원 인접",
   },
   {
     img: section2Image3,
@@ -103,59 +103,59 @@ const LocationEnvironment1 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>용인푸르지오 원클러스터2단지 - 입지환경</title>
+        <title>청라 피크원 푸르지오 - 입지환경</title>
         <meta
           name="description"
-          content="용인푸르지오 원클러스터2단지의 입지 정보를 확인하세요. 뛰어난 교통망, 생활 인프라, 교육 및 쇼핑 시설 등 편리한 주변 환경을 소개하며, 용인의 중심에서 누릴 수 있는 생활의 편리함과 가치를 제공합니다
+          content="청라 피크원 푸르지오의 입지 정보를 확인하세요. 뛰어난 교통망, 생활 인프라, 교육 및 쇼핑 시설 등 편리한 주변 환경을 소개하며, 청라의 중심에서 누릴 수 있는 생활의 편리함과 가치를 제공합니다
 "
         />
         <meta
           name="keywords"
-          content="용인푸르지오원클러스터2단지, 용인푸르지오원클러스터, 용인푸르지오원클러스터2단지모델하우스"
+          content="청라 피크원 푸르지오, 청라피크원푸르지오, 청라 피크원 푸르지오모델하우스"
         />
         <link
           rel="canonical"
-          href="https://www.beyinegzersizi.com/LocationEnvironment/intro"
+          href="https://www.bunyang-114.com/LocationEnvironment/intro"
         />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
           property="og:title"
-          content="용인푸르지오 원클러스터2단지 - 입지환경"
+          content="청라 피크원 푸르지오 - 입지환경"
         />
         <meta
           property="og:description"
-          content="용인푸르지오 원클러스터2단지의 입지 정보를 확인하세요. 뛰어난 교통망, 생활 인프라, 교육 및 쇼핑 시설 등 편리한 주변 환경을 소개하며, 용인의 중심에서 누릴 수 있는 생활의 편리함과 가치를 제공합니다
+          content="청라 피크원 푸르지오의 입지 정보를 확인하세요. 뛰어난 교통망, 생활 인프라, 교육 및 쇼핑 시설 등 편리한 주변 환경을 소개하며, 청라의 중심에서 누릴 수 있는 생활의 편리함과 가치를 제공합니다
 "
         />
         <meta
           property="og:image"
-          content="https://www.beyinegzersizi.com/Main1.png"
+          content="https://www.bunyang-114.com/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.beyinegzersizi.com/LocationEnvironment/intro"
+          content="https://www.bunyang-114.com/LocationEnvironment/intro"
         />
-        <meta property="og:site_name" content="용인푸르지오 원클러스터2단지" />
+        <meta property="og:site_name" content="청라 피크원 푸르지오" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="용인푸르지오 원클러스터2단지 - 입지환경"
+          content="청라 피크원 푸르지오 - 입지환경"
         />
         <meta
           name="twitter:description"
-          content="용인푸르지오 원클러스터2단지의 입지 정보를 확인하세요. 뛰어난 교통망, 생활 인프라, 교육 및 쇼핑 시설 등 편리한 주변 환경을 소개하며, 용인의 중심에서 누릴 수 있는 생활의 편리함과 가치를 제공합니다
+          content="청라 피크원 푸르지오의 입지 정보를 확인하세요. 뛰어난 교통망, 생활 인프라, 교육 및 쇼핑 시설 등 편리한 주변 환경을 소개하며, 청라의 중심에서 누릴 수 있는 생활의 편리함과 가치를 제공합니다
 "
         />
         <meta
           name="twitter:image"
-          content="https://www.beyinegzersizi.com/Main1.png"
+          content="https://www.bunyang-114.com/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.beyinegzersizi.com/LocationEnvironment/intro"
+          content="https://www.bunyang-114.com/LocationEnvironment/intro"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -164,10 +164,10 @@ const LocationEnvironment1 = () => {
 										{
 											"@context": "https://schema.org",
 											"@type": "WebPage",
-											"name": "용인푸르지오 원클러스터2단지 - 입지환경",
-											"description": "용인푸르지오 원클러스터2단지의 입지 정보를 확인하세요. 뛰어난 교통망, 생활 인프라, 교육 및 쇼핑 시설 등 편리한 주변 환경을 소개하며, 용인의 중심에서 누릴 수 있는 생활의 편리함과 가치를 제공합니다
+											"name": "청라 피크원 푸르지오 - 입지환경",
+											"description": "청라 피크원 푸르지오의 입지 정보를 확인하세요. 뛰어난 교통망, 생활 인프라, 교육 및 쇼핑 시설 등 편리한 주변 환경을 소개하며, 청라의 중심에서 누릴 수 있는 생활의 편리함과 가치를 제공합니다
 ",
-											"url": "https://www.beyinegzersizi.com/LocationEnvironment/intro"
+											"url": "https://www.bunyang-114.com/LocationEnvironment/intro"
 										}
 										`}
         </script>
@@ -181,11 +181,11 @@ const LocationEnvironment1 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        용인푸르지오 원클러스터2단지 - 입지안내
+        청라 피크원 푸르지오 - 입지안내
       </h1>
       <p className={styles.screenReaderOnly}>
-        용인푸르지오 원클러스터2단지의 입지 정보를 확인하세요. 뛰어난 교통망, 생활
-        인프라, 교육 및 쇼핑 시설 등 편리한 주변 환경을 소개하며, 용인의
+        청라 피크원 푸르지오의 입지 정보를 확인하세요. 뛰어난 교통망, 생활
+        인프라, 교육 및 쇼핑 시설 등 편리한 주변 환경을 소개하며, 청라의
         중심에서 누릴 수 있는 생활의 편리함과 가치를 제공합니다
       </p>
 
@@ -198,7 +198,7 @@ const LocationEnvironment1 = () => {
       <img
         src={page1}
         className={styles.image2}
-        alt="용인푸르지오 원클러스터2단지입지환경-image1"
+        alt="청라 피크원 푸르지오입지환경-image1"
       />
 
       <div className={styles.section2}>
@@ -213,31 +213,31 @@ const LocationEnvironment1 = () => {
 
       <div className={styles.commonBox}>
         <div className={styles.notice}>
-          ※본 홍보물의 내용과 지역도는 소비자의 이해를 돕기 위한 것으로, 개발 예정•계획 및 교통, 학교 계획 등에 관한 사항은 해당 기관의 아래 자료를 토대로 제작되었습니다. 사업계획 및 일정은 개발계획별 사업주체에 의해 변경될 수 있으며, 용인 푸르지오 원클러스터 사업주체 및 시공사와 무관합니다.
+          ※본 홍보물의 내용과 지역도는 소비자의 이해를 돕기 위한 것으로, 개발 예정•계획 및 교통, 학교 계획 등에 관한 사항은 해당 기관의 아래 자료를 토대로 제작되었습니다. 사업계획 및 일정은 개발계획별 사업주체에 의해 변경될 수 있으며, 청라 피크원 푸르지오 사업주체 및 시공사와 무관합니다.
         </div>
         <div className={styles.notice}>
-          ※첨단 시스템 반도체 클러스터(계획) : 국토교통부고시 제2024-853호 「용인 첨단시스템반도체 클러스터 국가산업단지 산업단지계획 및 지형도면 고시」 (2024.12.31)에 의한 것으로 향후 국토교통부에 의해 사업계획이 변경될 수 있습니다.
+          ※첨단 시스템 반도체 클러스터(계획) : 국토교통부고시 제2024-853호 「청라 첨단시스템반도체 클러스터 국가산업단지 산업단지계획 및 지형도면 고시」 (2024.12.31)에 의한 것으로 향후 국토교통부에 의해 사업계획이 변경될 수 있습니다.
         </div>
         <div className={styles.notice}>
-          ※용인 반도체 클러스터 일반산업단지(예정) : 용인시 고시 제2024-775호 「용인 반도체클러스터 일반산업단지계획(8차 변경) 승인 고시」 (2024.12.26)에 의한 것으로 향후 시행자 (용인일반산업단지(주))에 의해 사업계획이 변경될 수 있습니다.
+          ※청라 반도체 클러스터 일반산업단지(예정) : 인천시 고시 제2024-775호 「청라 반도체클러스터 일반산업단지계획(8차 변경) 승인 고시」 (2024.12.26)에 의한 것으로 향후 시행자 (청라일반산업단지(주))에 의해 사업계획이 변경될 수 있습니다.
         </div>
         <div className={styles.notice}>
-          ※용인이동 공공주택지구(계획) : 국토교통부 고시 제2025-30호「용인이동 공공주택지구 지정 고시」(2025.01.24)에 의한 것으로 향후 국토교통부에 의해 사업계획이 변경될 수 있습니다.
+          ※청라이동 공공주택지구(계획) : 국토교통부 고시 제2025-30호「청라이동 공공주택지구 지정 고시」(2025.01.24)에 의한 것으로 향후 국토교통부에 의해 사업계획이 변경될 수 있습니다.
         </div>
         <div className={styles.notice}>
-          ※경강선 연장(추진중) : 용인시 언론보도 “용인특례시, 경강선 연장’ 제5차 국가철도망계획 반영 건의” (2024.02.08)를 표현한 것으로 국토교통부 사업계획 반영은 미정입니다.
+          ※경강선 연장(추진중) : 인천시 언론보도 “청라특례시, 경강선 연장’ 제5차 국가철도망계획 반영 건의” (2024.02.08)를 표현한 것으로 국토교통부 사업계획 반영은 미정입니다.
         </div>
         <div className={styles.notice}>
           ※국지도84호선 개설(예정) : 화성시 고시 제2024-11호 「국지도84호선(중리~천리) 도로건설공사 도로구역 결정(변경) 고시」 (2024.01.04)에 의한 것으로 향후 국토교통부에 의해 사업계획이 변경될 수 있습니다.
         </div>
         <div className={styles.notice}>
-          ※국도45호선 확장(추진중) : 국토교통부 보도자료 “용인 반도체 국가산업단지 지정, 세계 최대의 ‘반도체 특화 도시’로 조성한다” (2024.12.26)에 의한 것으로 국토교통부 사업계획 반영은 미정입니다.
+          ※국도45호선 확장(추진중) : 국토교통부 보도자료 “청라 반도체 국가산업단지 지정, 세계 최대의 ‘반도체 특화 도시’로 조성한다” (2024.12.26)에 의한 것으로 국토교통부 사업계획 반영은 미정입니다.
         </div>
         <div className={styles.notice}>
-          ※국지도57호선 확장(추진중) : 용인시 언론보도 “용인특례시, 반도체 국가산단 연계 도로망 구축 박차” (2024.03.28)에 의한 것으로 국토교통부 사업계획 반영은 미정입니다.
+          ※국지도57호선 확장(추진중) : 인천시 언론보도 “청라특례시, 반도체 국가산단 연계 도로망 구축 박차” (2024.03.28)에 의한 것으로 국토교통부 사업계획 반영은 미정입니다.
         </div>
         <div className={styles.notice}>
-          ※동용인IC 신설(추진중) : 용인시 언론보도 “용인특례시, 세종-포천고속도로 ‘동용인IC’ 신설 위한 큰 관문 통과” (2023.12.22)에 의한 것으로 국토교통부 사업계획 반영은 미정입니다.
+          ※동청라IC 신설(추진중) : 인천시 언론보도 “청라특례시, 세종-포천고속도로 ‘동청라IC’ 신설 위한 큰 관문 통과” (2023.12.22)에 의한 것으로 국토교통부 사업계획 반영은 미정입니다.
         </div>
       </div>
 

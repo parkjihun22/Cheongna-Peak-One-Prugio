@@ -60,62 +60,62 @@ const ComplexGuide1 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>용인푸르지오 원클러스터2단지 - 인터넷청약 </title>
+        <title>청라 피크원 푸르지오 - 인터넷청약 </title>
         <meta
           name="description"
-          content="용인푸르지오 원클러스터2단지의 인터넷 청약은 간편하고 빠르게 분양에 참여할 수 있는 방법을 제공합니다. 온라인을 통해 청약 절차를 빠르게 진행하며, 언제 어디서든 쉽게 신청 가능합니다. 청약 전 반드시 필요한 정보와 절차를 확인하고, 청약을 통해 용인푸르지오 원클러스터2단지의 기회를 놓치지 마세요.
+          content="청라 피크원 푸르지오의 인터넷 청약은 간편하고 빠르게 분양에 참여할 수 있는 방법을 제공합니다. 온라인을 통해 청약 절차를 빠르게 진행하며, 언제 어디서든 쉽게 신청 가능합니다. 청약 전 반드시 필요한 정보와 절차를 확인하고, 청약을 통해 청라 피크원 푸르지오의 기회를 놓치지 마세요.
 
 "
         />
         <meta
           name="keywords"
-          content="용인푸르지오원클러스터2단지, 용인푸르지오원클러스터, 용인푸르지오원클러스터2단지모델하우스"
+          content="청라 피크원 푸르지오, 청라피크원푸르지오, 청라 피크원 푸르지오모델하우스"
         />
         <link
           rel="canonical"
-          href="https://www.beyinegzersizi.com/SalesInfo/guide"
+          href="https://www.bunyang-114.com/SalesInfo/guide"
         />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
           property="og:title"
-          content="용인푸르지오 원클러스터2단지 - 인터넷청약 "
+          content="청라 피크원 푸르지오 - 인터넷청약 "
         />
         <meta
           property="og:description"
-          content="용인푸르지오 원클러스터2단지의 인터넷 청약은 간편하고 빠르게 분양에 참여할 수 있는 방법을 제공합니다. 온라인을 통해 청약 절차를 빠르게 진행하며, 언제 어디서든 쉽게 신청 가능합니다. 청약 전 반드시 필요한 정보와 절차를 확인하고, 청약을 통해 용인푸르지오 원클러스터2단지의 기회를 놓치지 마세요.
+          content="청라 피크원 푸르지오의 인터넷 청약은 간편하고 빠르게 분양에 참여할 수 있는 방법을 제공합니다. 온라인을 통해 청약 절차를 빠르게 진행하며, 언제 어디서든 쉽게 신청 가능합니다. 청약 전 반드시 필요한 정보와 절차를 확인하고, 청약을 통해 청라 피크원 푸르지오의 기회를 놓치지 마세요.
 
 "
         />
         <meta
           property="og:image"
-          content="https://www.beyinegzersizi.com/Main1.png"
+          content="https://www.bunyang-114.com/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.beyinegzersizi.com/SalesInfo/guide"
+          content="https://www.bunyang-114.com/SalesInfo/guide"
         />
-        <meta property="og:site_name" content="용인푸르지오 원클러스터2단지" />
+        <meta property="og:site_name" content="청라 피크원 푸르지오" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="용인푸르지오 원클러스터2단지 - 인터넷청약 "
+          content="청라 피크원 푸르지오 - 인터넷청약 "
         />
         <meta
           name="twitter:description"
-          content="푸르지오 원클러스터2단지의 인터넷 청약은 간편하고 빠르게 분양에 참여할 수 있는 방법을 제공합니다. 온라인을 통해 청약 절차를 빠르게 진행하며, 언제 어디서든 쉽게 신청 가능합니다. 청약 전 반드시 필요한 정보와 절차를 확인하고, 청약을 통해 용인푸르지오 원클러스터2단지의 기회를 놓치지 마세요.
+          content="청라피크원푸르지오의 인터넷 청약은 간편하고 빠르게 분양에 참여할 수 있는 방법을 제공합니다. 온라인을 통해 청약 절차를 빠르게 진행하며, 언제 어디서든 쉽게 신청 가능합니다. 청약 전 반드시 필요한 정보와 절차를 확인하고, 청약을 통해 청라 피크원 푸르지오의 기회를 놓치지 마세요.
 
 "
         />
         <meta
           name="twitter:image"
-          content="https://www.beyinegzersizi.com/Main1.png"
+          content="https://www.bunyang-114.com/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.beyinegzersizi.com/SalesInfo/guide"
+          content="https://www.bunyang-114.com/SalesInfo/guide"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -124,11 +124,11 @@ const ComplexGuide1 = () => {
                                         {
                                             "@context": "https://schema.org",
                                             "@type": "WebPage",
-                                            "name": "용인푸르지오 원클러스터2단지 - 인터넷청약 ",
-                                            "description": "푸르지오 원클러스터2단지의 인터넷 청약은 간편하고 빠르게 분양에 참여할 수 있는 방법을 제공합니다. 온라인을 통해 청약 절차를 빠르게 진행하며, 언제 어디서든 쉽게 신청 가능합니다. 청약 전 반드시 필요한 정보와 절차를 확인하고, 청약을 통해 용인푸르지오 원클러스터2단지의 기회를 놓치지 마세요.
+                                            "name": "청라 피크원 푸르지오 - 인터넷청약 ",
+                                            "description": "청라피크원푸르지오의 인터넷 청약은 간편하고 빠르게 분양에 참여할 수 있는 방법을 제공합니다. 온라인을 통해 청약 절차를 빠르게 진행하며, 언제 어디서든 쉽게 신청 가능합니다. 청약 전 반드시 필요한 정보와 절차를 확인하고, 청약을 통해 청라 피크원 푸르지오의 기회를 놓치지 마세요.
 
 ",
-                                            "url": "https://www.beyinegzersizi.com/SalesInfo/guide"
+                                            "url": "https://www.bunyang-114.com/SalesInfo/guide"
                                         }
                                         `}
         </script>
@@ -142,25 +142,25 @@ const ComplexGuide1 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        용인푸르지오 원클러스터2단지 - 인터넷청약
+        청라 피크원 푸르지오 - 인터넷청약
       </h1>
       <p className={styles.screenReaderOnly}>
-        용인푸르지오 원클러스터2단지의 인터넷 청약은 간편하고 빠르게 분양에 참여할
+        청라 피크원 푸르지오의 인터넷 청약은 간편하고 빠르게 분양에 참여할
         수 있는 방법을 제공합니다. 온라인을 통해 청약 절차를 빠르게 진행하며,
         언제 어디서든 쉽게 신청 가능합니다. 청약 전 반드시 필요한 정보와 절차를
-        확인하고, 청약을 통해 용인푸르지오 원클러스터2단지의 기회를 놓치지 마세요.
+        확인하고, 청약을 통해 청라 피크원 푸르지오의 기회를 놓치지 마세요.
       </p>
 
       <div className={styles.textBox}>
         <div>인터넷 청약하는 방법을 확인하세요</div>
-        <div>소수만 누리는 프리미엄 용인푸르지오 원클러스터2단지</div>
+        <div>소수만 누리는 프리미엄 청라 피크원 푸르지오</div>
       </div>
 
       {/* 이미지에 애니메이션 효과 추가 */}
       {/*<img
         className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
         src={page1}
-        alt="용인푸르지오 원클러스터2단지 청약안내-image1"
+        alt="청라 피크원 푸르지오 청약안내-image1"
         onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
       />*/}
 

@@ -61,62 +61,62 @@ const ComplexGuide1 = () => {
         <meta name="robots" content="index, follow" />  
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>용인푸르지오 원클러스터2단지 - 체크포인트</title>
+        <title>청라 피크원 푸르지오 - 체크포인트</title>
         <meta
           name="description"
-          content="용인푸르지오 원클러스터2단지분양 전 필수 체크포인트를 확인하세요. 청약 자격, 서류 준비, 일정 등 분양 절차에서 놓치지 말아야 할 중요한 사항들을 정리해두었습니다. 정확한 정보와 절차를 통해 분양을 성공적으로 진행할 수 있도록 돕습니다.
+          content="청라 피크원 푸르지오분양 전 필수 체크포인트를 확인하세요. 청약 자격, 서류 준비, 일정 등 분양 절차에서 놓치지 말아야 할 중요한 사항들을 정리해두었습니다. 정확한 정보와 절차를 통해 분양을 성공적으로 진행할 수 있도록 돕습니다.
 
 "
         />
         <meta
           name="keywords"
-          content="용인푸르지오원클러스터2단지, 용인푸르지오원클러스터, 용인푸르지오원클러스터2단지모델하우스"
+          content="청라 피크원 푸르지오, 청라피크원푸르지오, 청라 피크원 푸르지오모델하우스"
         />
         <link
           rel="canonical"
-          href="https://www.beyinegzersizi.com/SalesInfo/SubscriptionGuide"
+          href="https://www.bunyang-114.com/SalesInfo/SubscriptionGuide"
         />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
           property="og:title"
-          content="용인푸르지오 원클러스터2단지 - 체크포인트"
+          content="청라 피크원 푸르지오 - 체크포인트"
         />
         <meta
           property="og:description"
-          content="용인푸르지오 원클러스터2단지분양 전 필수 체크포인트를 확인하세요. 청약 자격, 서류 준비, 일정 등 분양 절차에서 놓치지 말아야 할 중요한 사항들을 정리해두었습니다. 정확한 정보와 절차를 통해 분양을 성공적으로 진행할 수 있도록 돕습니다.
+          content="청라 피크원 푸르지오분양 전 필수 체크포인트를 확인하세요. 청약 자격, 서류 준비, 일정 등 분양 절차에서 놓치지 말아야 할 중요한 사항들을 정리해두었습니다. 정확한 정보와 절차를 통해 분양을 성공적으로 진행할 수 있도록 돕습니다.
 
 "
         />
         <meta
           property="og:image"
-          content="https://www.beyinegzersizi.com/Main1.png"
+          content="https://www.bunyang-114.com/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.beyinegzersizi.com/SalesInfo/SubscriptionGuide"
+          content="https://www.bunyang-114.com/SalesInfo/SubscriptionGuide"
         />
-        <meta property="og:site_name" content="용인푸르지오 원클러스터2단지" />
+        <meta property="og:site_name" content="청라 피크원 푸르지오" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="용인푸르지오 원클러스터2단지 - 체크포인트"
+          content="청라 피크원 푸르지오 - 체크포인트"
         />
         <meta
           name="twitter:description"
-          content="용인푸르지오 원클러스터2단지분양 전 필수 체크포인트를 확인하세요. 청약 자격, 서류 준비, 일정 등 분양 절차에서 놓치지 말아야 할 중요한 사항들을 정리해두었습니다. 정확한 정보와 절차를 통해 분양을 성공적으로 진행할 수 있도록 돕습니다.
+          content="청라 피크원 푸르지오분양 전 필수 체크포인트를 확인하세요. 청약 자격, 서류 준비, 일정 등 분양 절차에서 놓치지 말아야 할 중요한 사항들을 정리해두었습니다. 정확한 정보와 절차를 통해 분양을 성공적으로 진행할 수 있도록 돕습니다.
 
 "
         />
         <meta
           name="twitter:image"
-          content="https://www.beyinegzersizi.com/Main1.png"
+          content="https://www.bunyang-114.com/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.beyinegzersizi.com/SalesInfo/SubscriptionGuide"
+          content="https://www.bunyang-114.com/SalesInfo/SubscriptionGuide"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -125,11 +125,11 @@ const ComplexGuide1 = () => {
                                         {
                                             "@context": "https://schema.org",
                                             "@type": "WebPage",
-                                            "name": "용인푸르지오 원클러스터2단지 - 체크포인트",
-                                            "description": "용인푸르지오 원클러스터2단지분양 전 필수 체크포인트를 확인하세요. 청약 자격, 서류 준비, 일정 등 분양 절차에서 놓치지 말아야 할 중요한 사항들을 정리해두었습니다. 정확한 정보와 절차를 통해 분양을 성공적으로 진행할 수 있도록 돕습니다.
+                                            "name": "청라 피크원 푸르지오 - 체크포인트",
+                                            "description": "청라 피크원 푸르지오분양 전 필수 체크포인트를 확인하세요. 청약 자격, 서류 준비, 일정 등 분양 절차에서 놓치지 말아야 할 중요한 사항들을 정리해두었습니다. 정확한 정보와 절차를 통해 분양을 성공적으로 진행할 수 있도록 돕습니다.
 
 ",
-                                            "url": "https://www.beyinegzersizi.com/SalesInfo/SubscriptionGuide"
+                                            "url": "https://www.bunyang-114.com/SalesInfo/SubscriptionGuide"
                                         }
                                         `}
         </script>
@@ -143,17 +143,17 @@ const ComplexGuide1 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        용인푸르지오 원클러스터2단지 - 체크포인트
+        청라 피크원 푸르지오 - 체크포인트
       </h1>
       <p className={styles.screenReaderOnly}>
-        용인푸르지오 원클러스터2단지 분양 전 필수 체크포인트를 확인하세요. 청약
+        청라 피크원 푸르지오 분양 전 필수 체크포인트를 확인하세요. 청약
         자격, 서류 준비, 일정 등 분양 절차에서 놓치지 말아야 할 중요한 사항들을
         정리해두었습니다. 정확한 정보와 절차를 통해 분양을 성공적으로 진행할 수
         있도록 돕습니다.
       </p>
 
       <div className={styles.textBox}>
-        <div>용인푸르지오 원클러스터2단지가 눈부신 가치 위에</div>
+        <div>청라 피크원 푸르지오가 눈부신 가치 위에</div>
         <div>새로운 자부심으로 찾아옵니다.</div>
       </div>
 
@@ -161,7 +161,7 @@ const ComplexGuide1 = () => {
       <img
         className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
         src={page1}
-        alt="푸르지오 원클러스터2,3단지 청약제도 변경안내 이미지1"
+        alt="청라피크원푸르지오 청약제도 변경안내 이미지1"
         onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
       />
 
