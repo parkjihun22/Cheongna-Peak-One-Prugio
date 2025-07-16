@@ -10,6 +10,8 @@ import { Helmet } from "react-helmet-async";
 
 
 import page1 from "../../assets/ComplexGuide/ComplexGuide3/page1.jpg";
+import Ready from "../../components/Ready/Ready";
+
 
 const ComplexGuide3 = () => {
   const menuContents = [
@@ -48,83 +50,7 @@ const ComplexGuide3 = () => {
 
   return (
     <div className={styles.container}>
-      <Helmet>
-        {/* 기본 문자셋 및 모바일 최적화를 위한 meta 태그 */}
-        <meta charSet="utf-8" />
-        <meta
-          name="viewport"
-          content="width=device-width, initial-scale=1, maximum-scale=1"
-        />
-        <meta name="theme-color" content="#ffffff" />
-        <meta name="robots" content="index, follow" />
 
-        {/* SEO 최적화를 위한 메타 태그 */}
-        <title>청라 피크원 푸르지오 - 커뮤니티</title>
-        <meta
-          name="description"
-          content="청라 피크원 푸르지오의 커뮤니티 시설을 소개합니다. 피트니스 센터, 독서실, 카페 등 다양한 편의시설이 마련되어 있어 입주민의 생활 품격을 높이고, 편리함을 제공합니다.
-"
-        />
-        <meta name="keywords" content="청라피크원푸르지오, 청라 피크원 푸르지오, 청라 피크원 푸르지오모델하우스" />
-        <link
-          rel="canonical"
-          href="https://www.bunyang-114.com/ComplexGuide/community"
-        />
-
-        {/* Open Graph - 소셜 미디어 공유 최적화 */}
-        <meta
-          property="og:title"
-          content="청라 피크원 푸르지오 - 커뮤니티"
-        />
-        <meta
-          property="og:description"
-          content="청라 피크원 푸르지오의 커뮤니티 시설을 소개합니다. 피트니스 센터, 독서실, 카페 등 다양한 편의시설이 마련되어 있어 입주민의 생활 품격을 높이고, 편리함을 제공합니다.
-"
-        />
-        <meta
-          property="og:image"
-          content="https://www.bunyang-114.com/Main1.png"
-        />
-        <meta
-          property="og:url"
-          content="https://www.bunyang-114.com/ComplexGuide/community"
-        />
-        <meta property="og:site_name" content="청라 피크원 푸르지오" />
-
-        {/* Twitter 카드 설정 */}
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta
-          name="twitter:title"
-          content="청라 피크원 푸르지오 - 커뮤니티"
-        />
-        <meta
-          name="twitter:description"
-          content="청라 피크원 푸르지오의 커뮤니티 시설을 소개합니다. 피트니스 센터, 독서실, 카페 등 다양한 편의시설이 마련되어 있어 입주민의 생활 품격을 높이고, 편리함을 제공합니다.
-"
-        />
-        <meta
-          name="twitter:image"
-          content="https://www.bunyang-114.com/Main1.png"
-        />
-        <meta
-          name="twitter:url"
-          content="https://www.bunyang-114.com/ComplexGuide/community"
-        />
-
-        {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
-        <script type="application/ld+json">
-          {`
-										{
-											"@context": "https://schema.org",
-											"@type": "WebPage",
-											"name": "청라 피크원 푸르지오 - 커뮤니티",
-											"description": "청라 피크원 푸르지오의 커뮤니티 시설을 소개합니다. 피트니스 센터, 독서실, 카페 등 다양한 편의시설이 마련되어 있어 입주민의 생활 품격을 높이고, 편리함을 제공합니다.
-",
-											"url": "https://www.bunyang-114.com/ComplexGuide/community"
-										}
-										`}
-        </script>
-      </Helmet>
 
       <Header isChanged={isScroll} />
       <FixIcon />
@@ -148,12 +74,13 @@ const ComplexGuide3 = () => {
       </div>
 
       {/* 이미지에 애니메이션 효과 추가 */}
-      <img
+      {/* <img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
 				alt="청라 피크원 푸르지오 커뮤니티 안내 -image1"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
-			/>
+			/> */}
+      <Ready/>
 
 
       <Footer />

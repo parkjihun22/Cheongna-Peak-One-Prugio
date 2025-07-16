@@ -51,8 +51,8 @@ const section3Contents = [
   {
     imgSrc: section3_Image1,
     title: "PREMIUM 01",
-    text1: `3,724세대 랜드마크 푸르지오`,
-    text2: `반도체클러스터를 대표할<br />
+    text1: `1,056세대 랜드마크 푸르지오`,
+    text2: `최고 49층의 오션뷰를 누릴 수 있는<br />
 			      대단지 브랜드 프리미엄`,
     link: "/BusinessGuide/intro",
     linkText: "더 알아보기 >",
@@ -60,27 +60,27 @@ const section3Contents = [
   {
     imgSrc: section3_Image2,
     title: "PREMIUM 02",
-    text1: `여유로운 직주근접 단지`,
-    text2: `세계최대규모 반도체 클러스터<br />
-			      반도체벨트의 미래를 선점하는 수혜단지`,
+    text1: `청라를 완성할 핵심 개발비전`,
+    text2: `하나드림타운, 영상문화복합단지<br />
+			      인천로봇랜드, 청라시티타워의 수혜단지`,
     link: "/LocationEnvironment/intro",
     linkText: "더 알아보기 >",
   },
   {
     imgSrc: section3_Image3,
     title: "PREMIUM 03",
-    text1: `매머드 급 고품격 커뮤니티`,
-    text2: `대형 피트니스 센터 및<br />
-			      독서실 골프클럽 등 대규모 커뮤니티`,
+    text1: `SMART한 생활 인프라`,
+    text2: `복한쇼핑몰 + 돔구장 스타필드 청라<br />
+			      서울아산청라 병원 등 `,
     link: "/LocationEnvironment/intro",
     linkText: "더 알아보기 >",
   },
   {
     imgSrc: section3_Image4,
     title: "PREMIUM 04",
-    text1: `계약금 5%로 내집마련`,
-    text2: `입주자의 경제적 부담을 낮춘<br />
-			      내 집 마련의 기회`,
+    text1: `국제업무단지의 미래가치`,
+    text2: `대지면적 4만3천평규모의<br />
+			     주거·상업·비지니스의 자족도시`,
     link: "/LocationEnvironment/primium",
     linkText: "더 알아보기 >",
   },
@@ -170,81 +170,6 @@ const handleInputChange = (e) => {
 
   return (
     <>
-      <Helmet>
-        {/* 기본 문자셋 및 모바일 최적화를 위한 meta 태그 */}
-        <meta charSet="utf-8" />
-        <meta
-          name="viewport"
-          content="width=device-width, initial-scale=1, maximum-scale=1"
-        />
-
-        {/* SEO 최적화를 위한 메타 태그 추가 */}
-        <title>▪청라 피크원 푸르지오</title>
-        <meta
-          name="description"
-          content="청라피크원푸르지오ㅣ☎️(대표)1533-8848ㅣ청라 피크원 푸르지오ㅣ견본주택ㅣ모델하우스ㅣ위치ㅣ청약ㅣ분양ㅣ분양가ㅣ공급정보ㅣ잔여세대문의ㅣ고객센터ㅣ방문예약"
-        />
-        <meta name="keywords" content="청라피크원푸르지오, 청라 피크원 푸르지오, 청라 피크원 푸르지오모델하우스" />
-        <meta name="robots" content="index, follow" />
-        <link rel="canonical" href="https://www.bunyang-114.com/" />
-
-        {/* 모바일 친화성을 위한 추가 태그 */}
-        <meta name="HandheldFriendly" content="True" />
-        <meta name="theme-color" content="#ffffff" />
-
-        {/* Open Graph - 소셜 미디어(페이스북, LinkedIn 등) 공유 최적화 */}
-        <meta
-          property="og:title"
-          content="▪청라 피크원 푸르지오"
-        />
-        <meta
-          property="og:description"
-          content="청라피크원푸르지오ㅣ☎️(대표)1533-8848ㅣ청라 피크원 푸르지오ㅣ견본주택ㅣ모델하우스ㅣ위치ㅣ청약ㅣ분양ㅣ분양가ㅣ공급정보ㅣ잔여세대문의ㅣ고객센터ㅣ방문예약"
-        />
-        <meta property="og:url" content="https://www.bunyang-114.com/" />
-        <meta property="og:type" content="website" />
-        <meta
-          property="og:image"
-          content="https://www.bunyang-114.com/Main1.png" // 실제 메인 이미지 URL로 변경하세요.
-        />
-
-        {/* Twitter 카드 설정 */}
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta
-          name="twitter:title"
-          content="▪청라 피크원 푸르지오"
-        />
-        <meta
-          name="twitter:description"
-          content="청라피크원푸르지오ㅣ☎️(대표)1533-8848ㅣ청라 피크원 푸르지오ㅣ견본주택ㅣ모델하우스ㅣ위치ㅣ청약ㅣ분양ㅣ분양가ㅣ공급정보ㅣ잔여세대문의ㅣ고객센터ㅣ방문예약"
-        />
-        <meta
-          name="twitter:image"
-          content="https://www.bunyang-114.com/Main1.png" // 실제 이미지 URL로 변경하세요.
-        />
-
-        {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도를 높이기 위한 스키마 마크업 */}
-        <script type="application/ld+json">
-          {`
-      {
-        "@context": "http://schema.org",
-        "@type": "ApartmentComplex",
-        "name": "청라 피크원 푸르지오",
-        "description": "브랜드 평판 1위 프리미엄 아파트. 방문 예약 시 신세계상품권 증정 등 다양한 혜택을 제공합니다.",
-        "url": "https://www.bunyang-114.com/",
-        "image": "https://www.bunyang-114.com/Main1.png",
-        "telephone": "1533-8848",
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "경기도 청라 은화삼지구",
-          "addressLocality": "청라",
-          "addressRegion": "경기도",
-          "postalCode": "우편번호"
-        }
-      }
-    `}
-        </script>
-      </Helmet>
       {!isMobile ? (
         // PC 버전
         <>
@@ -280,12 +205,12 @@ const handleInputChange = (e) => {
             <div className={styles.overlay}></div>
             <div className={styles.mainImageTextBox}>
               <div className={styles.mainImageTextSub}>
-                1군 브랜드{" "}
+                최고 49층 오션뷰를 더불어{" "}
                 <span className={styles.greyText}>브랜드 프리미엄</span> |
-                3,729세대{" "}
+                1,056세대{" "}
                 <span className={styles.greyText}>메머드급 대단지</span> |
-                계약금 5%로 내집마련기회{" "}
-                <span className={styles.greyText}>착한조건</span>
+                멀티 발코니가 적용된{" "}
+                <span className={styles.greyText}>혁신설계</span>
               </div>
               <div className={styles.mainImageTitleBox}>
                 <div className={styles.mainImageText}>
@@ -319,11 +244,11 @@ const handleInputChange = (e) => {
                   " 방문 예약 고객 전원 신세계상품권 100% 증정 "
                 </div>
                 <div className={styles.text3}>
-                  - 3,724세대 메머드급 대단지 프리미엄 <br />- 은화삼 CC조망 및
-                  경안천 수변공원으로 쾌적한 힐링 라이프 <br />
-                  - 지역 내 주요 간선도로 및 교통망 개선을 통해 주요지역 연결
-                  광역교통망의 중심
-                  <br />- 모두를 누리는 청라 피크원 푸르지오
+                - 청라 최초 와이드 라이프 플랫폼
+              <br />
+              - 최고 49층 앞도적인 미래가치 랜드마크 특권 <br />
+              - 서울 아산 청라병원 (29년계획) 800병상 규모의 중증 전문병원
+              <br />- 모두를 누리는 복합주거 타운의 완성
                 </div>
                 <div className={styles.text4}>
                   <a
@@ -474,7 +399,7 @@ const handleInputChange = (e) => {
   {/* 입력 폼 */}
   <form
     className={styles.pcVisitForm}
-    action="https://formspree.io/f/mbldpwpz"
+    action="https://formspree.io/f/mpwlzlyv"
     method="POST"
   >
     <label htmlFor="name">
@@ -595,17 +520,17 @@ const handleInputChange = (e) => {
   {/* 기존 텍스트 */}
   <div className={styles.mainImageTextBox1}>
     <div className={styles.mainImageTextSub1}>
-      최첨단 반도체클러스터 중심의
+      최고 49층 랜드마크 특권
       <br />
       <span className={styles.greyText1}>높은 미래가치</span>
       <br />
-      1군브랜드
+      모두가 꿈꾸던 오션뷰 프리미엄
       <br />
       <span className={styles.greyText1}>브랜드 프리미엄</span>
       <br />
-      계약금 5%로 내집마련기회
+      멀티 발코니가 적용된 주거형 공간
       <br />
-      <span className={styles.greyText1}>착한조건</span>
+      <span className={styles.greyText1}>혁신설계</span>
     </div>
     <div className={styles.mainImageTitleBox1}>
       <div className={styles.mainImageText1}>
@@ -622,15 +547,14 @@ const handleInputChange = (e) => {
           <div className={styles.container1}>
             <div className={styles.text1}>Location</div>
             <div className={styles.text2}>
-              방문예약을 하시면 신세계 상품권 100% 증정
+              인천 청라 피크원 푸르지오의 중요 POINT
             </div>
             <div className={styles.text3}>
-              - 3,724세대 메머드급 대단지 프리미엄
+              - 청라 최초 와이드 라이프 플랫폼
               <br />
-              - 은화삼 CC조망 및 경안천 수변공원으로 쾌적한 힐링 라이프 <br />
-              - 지역 내 주요 간선도로 및 교통망 개선을 통해 <br /> 주요지역 연결
-              - 광역교통망의 중심
-              <br />- 모두를 누리는 반도체밸리 주거 타운의 완성
+              - 최고 49층 앞도적인 미래가치 랜드마크 특권 <br />
+              - 서울 아산 청라병원 (29년계획) 800병상 규모의 중증 전문병원
+              <br />- 모두를 누리는 복합주거 타운의 완성
             </div>
             <div className={styles.text4}>
               {/* 외부 링크 대신 방문예약 클릭 시 팝업 호출 */}
@@ -754,7 +678,7 @@ const handleInputChange = (e) => {
 
   <form
     className={styles.mobileVisitForm}
-    action="https://formspree.io/f/mbldpwpz"
+    action="https://formspree.io/f/mpwlzlyv"
     method="POST"
   >
     <label htmlFor="name">
@@ -779,6 +703,17 @@ const handleInputChange = (e) => {
       value={registration.phone}
       onChange={handleInputChange}
       required
+    />
+
+<label htmlFor="message">
+      문의 내용
+    </label>
+    <textarea
+      name="message"
+      placeholder="문의 내용이 있을 경우 이곳에 남겨주세요."
+      value={registration.message}
+      onChange={handleInputChange}
+      rows={5}
     />
 
 

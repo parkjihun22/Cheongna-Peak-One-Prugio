@@ -15,7 +15,7 @@
     /* gif 배너 높이 + 안전 영역(top) */
     height: calc(var(--gif-banner-height) + env(safe-area-inset-top, 0px));
     text-align: center;
-    background-color: #04372e;
+    background-color: #095052;
     position: fixed;
     top: 0;
     left: 0;
@@ -73,7 +73,7 @@
   
   /* 로고: 기존 크기 유지 */
   .logo {
-    width: 20vw;
+    width: 8vw;
     height: auto;
   }
   
@@ -81,7 +81,7 @@
   .itemBox {
     display: flex;
     flex-direction: row;
-    gap: 1.1rem;
+    gap: 2rem;
     align-items: center;
   }
   
@@ -89,7 +89,8 @@
   .consultLink {
     font-family: 'MinSans-Regular';
     text-decoration: none;
-    font-size: 0.85vw;
+    margin-top: 0.1vw;
+    font-size: 0.9vw;
     color: #FFFFFF;
     padding: 0.5vw 0;
     transition: color 0.3s ease;
@@ -185,7 +186,7 @@
   
     .logo {
      
-      width: 45vw;
+      width: 30vw;
     }
     .icon {
       margin: 1vw 3.5vw;

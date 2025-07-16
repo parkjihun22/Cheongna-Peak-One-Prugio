@@ -29,33 +29,26 @@ const items = [
         <li>
           <strong>대지위치</strong>
           <span>
-            [1단지] 인천시 처인구 남동 산126-13<br />
-            [2단지] 인천시 처인구 남동 산126-1일원<br />
-            [3단지] 인천시 처인구 남동 243일원
+            인천광역시 서구 청라동 86-6번지 <br />[청라국제도시 업무용지 B1]
+
           </span>
         </li>
         <li>
           <strong>건축규모</strong>
           <span>
-            [1단지] 지하 4층 ~ 지상 28층<br />
-            [2단지] 지하 3층 ~ 지상 28층<br />
-            [3단지] 지하 4층 ~ 지상 26층
+            지하 5층 ~ 지상 49층 총 4개동
           </span>
         </li>
         <li>
           <strong>주택형</strong>
           <span>
-            [1단지] 59A·B / 84A·B·C / 130㎡<br />
-            [2단지] 59A·B / 84A·B·C<br />
-            [3단지] 84A·B·C
+            전용 84OA, 84OB / 전용 119OA, 119OB, 119OC<br />
           </span>
         </li>
         <li>
           <strong>세대수</strong>
           <span>
-            [1단지] 1,681세대<br />
-            [2단지] 1,804세대<br />
-            [3단지] 239세대
+           총 1,056세대
           </span>
         </li>
       </ul>
@@ -71,11 +64,11 @@ const items = [
           className={styles.mapImage}
           alt="입지환경 지도 1"
         />
-        <img
+        {/* <img
           src={mobileMap2}
           className={styles.mapImage}
           alt="입지환경 지도 2"
-        />
+        /> */}
       </div>
     ),
   },
@@ -88,8 +81,8 @@ const items = [
         <div className={styles.premiumIntro}>
           <h3 className={styles.premiumTitle}>GREAT PREMIUM</h3>
           <p className={styles.premiumSubtitle}>
-            반도체 클러스터의 중심으로 사는<br />
-            최고의 브랜드 아파트
+            청라의 랜드마크에서 사는<br />
+            최고의 1군 브랜드 아파트
           </p>
         </div>
         {/* 슬라이더 */}
@@ -103,37 +96,37 @@ function PremiumSlider() {
   const slides = [
     {
       img: slide1,
-      title: "미래가치를 높여주는 청라반도체벨트",
+      title: "국제업무단지의 눈부치 미래가치",
       desc:
-        "삼성 · SK하이닉스 반도체 클러스터(계획), <br />청라반도체 클러스터 일반산업단지 L자형 반도체벨트의 비전",
+        "대규모 복합단지로 조성될, <br />대지면적 약 4만3천평 규모 <br /> 주거-상업-비지니시를 잇는 자족도시",
     },
     {
       img: slide2,
       title: "의세권을 누리릴 수 있는 프리미엄",
       desc:
-        "오래된 의료경력을 갖고 있는<br />500병상 규모 명지병원 인접",
+        "서울 아산 청라병원 (29년계획)<br />800병상 규모의 글로벌 중증 전문병원",
     },
     {
       img: slide3,
-      title: "광역으로 통하는 특급 교통",
+      title: "서울-인천-경기를 잇는 특급교통",
       desc:
-        "국도42호선,국도45호선, 세종-포천고속도로 등 <br />편리한 교통망에 더해지는 반도체 클러스터",
+        "7호선 국제업무단지역 27년 연장계통 예정 <br />제 3연륙교(25년 개통예정), 제2외곽순환도로 등 ",
     },
     {
       img: slide4,
       title: "학교, 쇼핑,병원, 문화를 더 가깝게 <br /> 한걸음에 SMART 인프라",
-      desc: "대형 피트니스, 골프연습장, 독서실 등 입주민 전용 시설",
+      desc: "단지 인근 초등학교, 영상 문화 단지 , 코스트코(운영중) , 문학공원 등",
     },
     {
       img: slide5,
-      title: "3,724세대 푸르지오 대단지 프리미엄",
+      title: "1,056세대 푸르지오 대단지 프리미엄",
       desc:
-        "총 3,724세대 청라피크원푸르지오 메가타운으로 찾아옵니다",
+        "총 1,056세대 청라피크원푸르지오로 찾아옵니다",
     },
     {
       img: slide6,
       title: "확정된 미래가치 보장",
-      desc: "반도체 클러스터 연계 기대수익 및 브랜드 가치 상승",
+      desc: "청라 최초의 와이드 플랫폼 프리미엄",
     },
   ];
 
@@ -203,7 +196,7 @@ export default function MobileOverviewSection() {
     <section className={styles.overviewSection}>
       {/* ─── 헤더 영역 ─── */}
       <header className={styles.overviewHeader}>
-        <div className={styles.preTitle}>ONE CLUSTER BUSINESS</div>
+        <div className={styles.preTitle}>PEAKONE PRUGIO BUSINESS</div>
         <div className={styles.line} />
         <h2 className={styles.mainTitle}>사업안내</h2>
       </header>
