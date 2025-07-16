@@ -214,7 +214,7 @@ const handleInputChange = (e) => {
               </div>
               <div className={styles.mainImageTitleBox}>
                 <div className={styles.mainImageText}>
-                  반도체 클러스터의 중심이 될
+                  청라의 대표 랜드마크
                 </div>
                 <div className={styles.mainImageLine}></div>
                 <div className={styles.mainImageText}>청라피크원푸르지오 </div>
