@@ -20,7 +20,7 @@ const Bener = ({ title }) => {
             <img
                 className={`${styles.benerImage} ${isLoaded ? styles.showImage : ''}`}
                 src={img}
-                alt="청라 피크원 푸르지오-benerimage"
+                alt="청라 피크원 푸르지오 배너 이미지"
             />
             <div className={styles.overlay}></div>
             <div
@@ -82,7 +82,7 @@ const contents = (text, isLoaded) => {
                 </div>
             </>
         );
-    } else if (text === '단지안내') {
+    } else if (text === '단지안내' || text === 'E-모델하우스' ) {
         return (
             <>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>

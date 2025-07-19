@@ -607,7 +607,7 @@ const handleInputChange = (e) => {
             />
           </div> */}
 
-          {/* <div className={styles.container3}>
+          <div className={styles.container3}>
             <div className={styles.textbox}>
               <div className={`${styles.text1} fadeUpRepeat`}>
                 완벽한 생활에서 준비된 미래까지
@@ -629,7 +629,7 @@ const handleInputChange = (e) => {
               src={section2_Image1}
               alt="청라피크원푸르지오 mobile조감도-image1"
             />
-          </div> */}
+          </div>
 
           <UnitInfoSection />
 

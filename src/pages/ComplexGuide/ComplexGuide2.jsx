@@ -9,8 +9,8 @@ import FixIcon from "../../components/FixIcon/FixIcon";
 import { Helmet } from "react-helmet-async";
 
 
-// import page1 from "../../assets/ComplexGuide/ComplexGuide2/page1.webp";
-import Ready from "../../components/Ready/Ready";
+import page1 from "../../assets/ComplexGuide/ComplexGuide2/page1.webp";
+
 
 const ComplexGuide1 = () => {
   const menuContents = [
@@ -70,13 +70,13 @@ const ComplexGuide1 = () => {
       </div>
 
       {/* 이미지에 애니메이션 효과 추가 */}
-      {/* <img
+      <img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
 				alt="청라 피크원 푸르지오 호수배치도-image1"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
-			/> */}
-      <Ready/>
+			/>
+
 
   
 

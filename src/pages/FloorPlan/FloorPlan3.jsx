@@ -10,15 +10,15 @@ import FixIcon from "../../components/FixIcon/FixIcon";
 import HelmetCOM from "../../components/HelmetCOM/HelmetCOM";
 import { Helmet } from "react-helmet-async";
 
-import page1 from "../../assets/FloorPlan/FloorPlan3/page1.jpg"
+import page1 from "../../assets/FloorPlan/FloorPlan3/unit03.jpg"
 
 const FloorPlan3 = () => {
 	const menuContents = [
-		{ title: "59A", url: "/FloorPlan/59A" },
-		{ title: "59B", url: "/FloorPlan/59B" },
-		{ title: "84A", url: "/FloorPlan/84A" },
-		{ title: "84B", url: "/FloorPlan/84B" },
-		{ title: "84C", url: "/FloorPlan/114A" },
+		{ title: "84OA", url: "/FloorPlan/59A" },
+		{ title: "84OB", url: "/FloorPlan/59B" },
+		{ title: "119OA", url: "/FloorPlan/84A" },
+		{ title: "119OB", url: "/FloorPlan/84B" },
+		{ title: "119OC", url: "/FloorPlan/114A" },
 		// { title: "세대안내영상", url: "/FloorPlan/videos" }, // 세대안내영상 링크
 		{ title: "E-모델하우스", url: "/FloorPlan/Emodel" },
 	
@@ -73,7 +73,7 @@ const FloorPlan3 = () => {
 			<img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="청라 피크원 푸르지오 84A 평면안내 이미지"
+				alt="청라 피크원 푸르지오 119OA 평면안내 이미지"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 

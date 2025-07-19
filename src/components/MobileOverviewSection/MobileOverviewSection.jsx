@@ -7,7 +7,7 @@ import styles from "./MobileOverviewSection.module.scss";
 import heroImage from "../../assets/Main/heroImage.jpg";
 // 2) 입지환경 지도
 import mobileMap from "../../assets/LocationEnvironment/LocationEnvironment1/page1.jpg";
-import mobileMap2 from "../../assets/LocationEnvironment/LocationEnvironment2/page2.jpg";
+import mobileMap2 from "../../assets/LocationEnvironment/LocationEnvironment2/premium02.jpg";
 // 3) 프리미엄 슬라이드 이미지들
 import slide1 from "../../assets/LocationEnvironment/LocationEnvironment1/session2-1.jpg";
 import slide2 from "../../assets/LocationEnvironment/LocationEnvironment1/session2-2.jpg";

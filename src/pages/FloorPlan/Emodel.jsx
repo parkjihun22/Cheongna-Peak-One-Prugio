@@ -11,20 +11,21 @@ import { Helmet } from "react-helmet-async";
 
 const Emodel = () => {
   const menuContents = [
-    { title: "59A", key: "59A" },
-    { title: "59B", key: "59B" },
-    { title: "84A", key: "84A" },
-    { title: "84B", key: "84B" },
+
+    { title: "84OA", key: "84OA" },
+    { title: "84OB", key: "84OB" },
+    { title: "119OA", key: "119OA" },
+    // { title: "84B", key: "84B" },
   ];
 
   const vrUrls = {
-    "59A": "https://www.prugio.com/hb/2025/onecluster/vr/59a.html",
-    "59B": "https://www.prugio.com/hb/2025/onecluster/vr/59b.html",
-    "84A": "https://www.prugio.com/hb/2025/onecluster/vr/84a.html",
-    "84B": "https://www.prugio.com/hb/2025/onecluster/vr/84b.html",
+    "84OA": "https://www.peakone-prugio.co.kr/vr/tour1.html",
+    "84OB": "https://www.peakone-prugio.co.kr/vr/tour2.html",
+    "119OA": "https://www.peakone-prugio.co.kr/vr/tour3.html",
+
   };
 
-  const [selectedType, setSelectedType] = useState("59A");
+  const [selectedType, setSelectedType] = useState("84OA");
   const { pathname } = useLocation();
   const [isScroll, setIsScroll] = useState(false);
 

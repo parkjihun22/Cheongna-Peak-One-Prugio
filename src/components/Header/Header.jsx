@@ -29,15 +29,15 @@ const menuArray = [
       // { subTitle: "선착순계약 서류안내", subUrl: "/BusinessGuide/documents" },
     ],
   },
-  // {
-  //   title: "청약안내",
-  //   subMenu: [
-  //     { subTitle: "청약제도변경", subUrl: "/SalesInfo/SubscriptionGuide" },
-  //     // { subTitle: "인터넷청약", subUrl: "/SalesInfo/guide" },
-  //     { subTitle: "모집공고안내", subUrl: "/SalesInfo/announcement" },
-  //     // { subTitle: "인지세납부안내", subUrl: "/SalesInfo/stampTax" },
-  //   ],
-  // },
+  {
+    title: "청약안내",
+    subMenu: [
+      { subTitle: "청약안내", subUrl: "/SalesInfo/SubscriptionGuide" },
+      { subTitle: "청약체크포인트", subUrl: "/SalesInfo/guide" },
+      { subTitle: "모집공고안내", subUrl: "/SalesInfo/announcement" },
+      // { subTitle: "인지세납부안내", subUrl: "/SalesInfo/stampTax" },
+    ],
+  },
   {
     title: "입지환경",
     subMenu: [
@@ -54,18 +54,18 @@ const menuArray = [
       { subTitle: "커뮤니티", subUrl: "/ComplexGuide/community" },
     ],
   },
-  // {
-  //   title: "세대안내",
-  //   subMenu: [
-  //     { subTitle: "59A", subUrl: "/FloorPlan/59A" },
-  //     { subTitle: "59B", subUrl: "/FloorPlan/59B" },
-  //     { subTitle: "84A", subUrl: "/FloorPlan/84A" },
-  //     { subTitle: "84B", subUrl: "/FloorPlan/84B" },
-  //     { subTitle: "84C", subUrl: "/FloorPlan/114A" },
-  //     { subTitle: "E-모델하우스", subUrl: "/FloorPlan/Emodel" },
+  {
+    title: "세대안내",
+    subMenu: [
+      { subTitle: "84OA", subUrl: "/FloorPlan/59A" },
+      { subTitle: "84OB", subUrl: "/FloorPlan/59B" },
+      { subTitle: "119OA", subUrl: "/FloorPlan/84A" },
+      { subTitle: "119OB", subUrl: "/FloorPlan/84B" },
+      { subTitle: "119OC", subUrl: "/FloorPlan/114A" },
+      { subTitle: "E-모델하우스", subUrl: "/FloorPlan/Emodel" },
 
-  //   ],
-  // },
+    ],
+  },
   // {
   //   title: "인테리어",
   //   subMenu: [
