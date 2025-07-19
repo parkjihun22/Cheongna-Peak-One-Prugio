@@ -75,7 +75,7 @@ const FloorPlan1 = () => {
       </p>
 
       <div className={styles.textBox}>
-        <div>반도체클러스터의 눈부신 가치 위에</div>
+        <div>인천청라의 눈부신 가치 위에</div>
         <div>푸르지오의 새로운 자부심으로 찾아옵니다.</div>
       </div>
 
