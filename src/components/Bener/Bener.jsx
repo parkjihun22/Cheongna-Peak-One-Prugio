@@ -47,7 +47,7 @@ const contents = (text, isLoaded) => {
                     지친 하루를 마치고 가장 나에 가까운 본연의 모습으로 돌아와 누리는 프리미엄입니다.
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    반도체 클러스터의 중심 
+                    인천청라의 중심 
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
                     NO.1 브랜드 청라 피크원 푸르지오와 함께합니다.

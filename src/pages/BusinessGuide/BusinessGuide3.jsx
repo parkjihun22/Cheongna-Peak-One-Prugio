@@ -70,7 +70,7 @@ const BusinessGuide2 = () => {
 			<p className={styles.screenReaderOnly}>계약서류안내 페이지지에서는 분양 당첨 후 필요한 서류들에 대해 안내합니다. 계약 체결을 위해 준비해야 할 서류 목록과 함께, 각 서류의 제출 기한과 정확한 준비 방법을 안내하여 고객들이 혼동 없이 준비할 수 있도록 돕습니다.</p>
 
 			<div className={styles.textBox}>
-				<div>청라 반도체클러스터의 눈부신 가치 위에</div>
+				<div>청라의 눈부신 가치 위에</div>
 				<div>청라 피크원 푸르지오의 새로운 자부심으로 찾아옵니다.</div>
 			</div>
 

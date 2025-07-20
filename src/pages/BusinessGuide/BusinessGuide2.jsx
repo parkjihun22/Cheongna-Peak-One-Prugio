@@ -64,7 +64,7 @@ const BusinessGuide2 = () => {
             </p>
 
             <div className={styles.textBox}>
-                <div>반도체클러스터의 눈부신 가치 위에</div>
+                <div>인천 청라의 눈부신 가치 위에</div>
                 <div>청라 피크원 푸르지오의 새로운 자부심으로 찾아옵니다.</div>
             </div>
 

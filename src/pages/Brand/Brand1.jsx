@@ -63,7 +63,7 @@ const Brand1 = () => {
 
             <div className={`${styles.textBox} ${isTextVisible ? styles.active : ''}`}>
                 <div>생활의 모든 것을 한걸음에</div>
-                <div>푸르지오, 반도체클러스터의 중심에 서다</div>
+                <div>푸르지오, 청라의 중심에 서다</div>
 </div>
 
             <img className={`${styles.image} ${isImageVisible ? styles.visible : ''}`} src={page1} alt="청라피크원푸르지오 brand-Image1" />
