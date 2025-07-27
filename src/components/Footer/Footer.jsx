@@ -11,7 +11,7 @@ import InterestPopup from "../InterestPopup/InterestPopup";
 
 // FAMILY SITE 목록 예시
 const partnerSites = [
-  { name: "청라 피크원 푸르지오", url: "https://www.beyinegzersizi.com" },
+  { name: "청라 피크원 푸르지오", url: "https://www.bunyang-114.com/" },
 ];
 
 const Footer = () => {

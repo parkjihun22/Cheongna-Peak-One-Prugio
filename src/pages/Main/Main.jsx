@@ -588,7 +588,7 @@ const handleInputChange = (e) => {
           {/* <div className={styles.container7}>
             <div className={styles.textBox}>
               <div className={styles.title}>
-                반도체 클러스터의 중심으로 사는
+               인천청라의 중심으로 사는
                 <br />
                 <span>최고의 브랜드 아파트</span>
               </div>
