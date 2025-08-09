@@ -20,7 +20,7 @@ const Bener = ({ title }) => {
             <img
                 className={`${styles.benerImage} ${isLoaded ? styles.showImage : ''}`}
                 src={img}
-                alt="청라 피크원 푸르지오 배너 이미지"
+                alt="호현 센트럴 아이파크 배너 이미지"
             />
             <div className={styles.overlay}></div>
             <div
@@ -40,17 +40,17 @@ const Bener = ({ title }) => {
 export default Bener;
 
 const contents = (text, isLoaded) => {
-    if (text === '푸르지오' || text === '홍보영상' || text === '체크포인트'| text === '당첨자서류안내') {
+    if (text === '아이파크' || text === '홍보영상' || text === '체크포인트'| text === '당첨자서류안내') {
         return (
             <>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
                     지친 하루를 마치고 가장 나에 가까운 본연의 모습으로 돌아와 누리는 프리미엄입니다.
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    인천청라의 중심 
+                    안양의 중심 
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    NO.1 브랜드 청라 피크원 푸르지오와 함께합니다.
+                    NO.1 브랜드 호현 센트럴 아이파크와 함께합니다.
                 </div>
             </>
         );
@@ -58,16 +58,16 @@ const contents = (text, isLoaded) => {
         return (
             <>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    푸르지오가 선택한 새도시!
+                    아이파크가 선택한 새도시!
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                   청라 최초의 와이드 플랫폼 프리미엄
+                   안양 최초의 와이드 플랫폼 프리미엄
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
                     가장 높은 브랜드의 첫 시작
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    청라 피크원 푸르지오
+                    호현 센트럴 아이파크
                 </div>
             </>
         );
@@ -78,7 +78,7 @@ const contents = (text, isLoaded) => {
                     수준 높은 생활, 첨단신도시내 착한 브랜드 아파트
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    기대하던 모든 프리미엄이 청라 피크원 푸르지오에서 펼쳐집니다
+                    기대하던 모든 프리미엄이 호현 센트럴 아이파크에서 펼쳐집니다
                 </div>
             </>
         );
@@ -92,7 +92,7 @@ const contents = (text, isLoaded) => {
                     편리한 생활을 위한 최적의 공간설계
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    소수에게만 허락된 청라 피크원 푸르지오 청라의 핵심중심에 찾아옵니다
+                    소수에게만 허락된 호현 센트럴 아이파크 안양의 핵심중심에 찾아옵니다
                 </div>
             </>
         );

@@ -13,8 +13,8 @@ import { Helmet } from "react-helmet-async";
 
 
 const projectData = [
-	{ label: '사업명', value: '청라 피크원 푸르지오' },
-	{ label: '사업위치', value: '인천광역시 서구 청라동 86-6번지 (청라국제도시 업무용지 B1)' },
+	{ label: '사업명', value: '호현 센트럴 아이파크' },
+	{ label: '사업위치', value: '인천광역시 서구 안양동 86-6번지 (안양국제도시 업무용지 B1)' },
 	{ label: '대지면적', value: '21,085.5000㎡' },
 	{ label: '연면적', value: '247,428.4968㎡' },
 	{ label: '용적률', value: '229.55%' },
@@ -63,17 +63,17 @@ const BusinessGuide1 = () => {
 
 			<MenuBar contents={menuContents} />
 			{/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
-			<h1 className={styles.screenReaderOnly}>청라피크원푸르지오 - 사업안내</h1>
+			<h1 className={styles.screenReaderOnly}>호현센트럴아이파크 - 사업안내</h1>
 			<p className={styles.screenReaderOnly}>
-			청라피크원푸르지오는 혁신적인 주거 환경을 제공하는 새로운 아파트 단지입니다. 이 페이지에서는 프로젝트의 전체적인 개요와 개발 계획을 상세히 소개합니다. 사업의 목적, 주요 설계 및 특징, 그리고 주변 환경을 포함한 다양한 정보를 통해 입주자들에게 더 나은 선택을 할 수 있도록 돕습니다.
+			호현센트럴아이파크는 혁신적인 주거 환경을 제공하는 새로운 아파트 단지입니다. 이 페이지에서는 프로젝트의 전체적인 개요와 개발 계획을 상세히 소개합니다. 사업의 목적, 주요 설계 및 특징, 그리고 주변 환경을 포함한 다양한 정보를 통해 입주자들에게 더 나은 선택을 할 수 있도록 돕습니다.
 			</p>
 
 			<div className={styles.textBox}>
 				<div>특별한 라이프 컬렉션</div>
-				<div>청라피크원푸르지오의 새로운 자부심으로 찾아옵니다.</div>
+				<div>호현센트럴아이파크의 새로운 자부심으로 찾아옵니다.</div>
 			</div>
 
-			<img className={styles.img3} src={page1} alt="청라피크원푸르지오-image1"/>
+			<img className={styles.img3} src={page1} alt="호현센트럴아이파크-image1"/>
 
 			<div className={styles.tableContainer}>
 				{!isMobile && <img className={styles.tableImg} src={tableImage} />}

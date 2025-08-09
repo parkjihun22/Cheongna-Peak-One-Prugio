@@ -63,10 +63,10 @@ const Interior2 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        청라 피크원 푸르지오 - 84A 인테리어
+        호현 센트럴 아이파크 - 84A 인테리어
       </h1>
       <p className={styles.screenReaderOnly}>
-        84A타입의 84A인테리어 페이지에서는 청라 피크원 푸르지오의 고급
+        84A타입의 84A인테리어 페이지에서는 호현 센트럴 아이파크의 고급
         84A인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A인테리어 요소들이
         결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의
         84A인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수
@@ -74,7 +74,7 @@ const Interior2 = () => {
       </p>
 
       <div className={styles.textBox}>
-        <div>대우건설 푸르지오, 청라의 눈부신 가치 위에</div>
+        <div>대우건설 아이파크, 안양의 눈부신 가치 위에</div>
         <div>새로운 자부심으로 찾아옵니다.</div>
       </div>
 
@@ -82,7 +82,7 @@ const Interior2 = () => {
       <img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="청라 피크원 푸르지오 84A 인테리어 안내 이미지"
+				alt="호현 센트럴 아이파크 84A 인테리어 안내 이미지"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 

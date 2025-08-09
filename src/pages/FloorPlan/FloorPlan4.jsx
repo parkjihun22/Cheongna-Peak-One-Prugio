@@ -65,15 +65,15 @@ const FloorPlan4 = () => {
 			<MenuBar contents={menuContents} />
 
 			<div className={styles.textBox}>
-				<div>인천청라의 눈부신 가치 위에</div>
-				<div>푸르지오의 새로운 자부심으로 찾아옵니다.</div>
+				<div>안양의 눈부신 가치 위에</div>
+				<div>아이파크의 새로운 자부심으로 찾아옵니다.</div>
 			</div>
 
 			{/* 이미지에 애니메이션 효과 추가 */}
 			<img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="청라 피크원 푸르지오 119OB 평면안내 이미지"
+				alt="호현 센트럴 아이파크 119OB 평면안내 이미지"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 

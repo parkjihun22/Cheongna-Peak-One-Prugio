@@ -59,10 +59,10 @@ const ComplexGuide1 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        청라 피크원 푸르지오 - 인지세안내
+        호현 센트럴 아이파크 - 인지세안내
       </h1>
       <p className={styles.screenReaderOnly}>
-        청라 피크원 푸르지오의 인지세 안내 페이지는 분양과 관련된 세금
+        호현 센트럴 아이파크의 인지세 안내 페이지는 분양과 관련된 세금
         정보를 제공합니다. 인지세는 계약서 작성 시 부과되는 세금으로, 이를
         사전에 파악하고 준비하는 것이 중요합니다. 이 페이지에서는 인지세의 계산
         방법, 세액, 납부 절차 등을 쉽게 설명하여 고객들이 정확하게 준비할 수
@@ -71,14 +71,14 @@ const ComplexGuide1 = () => {
 
       <div className={styles.textBox}>
         <div>인터넷 청약하는 방법을 확인하세요</div>
-        <div>소수만 누리는 프리미엄 청라 피크원 푸르지오 </div>
+        <div>소수만 누리는 프리미엄 호현 센트럴 아이파크 </div>
       </div>
 
       {/* 이미지에 애니메이션 효과 추가 */}
       {/*<img
         className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
         src={page1}
-        alt="청라 피크원 푸르지오 인지세안내-image1"
+        alt="호현 센트럴 아이파크 인지세안내-image1"
         onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
       />*/}
 

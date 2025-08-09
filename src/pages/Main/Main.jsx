@@ -51,7 +51,7 @@ const section3Contents = [
   {
     imgSrc: section3_Image1,
     title: "PREMIUM 01",
-    text1: `1,056세대 랜드마크 푸르지오`,
+    text1: `1,056세대 랜드마크 아이파크`,
     text2: `최고 49층의 오션뷰를 누릴 수 있는<br />
 			      대단지 브랜드 프리미엄`,
     link: "/BusinessGuide/intro",
@@ -60,9 +60,9 @@ const section3Contents = [
   {
     imgSrc: section3_Image2,
     title: "PREMIUM 02",
-    text1: `청라를 완성할 핵심 개발비전`,
+    text1: `안양를 완성할 핵심 개발비전`,
     text2: `하나드림타운, 영상문화복합단지<br />
-			      인천로봇랜드, 청라시티타워의 수혜단지`,
+			      인천로봇랜드, 안양시티타워의 수혜단지`,
     link: "/LocationEnvironment/intro",
     linkText: "더 알아보기 >",
   },
@@ -70,8 +70,8 @@ const section3Contents = [
     imgSrc: section3_Image3,
     title: "PREMIUM 03",
     text1: `SMART한 생활 인프라`,
-    text2: `복한쇼핑몰 + 돔구장 스타필드 청라<br />
-			      서울아산청라 병원 등 `,
+    text2: `복한쇼핑몰 + 돔구장 스타필드 안양<br />
+			      서울아산안양 병원 등 `,
     link: "/LocationEnvironment/intro",
     linkText: "더 알아보기 >",
   },
@@ -200,7 +200,7 @@ const handleInputChange = (e) => {
             <img
               src={mainImage}
               className={styles.mainImage}
-              alt="청라피크원푸르지오-mainimage1"
+              alt="호현센트럴아이파크-mainimage1"
             />
             <div className={styles.overlay}></div>
             <div className={styles.mainImageTextBox}>
@@ -214,10 +214,10 @@ const handleInputChange = (e) => {
               </div>
               <div className={styles.mainImageTitleBox}>
                 <div className={styles.mainImageText}>
-                  청라의 대표 랜드마크
+                  안양의 대표 랜드마크
                 </div>
                 <div className={styles.mainImageLine}></div>
-                <div className={styles.mainImageText}>청라피크원푸르지오 </div>
+                <div className={styles.mainImageText}>호현센트럴아이파크 </div>
               </div>
               {/* 기존 관심고객 등록 링크 대신 방문예약 버튼 클릭 시 팝업 오픈 */}
               <div>
@@ -228,7 +228,7 @@ const handleInputChange = (e) => {
                   <img
                     src={subpinkimg}
                     className={styles.subPinkImg}
-                    alt="청라 피크원 푸르지오 관심고객등록"
+                    alt="호현 센트럴 아이파크 관심고객등록"
                   />
                 </button>
               </div>
@@ -244,10 +244,10 @@ const handleInputChange = (e) => {
                   " 방문 예약 고객 전원 신세계상품권 100% 증정 "
                 </div>
                 <div className={styles.text3}>
-                - 청라 최초 와이드 라이프 플랫폼
+                - 안양 최초 와이드 라이프 플랫폼
               <br />
               - 최고 49층 앞도적인 미래가치 랜드마크 특권 <br />
-              - 서울 아산 청라병원 (29년계획) 800병상 규모의 중증 전문병원
+              - 서울 아산 안양병원 (29년계획) 800병상 규모의 중증 전문병원
               <br />- 모두를 누리는 복합주거 타운의 완성
                 </div>
                 <div className={styles.text4}>
@@ -265,7 +265,7 @@ const handleInputChange = (e) => {
               <div className={styles.menuBox}>
                 <img
                   src={section1_Image1}
-                  alt="청라 피크원 푸르지오 브랜드소개-image2"
+                  alt="호현 센트럴 아이파크 브랜드소개-image2"
                 />
                 <Link to="/Brand/video" className={styles.btn}>
                   브랜드 소개 {">"}
@@ -282,7 +282,7 @@ const handleInputChange = (e) => {
                   <br />
                   <span>
                     최고의 브랜드 아파트 <br />
-                    청라피크원푸르지오
+                    호현센트럴아이파크
                   </span>
                 </div>
                 <div className={styles.subTitle}>
@@ -290,13 +290,13 @@ const handleInputChange = (e) => {
                   <div className={styles.subText}>
                     찬란한 비전에 완벽한 주거가치까지 더해
                     <br />
-                    청라피크원푸르지오가 함께합니다
+                    호현센트럴아이파크가 함께합니다
                   </div>
                 </div>
               </div>
               <img
                 src={section8Img3}
-                alt="청라피크원푸르지오 입지환경소개-image2"
+                alt="호현센트럴아이파크 입지환경소개-image2"
               />
             </div>
           </div>
@@ -310,7 +310,7 @@ const handleInputChange = (e) => {
                 <div className={`${styles.text2} fadeUpRepeat`}>
                   기대한 모든 프리미엄이
                   <br />
-                  청라피크원푸르지오에서 펼쳐집니다
+                  호현센트럴아이파크에서 펼쳐집니다
                 </div>
                 <div className={`${styles.text3} fadeUpRepeat`}>
                   SPECIAL PLAN
@@ -330,7 +330,7 @@ const handleInputChange = (e) => {
               </div>
               <img
                 src={section2_Image1}
-                alt="청라피크원푸르지오 아파트 조감도-image3"
+                alt="호현센트럴아이파크 아파트 조감도-image3"
               />
             </div>
           </div>
@@ -362,9 +362,9 @@ const handleInputChange = (e) => {
               <div className={styles.imageBox}>
                 <img
                   src={section4_Image1}
-                  alt="청라피크원푸르지오 브랜드소개-image4"
+                  alt="호현센트럴아이파크 브랜드소개-image4"
                 />
-                <div className={styles.text1}>청라피크원푸르지오</div>
+                <div className={styles.text1}>호현센트럴아이파크</div>
                 <div className={styles.text2}>THE NATURAL NOBILITY</div>
                 <div className={styles.text3}>
                   당신의 삶, 그 고귀함이 계속되길
@@ -386,7 +386,7 @@ const handleInputChange = (e) => {
   {/* 상단 타이틀 영역 (좌: 제목/부제, 우: 안내문구) */}
   <div className={styles.pcTitleRow}>
     <div className={styles.leftTitle}>
-      <h2>청라 피크원 푸르지오</h2>
+      <h2>호현 센트럴 아이파크</h2>
       <p>방문예약</p>
     </div>
     <div className={styles.rightText}>
@@ -446,7 +446,7 @@ const handleInputChange = (e) => {
             <div className={styles.section9}>
               <div className={styles.textBox}>
                 <div className={styles.title}>
-                  청라피크원푸르지오
+                  호현센트럴아이파크
                   <br />
                   <span>견본주택 오시는길</span>
                 </div>
@@ -455,11 +455,11 @@ const handleInputChange = (e) => {
                   <div className={styles.subText}>
                     찬란한 비전에 완벽한 주거가치까지 더해
                     <br />
-                    청라피크원푸르지오가 함께합니다
+                    호현센트럴아이파크가 함께합니다
                   </div>
                 </div>
               </div>
-              <img src={map1} alt="청라피크원푸르지오 오시는길안내-image1" />
+              <img src={map1} alt="호현센트럴아이파크 오시는길안내-image1" />
             </div>
           </div> */}
 
@@ -513,7 +513,7 @@ const handleInputChange = (e) => {
   <img
     src={mobileImageMain}
     className={styles.mainImage}
-    alt="청라피크원푸르지오 mobilemain-image1"
+    alt="호현센트럴아이파크 mobilemain-image1"
   />
   <div className={styles.overlay}></div>
 
@@ -534,7 +534,7 @@ const handleInputChange = (e) => {
     </div>
     <div className={styles.mainImageTitleBox1}>
       <div className={styles.mainImageText1}>
-        청라 피크원 푸르지오
+        호현 센트럴 아이파크
         <br />
       </div>
     </div>
@@ -547,13 +547,13 @@ const handleInputChange = (e) => {
           <div className={styles.container1}>
             <div className={styles.text1}>Location</div>
             <div className={styles.text2}>
-              인천 청라 피크원 푸르지오의 중요 POINT
+              인천 호현 센트럴 아이파크의 중요 POINT
             </div>
             <div className={styles.text3}>
-              - 청라 최초 와이드 라이프 플랫폼
+              - 안양 최초 와이드 라이프 플랫폼
               <br />
               - 최고 49층 앞도적인 미래가치 랜드마크 특권 <br />
-              - 서울 아산 청라병원 (29년계획) 800병상 규모의 중증 전문병원
+              - 서울 아산 안양병원 (29년계획) 800병상 규모의 중증 전문병원
               <br />- 모두를 누리는 복합주거 타운의 완성
             </div>
             <div className={styles.text4}>
@@ -588,7 +588,7 @@ const handleInputChange = (e) => {
           {/* <div className={styles.container7}>
             <div className={styles.textBox}>
               <div className={styles.title}>
-               인천청라의 중심으로 사는
+               안양의 중심으로 사는
                 <br />
                 <span>최고의 브랜드 아파트</span>
               </div>
@@ -597,13 +597,13 @@ const handleInputChange = (e) => {
                 <div className={styles.subText}>
                   완벽한 비전중심에서 완벽한 주거가치까지 더해
                   <br />
-                  청라피크원푸르지오가 함께합니다
+                  호현센트럴아이파크가 함께합니다
                 </div>
               </div>
             </div>
             <img
               src={section8Img3}
-              alt="청라피크원푸르지오 mobile입지안내-image1"
+              alt="호현센트럴아이파크 mobile입지안내-image1"
             />
           </div> */}
 
@@ -615,19 +615,19 @@ const handleInputChange = (e) => {
               <div className={`${styles.text2} fadeUpRepeat`}>
                 기대한 모든 프리미엄이
                 <br />
-                청라피크원푸르지오에서 펼쳐집니다
+                호현센트럴아이파크에서 펼쳐집니다
               </div>
               <div className={`${styles.text3} fadeUpRepeat`}>SPECIAL PLAN</div>
               <div className={`${styles.text4} fadeUpRepeat`}>
                 살수록 자부심이 차원이 다른
                 <br />
-                프리미엄 주거라이프를 청라피크원푸르지오에서<br />
+                프리미엄 주거라이프를 호현센트럴아이파크에서<br />
                 확인하세요
               </div>
             </div>
             <img
               src={section2_Image1}
-              alt="청라피크원푸르지오 mobile조감도-image1"
+              alt="호현센트럴아이파크 mobile조감도-image1"
             />
           </div>
 
@@ -659,7 +659,7 @@ const handleInputChange = (e) => {
             <div>
               <img
                 src={section1_Image1}
-                alt="청라피크원푸르지오 브랜드소개 mobile-image5"
+                alt="호현센트럴아이파크 브랜드소개 mobile-image5"
               />
               <Link to="/Brand/intro" className={styles.btn}>
                 브랜드 소개 {">"}
@@ -669,7 +669,7 @@ const handleInputChange = (e) => {
 
           {/* 모바일 방문예약 섹션 */}
 <div className={styles.mobileVisitContainer}>
-  <h2>청라 피크원 푸르지오</h2>
+  <h2>호현 센트럴 아이파크</h2>
   <p className={styles.mobileSubTitle}>방문예약</p>
   <p className={styles.mobileInfoText}>
     방문예약 등록 시 모델하우스 주소 SMS발송 및<br />
@@ -726,7 +726,7 @@ const handleInputChange = (e) => {
             <div className={styles.section9}>
               <img
                 src={mobilemap1}
-                alt="청라피크원푸르지오 오시는길안내-mobileimage2"
+                alt="호현센트럴아이파크 오시는길안내-mobileimage2"
               />
             </div>
           </div> */}

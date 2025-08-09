@@ -53,23 +53,23 @@ const LocationEnvironment1 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        청라 피크원 푸르지오 - 프리미엄
+        호현 센트럴 아이파크 - 프리미엄
       </h1>
       <p className={styles.screenReaderOnly}>
-        청라 피크원 푸르지오만의 차별화된 프리미엄을 만나보세요. 고급스러운
+        호현 센트럴 아이파크만의 차별화된 프리미엄을 만나보세요. 고급스러운
         디자인, 첨단 기술이 결합된 설계, 입주민을 위한 특별한 혜택 등을 통해
-        푸르지오만의 독보적인 가치를 제공합니다.
+        아이파크만의 독보적인 가치를 제공합니다.
       </p>
 
       <div className={styles.textBox}>
-        <div>청라 중심의 눈부신 가치 위에</div>
-        <div>청라 피크원 푸르지오의 새로운 자부심으로 찾아옵니다.</div>
+        <div>안양 중심의 눈부신 가치 위에</div>
+        <div>호현 센트럴 아이파크의 새로운 자부심으로 찾아옵니다.</div>
       </div>
 
       <img
         src={page1}
         className={styles.image3}
-        alt="청라 피크원 푸르지오-image1"
+        alt="호현 센트럴 아이파크-image1"
       />
 
       <Footer />

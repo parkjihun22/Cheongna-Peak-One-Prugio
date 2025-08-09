@@ -52,21 +52,21 @@ const Brand1 = () => {
             <Header isChanged={isScroll} />
             <FixIcon />
 
-            <Bener title="푸르지오" />
+            <Bener title="아이파크" />
 
             <MenuBar contents={menuContents} />
             {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
-            <h1 className={styles.screenReaderOnly}>청라피크원푸르지오 - 브랜드소개</h1>
-			<p className={styles.screenReaderOnly}>청라피크원푸르지오의 신뢰와 품질을 최우선으로 여기는 브랜드입니다. 최첨단 설계와 고급 자재를 사용하여 입주자에게 최고의 주거 환경을 제공합니다. 지속적인 혁신과 고객 만족을 위한 브랜드 철학을 바탕으로, 미래 지향적인 주택을 제시하는 
+            <h1 className={styles.screenReaderOnly}>호현센트럴아이파크 - 브랜드소개</h1>
+			<p className={styles.screenReaderOnly}>호현센트럴아이파크의 신뢰와 품질을 최우선으로 여기는 브랜드입니다. 최첨단 설계와 고급 자재를 사용하여 입주자에게 최고의 주거 환경을 제공합니다. 지속적인 혁신과 고객 만족을 위한 브랜드 철학을 바탕으로, 미래 지향적인 주택을 제시하는 
         의 브랜드 가치를 경험해보세요
 			</p>	
 
             <div className={`${styles.textBox} ${isTextVisible ? styles.active : ''}`}>
                 <div>생활의 모든 것을 한걸음에</div>
-                <div>푸르지오, 청라의 중심에 서다</div>
+                <div>아이파크, 안양의 중심에 서다</div>
 </div>
 
-            <img className={`${styles.image} ${isImageVisible ? styles.visible : ''}`} src={page1} alt="청라피크원푸르지오 brand-Image1" />
+            <img className={`${styles.image} ${isImageVisible ? styles.visible : ''}`} src={page1} alt="호현센트럴아이파크 brand-Image1" />
 
             <Footer />
         </div>

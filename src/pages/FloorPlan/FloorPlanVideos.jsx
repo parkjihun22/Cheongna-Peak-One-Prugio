@@ -64,13 +64,13 @@ const FloorPlanVideos = () => {
       <MenuBar contents={menuContents} />
 
       <h1 className={styles.screenReaderOnly}>
-        청라피크원푸르지오 - 홍보영상
+        호현센트럴아이파크 - 홍보영상
       </h1>
       <p className={styles.screenReaderOnly}>세대안내영상 안내 페이지입니다.</p>
 
       <div className={styles.textBox}>
-        <div>청라의 눈부신 가치 위에 찾아오는</div>
-        <div>푸르지오의 가치를 영상으로 확인해보세요</div>
+        <div>안양의 눈부신 가치 위에 찾아오는</div>
+        <div>아이파크의 가치를 영상으로 확인해보세요</div>
       </div>
 
       {/* 탭 메뉴 */}

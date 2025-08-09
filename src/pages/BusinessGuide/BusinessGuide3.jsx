@@ -66,16 +66,16 @@ const BusinessGuide2 = () => {
 			<Bener title="사업개요" />
 			<MenuBar contents={menuContents} />
 			{/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
-            <h1 className={styles.screenReaderOnly}>청라피크원푸르지오 - 계약서류안내</h1>
+            <h1 className={styles.screenReaderOnly}>호현센트럴아이파크 - 계약서류안내</h1>
 			<p className={styles.screenReaderOnly}>계약서류안내 페이지지에서는 분양 당첨 후 필요한 서류들에 대해 안내합니다. 계약 체결을 위해 준비해야 할 서류 목록과 함께, 각 서류의 제출 기한과 정확한 준비 방법을 안내하여 고객들이 혼동 없이 준비할 수 있도록 돕습니다.</p>
 
 			<div className={styles.textBox}>
-				<div>청라의 눈부신 가치 위에</div>
-				<div>청라 피크원 푸르지오의 새로운 자부심으로 찾아옵니다.</div>
+				<div>안양의 눈부신 가치 위에</div>
+				<div>호현 센트럴 아이파크의 새로운 자부심으로 찾아옵니다.</div>
 			</div>
 
 			{/* 이미지에 isImageVisible 상태 적용 */}
-			<img className={`${styles.image4} ${isImageVisible ? styles.visible : ''}`} src={page1} alt="청라피크원푸르지오 계약서류안내-image1" />
+			<img className={`${styles.image4} ${isImageVisible ? styles.visible : ''}`} src={page1} alt="호현센트럴아이파크 계약서류안내-image1" />
 
 			<Footer /> 
 		</div>

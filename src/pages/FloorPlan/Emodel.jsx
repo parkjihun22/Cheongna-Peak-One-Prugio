@@ -50,7 +50,7 @@ const Emodel = () => {
       <Bener title="E-모델하우스" />
       <MenuBar contents={menuContents} />
 
-      <h1 className={styles.screenReaderOnly}>청라 피크원 푸르지오 - E-모델하우스 안내</h1>
+      <h1 className={styles.screenReaderOnly}>호현 센트럴 아이파크 - E-모델하우스 안내</h1>
 
       <div className={styles.tabMenu}>
         {menuContents.slice(0, 5).map((tab, idx) => (

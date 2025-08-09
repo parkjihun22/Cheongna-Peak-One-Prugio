@@ -24,12 +24,12 @@ const items = [
       <ul className={styles.detailList}>
         <li>
           <strong>사업명</strong>
-          <span>청라 피크원 푸르지오</span>
+          <span>호현 센트럴 아이파크</span>
         </li>
         <li>
           <strong>대지위치</strong>
           <span>
-            인천광역시 서구 청라동 86-6번지 <br />[청라국제도시 업무용지 B1]
+            인천광역시 서구 안양동 86-6번지 <br />[안양국제도시 업무용지 B1]
 
           </span>
         </li>
@@ -81,7 +81,7 @@ const items = [
         <div className={styles.premiumIntro}>
           <h3 className={styles.premiumTitle}>GREAT PREMIUM</h3>
           <p className={styles.premiumSubtitle}>
-            청라의 랜드마크에서 사는<br />
+            안양의 랜드마크에서 사는<br />
             최고의 1군 브랜드 아파트
           </p>
         </div>
@@ -104,7 +104,7 @@ function PremiumSlider() {
       img: slide2,
       title: "의세권을 누리릴 수 있는 프리미엄",
       desc:
-        "서울 아산 청라병원 (29년계획)<br />800병상 규모의 글로벌 중증 전문병원",
+        "서울 아산 안양병원 (29년계획)<br />800병상 규모의 글로벌 중증 전문병원",
     },
     {
       img: slide3,
@@ -119,14 +119,14 @@ function PremiumSlider() {
     },
     {
       img: slide5,
-      title: "1,056세대 푸르지오 대단지 프리미엄",
+      title: "1,056세대 아이파크 대단지 프리미엄",
       desc:
-        "총 1,056세대 청라피크원푸르지오로 찾아옵니다",
+        "총 1,056세대 호현센트럴아이파크로 찾아옵니다",
     },
     {
       img: slide6,
       title: "확정된 미래가치 보장",
-      desc: "청라 최초의 와이드 플랫폼 프리미엄",
+      desc: "안양 최초의 와이드 플랫폼 프리미엄",
     },
   ];
 
