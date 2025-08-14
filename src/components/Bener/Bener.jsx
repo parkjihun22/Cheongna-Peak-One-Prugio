@@ -43,57 +43,57 @@ const contents = (text, isLoaded) => {
     if (text === '아이파크' || text === '홍보영상' || text === '체크포인트'| text === '당첨자서류안내') {
         return (
             <>
-                <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    지친 하루를 마치고 가장 나에 가까운 본연의 모습으로 돌아와 누리는 프리미엄입니다.
-                </div>
-                <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    안양의 중심 
-                </div>
-                <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    NO.1 브랜드 호현 센트럴 아이파크와 함께합니다.
-                </div>
+            <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
+                안양 박달2동 중심에서 누리는 실용적 프리미엄
+            </div>
+            <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
+                생활과 편리함이 만나는 곳
+            </div>
+            <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
+                신뢰의 1군 브랜드, 호현 센트럴 아이파크
+            </div>
             </>
         );
     } else if (text === '사업개요' || text === '세대안내' || text === '인테리어' || text === '청약안내' || text === '모집공고안내' || text === '인지세납부안내') {
         return (
             <>
-                <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    아이파크가 선택한 새도시!
-                </div>
-                <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                   안양 최초의 와이드 플랫폼 프리미엄
-                </div>
-                <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    가장 높은 브랜드의 첫 시작
-                </div>
-                <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    호현 센트럴 아이파크
-                </div>
+            <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
+                안양 박달2동 재건축, 새로운 삶의 기준
+            </div>
+            <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
+                실용적 평면과 쾌적한 커뮤니티 공간
+            </div>
+            <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
+                입주민 중심 설계로 완성된 주거 프리미엄
+            </div>
+            <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
+                호현 센트럴 아이파크
+            </div>
             </>
         );
     } else if (text === '입지환경') {
         return (
             <>
-                <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    수준 높은 생활, 첨단신도시내 착한 브랜드 아파트
-                </div>
-                <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    기대하던 모든 프리미엄이 호현 센트럴 아이파크에서 펼쳐집니다
-                </div>
+            <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
+                안양 중심 생활 인프라를 가까이에서
+            </div>
+            <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
+                교육, 쇼핑, 병원, 문화 모든 것이 한 걸음
+            </div>
             </>
         );
     } else if (text === '단지안내' || text === 'E-모델하우스' ) {
         return (
             <>
-                <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    주거의 품격과 가치를 높이는 특화설계
-                </div>
-                <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    편리한 생활을 위한 최적의 공간설계
-                </div>
-                <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    소수에게만 허락된 호현 센트럴 아이파크 안양의 핵심중심에 찾아옵니다
-                </div>
+            <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
+                단지 곳곳에 적용된 특화 설계
+            </div>
+            <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
+                실용성과 쾌적함을 겸비한 주거 공간
+            </div>
+            <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
+                안양 박달2동의 핵심 입지, 호현 센트럴 아이파크
+            </div>
             </>
         );
     }

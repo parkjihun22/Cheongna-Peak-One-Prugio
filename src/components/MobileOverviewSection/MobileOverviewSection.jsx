@@ -29,26 +29,37 @@ const items = [
         <li>
           <strong>대지위치</strong>
           <span>
-            인천광역시 서구 안양동 86-6번지 <br />[안양국제도시 업무용지 B1]
-
+            경기도 안양시 만안구 박달2동 111-1일원
           </span>
         </li>
         <li>
           <strong>건축규모</strong>
           <span>
-            지하 5층 ~ 지상 49층 총 4개동
+            지하 2층 ~ 지상 15층, 총 4개동
           </span>
         </li>
         <li>
           <strong>주택형</strong>
           <span>
-            전용 84OA, 84OB / 전용 119OA, 119OB, 119OC<br />
+            전용 55㎡, 59㎡, 84㎡
           </span>
         </li>
         <li>
           <strong>세대수</strong>
           <span>
-           총 1,056세대
+            총 507세대 (일반공급 144세대)
+          </span>
+        </li>
+        <li>
+          <strong>시행사</strong>
+          <span>
+            신한아파트 재건축정비사업조합
+          </span>
+        </li>
+        <li>
+          <strong>시공사</strong>
+          <span>
+            HDC현대산업개발(주)
           </span>
         </li>
       </ul>
@@ -64,11 +75,6 @@ const items = [
           className={styles.mapImage}
           alt="입지환경 지도 1"
         />
-        {/* <img
-          src={mobileMap2}
-          className={styles.mapImage}
-          alt="입지환경 지도 2"
-        /> */}
       </div>
     ),
   },
@@ -77,15 +83,13 @@ const items = [
     label: "프리미엄",
     content: (
       <>
-        {/* 프리미엄 섹션 상단 문단 */}
         <div className={styles.premiumIntro}>
           <h3 className={styles.premiumTitle}>GREAT PREMIUM</h3>
           <p className={styles.premiumSubtitle}>
-            안양의 랜드마크에서 사는<br />
-            최고의 1군 브랜드 아파트
+            안양 박달2동 재건축 단지에서 누리는<br />
+            실용적 평면과 커뮤니티가 있는 1군 브랜드 아파트
           </p>
         </div>
-        {/* 슬라이더 */}
         <PremiumSlider />
       </>
     ),
@@ -96,37 +100,37 @@ function PremiumSlider() {
   const slides = [
     {
       img: slide1,
-      title: "국제업무단지의 눈부치 미래가치",
+      title: "중소형 맞춤형 평면으로 실용성 극대화",
       desc:
-        "대규모 복합단지로 조성될, <br />대지면적 약 4만3천평 규모 <br /> 주거-상업-비지니시를 잇는 자족도시",
+        "총 507세대, 55·59·84평형 구성<br />입주민 중심의 실용적 설계 적용",
     },
     {
       img: slide2,
-      title: "의세권을 누리릴 수 있는 프리미엄",
+      title: "생활 편의와 의료 인프라 인접",
       desc:
-        "서울 아산 안양병원 (29년계획)<br />800병상 규모의 글로벌 중증 전문병원",
+        "단지 인근 주요 병원 및 약국<br />우수 학군과 편리한 생활시설 확보",
     },
     {
       img: slide3,
-      title: "서울-인천-경기를 잇는 특급교통",
+      title: "편리한 광역 교통망",
       desc:
-        "7호선 국제업무단지역 27년 연장계통 예정 <br />제 3연륙교(25년 개통예정), 제2외곽순환도로 등 ",
+        "버스·지하철 등 대중교통 접근 용이<br />안양 주요 도로 연결로 이동 편리",
     },
     {
       img: slide4,
-      title: "학교, 쇼핑,병원, 문화를 더 가깝게 <br /> 한걸음에 SMART 인프라",
-      desc: "단지 인근 초등학교, 영상 문화 단지 , 코스트코(운영중) , 문학공원 등",
+      title: "학교, 쇼핑, 문화시설을 가까이",
+      desc: "단지 인근 초등학교, 중학교, 학원가<br />편의점, 마트, 공원 등 생활 인프라 풍부",
     },
     {
       img: slide5,
-      title: "1,056세대 아이파크 대단지 프리미엄",
+      title: "507세대 재건축 단지 프리미엄",
       desc:
-        "총 1,056세대 호현센트럴아이파크로 찾아옵니다",
+        "총 507세대 호현센트럴아이파크<br />브랜드 프리미엄과 커뮤니티, 멀티 발코니 적용",
     },
     {
       img: slide6,
-      title: "확정된 미래가치 보장",
-      desc: "안양 최초의 와이드 플랫폼 프리미엄",
+      title: "HDC현대산업개발 시공",
+      desc: "입주민 중심 설계와 쾌적한 주거환경 제공",
     },
   ];
 

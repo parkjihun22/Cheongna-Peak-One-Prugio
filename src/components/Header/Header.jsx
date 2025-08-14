@@ -32,8 +32,8 @@ const menuArray = [
   {
     title: "청약안내",
     subMenu: [
-      { subTitle: "청약안내", subUrl: "/SalesInfo/SubscriptionGuide" },
-      { subTitle: "청약체크포인트", subUrl: "/SalesInfo/guide" },
+      // { subTitle: "청약안내", subUrl: "/SalesInfo/SubscriptionGuide" },
+      // { subTitle: "청약체크포인트", subUrl: "/SalesInfo/guide" },
       { subTitle: "모집공고안내", subUrl: "/SalesInfo/announcement" },
       // { subTitle: "인지세납부안내", subUrl: "/SalesInfo/stampTax" },
     ],
@@ -57,12 +57,12 @@ const menuArray = [
   {
     title: "세대안내",
     subMenu: [
-      { subTitle: "84OA", subUrl: "/FloorPlan/59A" },
-      { subTitle: "84OB", subUrl: "/FloorPlan/59B" },
-      { subTitle: "119OA", subUrl: "/FloorPlan/84A" },
-      { subTitle: "119OB", subUrl: "/FloorPlan/84B" },
-      { subTitle: "119OC", subUrl: "/FloorPlan/114A" },
-      { subTitle: "E-모델하우스", subUrl: "/FloorPlan/Emodel" },
+      { subTitle: "55A", subUrl: "/FloorPlan/59A" },
+      { subTitle: "59A", subUrl: "/FloorPlan/59B" },
+      { subTitle: "84A", subUrl: "/FloorPlan/84A" },
+      // { subTitle: "119OB", subUrl: "/FloorPlan/84B" },
+      // { subTitle: "119OC", subUrl: "/FloorPlan/114A" },
+      // { subTitle: "E-모델하우스", subUrl: "/FloorPlan/Emodel" },
 
     ],
   },
@@ -104,9 +104,9 @@ const Header = () => {
         <div className={styles.mobileHeader}>
           <div onClick={() => setIsMobileMenu(!isMobileMenu)}>
             {!isMobileMenu ? (
-              <AiOutlineMenu className={styles.icon} size={25} color="#095052" />
+              <AiOutlineMenu className={styles.icon} size={25} color="#000000" />
             ) : (
-              <IoCloseSharp className={styles.icon} size={25} color="#095052" />
+              <IoCloseSharp className={styles.icon} size={25} color="#000000" />
             )}
           </div>
           {isMobileMenu && (
@@ -122,7 +122,7 @@ const Header = () => {
           </Link>
           {/* 모바일에서는 기존 전화 연결 a 태그 유지 */}
           <a href="tel:1533-8848">
-            <IoCall className={styles.icon} size={25} color="#095052" />
+            <IoCall className={styles.icon} size={25} color="#000000" />
           </a>
         </div>
         {/* 모바일에서도 팝업을 렌더링 (최상위에서) */}

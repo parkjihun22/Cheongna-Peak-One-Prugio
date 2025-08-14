@@ -14,13 +14,13 @@ import page1 from "../../assets/FloorPlan/FloorPlan1/unit01.jpg"
 
 const FloorPlan1 = () => {
   const menuContents = [
-		{ title: "84OA", url: "/FloorPlan/59A" },
-		{ title: "84OB", url: "/FloorPlan/59B" },
-		{ title: "119OA", url: "/FloorPlan/84A" },
-		{ title: "119OB", url: "/FloorPlan/84B" },
-		{ title: "119OC", url: "/FloorPlan/114A" },
+		{ title: "55A", url: "/FloorPlan/59A" },
+		{ title: "59A", url: "/FloorPlan/59B" },
+		{ title: "84A", url: "/FloorPlan/84A" },
+		// { title: "119OB", url: "/FloorPlan/84B" },
+		// { title: "119OC", url: "/FloorPlan/114A" },
 		// { title: "세대안내영상", url: "/FloorPlan/videos" }, // 세대안내영상 링크
-		{ title: "E-모델하우스", url: "/FloorPlan/Emodel" },
+		// { title: "E-모델하우스", url: "/FloorPlan/Emodel" },
   ];
 
   const [isScroll, setIsScroll] = useState(false);

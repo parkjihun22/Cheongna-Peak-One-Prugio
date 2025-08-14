@@ -15,7 +15,7 @@
     /* gif 배너 높이 + 안전 영역(top) */
     height: calc(var(--gif-banner-height) + env(safe-area-inset-top, 0px));
     text-align: center;
-    background-color: #095052;
+    background-color: #000000;
     position: fixed;
     top: 0;
     left: 0;
@@ -62,7 +62,7 @@
     width: 100%;
     height: 4vw; /* 헤더 높이 */
     z-index: 100;
-    background: linear-gradient(135deg, rgba(5,48,36,0.785) 50%, rgba(1,89,64,0.779) 70%);
+    background: linear-gradient(135deg, rgba(12, 12, 12, 0.785) 50%, rgba(0, 0, 0, 0.779) 70%);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -73,7 +73,8 @@
   
   /* 로고: 기존 크기 유지 */
   .logo {
-    width: 8vw;
+    margin-top: 0.5vw;
+    width: 6vw;
     height: auto;
   }
   
@@ -158,7 +159,7 @@
   .dropdownItem {
     text-decoration: none;
     font-size: 0.7rem;
-    color: #095052;
+    color: #000000;
     padding: 0.5rem 1rem;
     transition: background 0.3s ease;
   
@@ -180,13 +181,13 @@
     width: 100%;
     height: 4vw;
     background-color: #ffffff;
-    border-bottom: 1px solid #095052;
+    border-bottom: 1px solid #000000;
     z-index: 1001;
     text-decoration: none;
   
     .logo {
      
-      width: 30vw;
+      width: 20vw;
     }
     .icon {
       margin: 1vw 3.5vw;

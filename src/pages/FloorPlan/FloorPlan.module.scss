@@ -35,7 +35,7 @@
   div:nth-of-type(2) {
     margin-top: 0.5vw;
     font-weight: 800;
-    color: #095052;
+    color: #000000;
   }
 }
 
@@ -131,9 +131,9 @@
   padding: 10px 0;
   font-size: 1.1rem;
   font-weight: 600;
-  color: #095052;
+  color: #000000;
   background-color: #fff;
-  border: 2px solid #095052;
+  border: 2px solid #000000;
   border-radius: 30px;
   cursor: pointer;
   transition: all 0.3s ease;
@@ -141,12 +141,12 @@
 }
 
 .tabButton:hover {
-  background-color: #095052;
+  background-color: #000000;
   color: #ffffff;
 }
 
 .tabButton.activeTab {
-  background-color: #095052;
+  background-color: #000000;
   color: #ffffff;
 }
 
@@ -188,7 +188,7 @@
 .vrSubTitle {
   font-size: 1.5rem;
   font-weight: 600;
-  color: #095052;
+  color: #000000;
   margin-bottom: 0.5rem;
 }
 

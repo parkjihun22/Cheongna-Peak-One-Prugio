@@ -11,11 +11,11 @@ import room84C from "../../assets/UnitplanBox/unit05.jpg";
 
 
 const contents = [
-    { type: '84OA㎡', src: room59A }, 
-    { type: '84OB㎡', src: room59B },
-    { type: '119OA㎡', src: room84A },
-    { type: '119OB㎡', src: room84B },
-    { type: '119OC㎡', src: room84C },
+    { type: '55㎡', src: room59A }, 
+    { type: '59㎡', src: room59B },
+    { type: '84㎡', src: room84A },
+    // { type: '119OB㎡', src: room84B },
+    // { type: '119OC㎡', src: room84C },
 
 ];
 

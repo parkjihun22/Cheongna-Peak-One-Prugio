@@ -131,7 +131,7 @@
     .mainImageTextBox1 {
     
         position: absolute;
-        top: 15%; /* 모바일에서 더 상단에 위치 */
+        top: 22%; /* 모바일에서 더 상단에 위치 */
         left: 50%;
         transform: translateX(-50%); /* 중앙 정렬 */
         color: #FFFFFF;
@@ -165,7 +165,7 @@
         flex-direction: column;
         align-items: center;
         margin-top: 10px;
-        color: #095052; /* 파랑 색상 */
+        color: #000000; /* 파랑 색상 */
     }
 
     .greyText1 {
@@ -275,7 +275,7 @@
         background-color: #FFFFFF;
 
         img {
-            width: 30%;
+            width: 25%;
             margin-top: 5vw;
         }
 
@@ -359,7 +359,7 @@
     }
 
     img {
-        margin-top: 4.8vw;
+        margin-top: 11vw;
         margin-right: 5vw;
         width: 30vw;
     }
@@ -432,7 +432,7 @@
     }
 
     .box:hover {
-        background-color: #095052;
+        background-color: #000000;
         color: #fff7ea;
     }
 }
@@ -535,12 +535,12 @@
         
         position: relative; /* 상대적 위치 지정 */
         width: 100%;
-        height: 80%;
+        height: 85%;
         overflow: hidden; /* 이미지를 잘라내지 않도록 */
 
         .mainImage {
             width: 100%;
-            height: auto;
+            height: 90vh;
             object-fit: cover; /* 이미지 비율 유지하면서 가득 채우기 */
             filter: brightness(0.8) contrast(1.2); /* 이미지에 어두운 필터 적용, 대비 강조 */
         }
@@ -941,7 +941,7 @@
         margin: 4vw 0 0 5vw;
 
         .title {
-            color: #095052;
+            color: #000000;
             font-family: 'HakgyoansimBareonbatangB';
             font-size: 4vw;
             font-weight: 400;
@@ -965,7 +965,7 @@
             width: 100%;
 
             .textLine {
-                border: 3px solid #095052;
+                border: 3px solid #000000;
                 width: 0;
                 height: 7vw;
             }
@@ -1007,7 +1007,7 @@
         width: 80%;
 
         .title {
-            color: #095052;
+            color: #000000;
             font-size: 2vw;
             font-weight: 600;
             line-height: 3.5vw;
@@ -1029,13 +1029,13 @@
             width: 100%;
 
             .textLine {
-                border: 2px solid #095052;
+                border: 2px solid #000000;
                 width: 0;
                 height: 3.5vw;
             }
 
             .subText {
-                color: #095052;
+                color: #000000;
                 font-family: 'NanumHumanTTFBold';
                 font-size: 1.3vw;
                 line-height: 2vw;
@@ -1045,8 +1045,8 @@
     }
 
     img {
-        margin: 12vw 5VW 2vw 0;
-        width: 40vw;
+        margin: 16vw 5VW 2vw 0;
+        width: 50vw;
 
     }
 }
@@ -1073,7 +1073,7 @@
         height: auto;
 
         .title {
-            color: #095052;
+            color: #000000;
             font-family: 'NanumHumanTTFBold';
             font-size: 2vw;
             font-weight: 600;
@@ -1098,7 +1098,7 @@
             width: 100%;
 
             .textLine {
-                border: 4px solid #095052;
+                border: 4px solid #000000;
                 width: 0;
                 height: 3.5vw;
             }
@@ -1254,14 +1254,14 @@
 .text3 {
   font-family: 'NanumHumanTTFBold';
   font-size: 1.5rem;
-  color: #095052;
+  color: #000000;
   font-weight: bold;
 }
 
 /* text4: 전화번호 */
 .text4 {
   font-size: 1.5rem;
-  color: #095052;       /* 예: 붉은색 */
+  color: #000000;       /* 예: 붉은색 */
   font-weight: bold;
 }
 
@@ -1302,7 +1302,7 @@
 .registrationForm button {
   padding: 10px 20px;
   font-size: 1rem;
-  background-color: #095052;
+  background-color: #000000;
   color: #fff;
   border: none;
   border-radius: 4px;

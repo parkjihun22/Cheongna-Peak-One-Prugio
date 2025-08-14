@@ -15,8 +15,8 @@ import pdfIcon from "../../assets/icons/pdf-icon.png";  // PDF 아이콘 이미�
 
 const ComplexGuide1 = () => {
   const menuContents = [
-    { title: "청약안내", url: "/SalesInfo/SubscriptionGuide" },
-    { title: "청약체크포인트", url: "/SalesInfo/guide" },
+    // { title: "청약안내", url: "/SalesInfo/SubscriptionGuide" },
+    // { title: "청약체크포인트", url: "/SalesInfo/guide" },
     { title: "모집공고안내", url: "/SalesInfo/announcement" },
     // { title: "인지세납부안내", url: "/SalesInfo/stampTax" },
   ];
@@ -98,8 +98,6 @@ const ComplexGuide1 = () => {
                 <img src={pdfIcon} alt="PDF 아이콘" className={styles.pdfIcon} /> 
                 <span>모집공고 PDF<br/>확인하기</span>
             </button>
-
-      호현 센트럴 아이파크
       {/* 로딩 중일 때 표시할 스피너 */}
       {isLoading && (
         <div className={styles.loader}>

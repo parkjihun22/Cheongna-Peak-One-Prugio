@@ -74,7 +74,7 @@ const Interior2 = () => {
       </p>
 
       <div className={styles.textBox}>
-        <div>대우건설 아이파크, 안양의 눈부신 가치 위에</div>
+        <div>HDC현대산업개발 아이파크, 안양의 눈부신 가치 위에</div>
         <div>새로운 자부심으로 찾아옵니다.</div>
       </div>
 

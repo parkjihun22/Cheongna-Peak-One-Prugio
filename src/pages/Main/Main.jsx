@@ -51,36 +51,36 @@ const section3Contents = [
   {
     imgSrc: section3_Image1,
     title: "PREMIUM 01",
-    text1: `1,056세대 랜드마크 아이파크`,
-    text2: `최고 49층의 오션뷰를 누릴 수 있는<br />
-			      대단지 브랜드 프리미엄`,
+    text1: `총 507세대 중 144세대 일반공급`,
+    text2: `55·59·84 다양한 평면 구성<br />
+			      실용성과 브랜드 프리미엄을 동시에`,
     link: "/BusinessGuide/intro",
     linkText: "더 알아보기 >",
   },
   {
     imgSrc: section3_Image2,
     title: "PREMIUM 02",
-    text1: `안양를 완성할 핵심 개발비전`,
-    text2: `하나드림타운, 영상문화복합단지<br />
-			      인천로봇랜드, 안양시티타워의 수혜단지`,
+    text1: `안양 박달2동 중심 입지`,
+    text2: `주요 교통망 인접<br />
+			      우수 학군과 생활 인프라를 누리는 단지`,
     link: "/LocationEnvironment/intro",
     linkText: "더 알아보기 >",
   },
   {
     imgSrc: section3_Image3,
     title: "PREMIUM 03",
-    text1: `SMART한 생활 인프라`,
-    text2: `복한쇼핑몰 + 돔구장 스타필드 안양<br />
-			      서울아산안양 병원 등 `,
+    text1: `입주민 전용 커뮤니티`,
+    text2: `체육시설, 휴게공간, 문화공간 등<br />
+			      풍부한 생활 편의와 힐링 공간 제공`,
     link: "/LocationEnvironment/intro",
     linkText: "더 알아보기 >",
   },
   {
     imgSrc: section3_Image4,
     title: "PREMIUM 04",
-    text1: `국제업무단지의 미래가치`,
-    text2: `대지면적 4만3천평규모의<br />
-			     주거·상업·비지니스의 자족도시`,
+    text1: `안정적인 미래가치`,
+    text2: `신한아파트 재건축으로 실현되는<br />
+			     고품격 주거 단지, 지역 가치 상승 기대`,
     link: "/LocationEnvironment/primium",
     linkText: "더 알아보기 >",
   },
@@ -205,19 +205,19 @@ const handleInputChange = (e) => {
             <div className={styles.overlay}></div>
             <div className={styles.mainImageTextBox}>
               <div className={styles.mainImageTextSub}>
-                최고 49층 오션뷰를 더불어{" "}
+                중층 단지 설계를 더불어{" "}
                 <span className={styles.greyText}>브랜드 프리미엄</span> |
-                1,056세대{" "}
-                <span className={styles.greyText}>메머드급 대단지</span> |
-                멀티 발코니가 적용된{" "}
+                507세대{" "}
+                <span className={styles.greyText}>중대형 단지</span> |
+                전용 55·59·84㎡ 다양한 평면{" "}
                 <span className={styles.greyText}>혁신설계</span>
               </div>
               <div className={styles.mainImageTitleBox}>
                 <div className={styles.mainImageText}>
-                  안양의 대표 랜드마크
+                  안양의 주거 랜드마크
                 </div>
                 <div className={styles.mainImageLine}></div>
-                <div className={styles.mainImageText}>호현센트럴아이파크 </div>
+                <div className={styles.mainImageText}>호현 센트럴 아이파크</div>
               </div>
               {/* 기존 관심고객 등록 링크 대신 방문예약 버튼 클릭 시 팝업 오픈 */}
               <div>
@@ -244,11 +244,13 @@ const handleInputChange = (e) => {
                   " 방문 예약 고객 전원 신세계상품권 100% 증정 "
                 </div>
                 <div className={styles.text3}>
-                - 안양 최초 와이드 라이프 플랫폼
-              <br />
-              - 최고 49층 앞도적인 미래가치 랜드마크 특권 <br />
-              - 서울 아산 안양병원 (29년계획) 800병상 규모의 중증 전문병원
-              <br />- 모두를 누리는 복합주거 타운의 완성
+                -인천 지하철 및 주요 도로 접근 용이, 서울 중심부 이동 편리
+            <br />
+            -단지 인근 초·중·고 우수 학군과 교육 환경 확보
+            <br />
+            -생활 편의 인프라: 대형마트, 쇼핑몰, 병원, 문화시설 등 생활권 내 집중
+            <br />
+            -입주민 전용 체육, 휴식, 문화 공간 등 풍부한 생활 프리미엄 커뮤니티 혜택
                 </div>
                 <div className={styles.text4}>
                   <a
@@ -519,24 +521,25 @@ const handleInputChange = (e) => {
 
   {/* 기존 텍스트 */}
   <div className={styles.mainImageTextBox1}>
-    <div className={styles.mainImageTextSub1}>
-      최고 49층 랜드마크 특권
-      <br />
-      <span className={styles.greyText1}>높은 미래가치</span>
-      <br />
-      모두가 꿈꾸던 오션뷰 프리미엄
-      <br />
-      <span className={styles.greyText1}>브랜드 프리미엄</span>
-      <br />
-      멀티 발코니가 적용된 주거형 공간
-      <br />
-      <span className={styles.greyText1}>혁신설계</span>
-    </div>
-    <div className={styles.mainImageTitleBox1}>
-      <div className={styles.mainImageText1}>
-        호현 센트럴 아이파크
-        <br />
-      </div>
+  <div className={styles.mainImageTextSub1}>
+          중층 단지 설계로 쾌적한 주거 환경
+          <br />
+          <span className={styles.greyText1}>브랜드 프리미엄</span>
+          <br />
+          다양한 평면 제공
+          <br />
+          <span className={styles.greyText1}>실용적 설계</span>
+          <br />
+          입주민 전용 커뮤니티와 편의시설
+          <br />
+          <span className={styles.greyText1}>생활 편의 극대화</span>
+        </div>
+        <div className={styles.mainImageTitleBox1}>
+          <div className={styles.mainImageText1}>
+            호현 센트럴 아이파크
+            <br />
+          </div>
+
     </div>
   </div>
 </div>
@@ -544,18 +547,20 @@ const handleInputChange = (e) => {
           
           
 
-          <div className={styles.container1}>
-            <div className={styles.text1}>Location</div>
-            <div className={styles.text2}>
-              인천 호현 센트럴 아이파크의 중요 POINT
-            </div>
-            <div className={styles.text3}>
-              - 안양 최초 와이드 라이프 플랫폼
-              <br />
-              - 최고 49층 앞도적인 미래가치 랜드마크 특권 <br />
-              - 서울 아산 안양병원 (29년계획) 800병상 규모의 중증 전문병원
-              <br />- 모두를 누리는 복합주거 타운의 완성
-            </div>
+        <div className={styles.container1}>
+          <div className={styles.text1}>Location</div>
+          <div className={styles.text2}>
+            인천 호현 센트럴 아이파크의 중요 POINT
+          </div>
+          <div className={styles.text3}>
+            -인천 지하철 및 주요 도로 접근 용이, 서울 중심부 이동 편리
+            <br />
+            -단지 인근 초·중·고 우수 학군과 교육 환경 확보
+            <br />
+            -생활 편의 인프라: 대형마트, 쇼핑몰, 병원, 문화시설 등 생활권 내 집중
+            <br />
+            -입주민 전용 체육, 휴식, 문화 공간 등 풍부한 생활 프리미엄 커뮤니티 혜택
+          </div>
             <div className={styles.text4}>
               {/* 외부 링크 대신 방문예약 클릭 시 팝업 호출 */}
               <a
