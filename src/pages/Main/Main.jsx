@@ -244,7 +244,7 @@ const handleInputChange = (e) => {
                   " 방문 예약 고객 전원 신세계상품권 100% 증정 "
                 </div>
                 <div className={styles.text3}>
-                -인천 지하철 및 주요 도로 접근 용이, 서울 중심부 이동 편리
+                -안양 지하철 및 주요 도로 접근 용이, 서울 중심부 이동 편리
             <br />
             -단지 인근 초·중·고 우수 학군과 교육 환경 확보
             <br />
@@ -550,10 +550,10 @@ const handleInputChange = (e) => {
         <div className={styles.container1}>
           <div className={styles.text1}>Location</div>
           <div className={styles.text2}>
-            인천 호현 센트럴 아이파크의 중요 POINT
+            안양 호현 센트럴 아이파크의 중요 POINT
           </div>
           <div className={styles.text3}>
-            -인천 지하철 및 주요 도로 접근 용이, 서울 중심부 이동 편리
+            -안양 지하철 및 주요 도로 접근 용이, 서울 중심부 이동 편리
             <br />
             -단지 인근 초·중·고 우수 학군과 교육 환경 확보
             <br />

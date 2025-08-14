@@ -14,12 +14,12 @@ import { Helmet } from "react-helmet-async";
 
 const projectData = [
 	{ label: '사업명', value: '호현 센트럴 아이파크' },
-	{ label: '사업위치', value: '인천광역시 서구 안양동 86-6번지 (안양국제도시 업무용지 B1)' },
+	{ label: '사업위치', value: '경기도 안양시 만안구 박달2동 111-1 일원' },
 	{ label: '대지면적', value: '21,085.5000㎡' },
 	{ label: '연면적', value: '247,428.4968㎡' },
-	{ label: '용적률', value: '229.55%' },
-	{ label: '건축규모', value: '지하 5층 ~ 지상 49층 총 4개동' },
-	{ label: '세대수', value: '1,056세대 / 전용 84OA, 84OB / 전용 119OA, 119OB, 119OC' },
+	{ label: '용적률', value: '약 229.55%' },
+	{ label: '건축규모', value: '지하 5층 ~ 지상 최고층 미확정, 총 4개동' },
+	{ label: '세대수', value: '총 507세대 중 일반공급 144세대 / 전용 55m², 59m², 84m²' },
 ];
 
 const BusinessGuide1 = () => {
