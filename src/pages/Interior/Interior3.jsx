@@ -61,7 +61,7 @@ const Interior3 = () => {
 			<MenuBar contents={menuContents} />
 
 			<div className={styles.textBox}>
-				<div>호현 센트럴 아이파크가 안양의 눈부신 가치 위에</div>
+				<div>청주 센텀 푸르지오자이가 안양의 눈부신 가치 위에</div>
 				<div>새로운 자부심으로 찾아옵니다.</div>
 			</div>
 
@@ -69,7 +69,7 @@ const Interior3 = () => {
 			{/*<img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="호현 센트럴 아이파크 119타입 인테리어안내 image"
+				alt="청주 센텀 푸르지오자이 119타입 인테리어안내 image"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>*/}
 

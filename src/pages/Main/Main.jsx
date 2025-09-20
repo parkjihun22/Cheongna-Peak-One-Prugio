@@ -200,7 +200,7 @@ const handleInputChange = (e) => {
             <img
               src={mainImage}
               className={styles.mainImage}
-              alt="호현센트럴아이파크-mainimage1"
+              alt="청주센텀푸르지오자이-mainimage1"
             />
             <div className={styles.overlay}></div>
             <div className={styles.mainImageTextBox}>
@@ -217,7 +217,7 @@ const handleInputChange = (e) => {
                   안양의 주거 랜드마크
                 </div>
                 <div className={styles.mainImageLine}></div>
-                <div className={styles.mainImageText}>호현 센트럴 아이파크</div>
+                <div className={styles.mainImageText}>청주 센텀 푸르지오자이</div>
               </div>
               {/* 기존 관심고객 등록 링크 대신 방문예약 버튼 클릭 시 팝업 오픈 */}
               <div>
@@ -228,7 +228,7 @@ const handleInputChange = (e) => {
                   <img
                     src={subpinkimg}
                     className={styles.subPinkImg}
-                    alt="호현 센트럴 아이파크 관심고객등록"
+                    alt="청주 센텀 푸르지오자이 관심고객등록"
                   />
                 </button>
               </div>
@@ -267,7 +267,7 @@ const handleInputChange = (e) => {
               <div className={styles.menuBox}>
                 <img
                   src={section1_Image1}
-                  alt="호현 센트럴 아이파크 브랜드소개-image2"
+                  alt="청주 센텀 푸르지오자이 브랜드소개-image2"
                 />
                 <Link to="/Brand/video" className={styles.btn}>
                   브랜드 소개 {">"}
@@ -284,7 +284,7 @@ const handleInputChange = (e) => {
                   <br />
                   <span>
                     최고의 브랜드 아파트 <br />
-                    호현센트럴아이파크
+                    청주센텀푸르지오자이
                   </span>
                 </div>
                 <div className={styles.subTitle}>
@@ -292,13 +292,13 @@ const handleInputChange = (e) => {
                   <div className={styles.subText}>
                     찬란한 비전에 완벽한 주거가치까지 더해
                     <br />
-                    호현센트럴아이파크가 함께합니다
+                    청주센텀푸르지오자이가 함께합니다
                   </div>
                 </div>
               </div>
               <img
                 src={section8Img3}
-                alt="호현센트럴아이파크 입지환경소개-image2"
+                alt="청주센텀푸르지오자이 입지환경소개-image2"
               />
             </div>
           </div>
@@ -312,7 +312,7 @@ const handleInputChange = (e) => {
                 <div className={`${styles.text2} fadeUpRepeat`}>
                   기대한 모든 프리미엄이
                   <br />
-                  호현센트럴아이파크에서 펼쳐집니다
+                  청주센텀푸르지오자이에서 펼쳐집니다
                 </div>
                 <div className={`${styles.text3} fadeUpRepeat`}>
                   SPECIAL PLAN
@@ -332,7 +332,7 @@ const handleInputChange = (e) => {
               </div>
               <img
                 src={section2_Image1}
-                alt="호현센트럴아이파크 아파트 조감도-image3"
+                alt="청주센텀푸르지오자이 아파트 조감도-image3"
               />
             </div>
           </div>
@@ -364,9 +364,9 @@ const handleInputChange = (e) => {
               <div className={styles.imageBox}>
                 <img
                   src={section4_Image1}
-                  alt="호현센트럴아이파크 브랜드소개-image4"
+                  alt="청주센텀푸르지오자이 브랜드소개-image4"
                 />
-                <div className={styles.text1}>호현센트럴아이파크</div>
+                <div className={styles.text1}>청주센텀푸르지오자이</div>
                 <div className={styles.text2}>THE NATURAL NOBILITY</div>
                 <div className={styles.text3}>
                   당신의 삶, 그 고귀함이 계속되길
@@ -388,7 +388,7 @@ const handleInputChange = (e) => {
   {/* 상단 타이틀 영역 (좌: 제목/부제, 우: 안내문구) */}
   <div className={styles.pcTitleRow}>
     <div className={styles.leftTitle}>
-      <h2>호현 센트럴 아이파크</h2>
+      <h2>청주 센텀 푸르지오자이</h2>
       <p>방문예약</p>
     </div>
     <div className={styles.rightText}>
@@ -448,7 +448,7 @@ const handleInputChange = (e) => {
             <div className={styles.section9}>
               <div className={styles.textBox}>
                 <div className={styles.title}>
-                  호현센트럴아이파크
+                  청주센텀푸르지오자이
                   <br />
                   <span>견본주택 오시는길</span>
                 </div>
@@ -457,11 +457,11 @@ const handleInputChange = (e) => {
                   <div className={styles.subText}>
                     찬란한 비전에 완벽한 주거가치까지 더해
                     <br />
-                    호현센트럴아이파크가 함께합니다
+                    청주센텀푸르지오자이가 함께합니다
                   </div>
                 </div>
               </div>
-              <img src={map1} alt="호현센트럴아이파크 오시는길안내-image1" />
+              <img src={map1} alt="청주센텀푸르지오자이 오시는길안내-image1" />
             </div>
           </div> */}
 
@@ -515,7 +515,7 @@ const handleInputChange = (e) => {
   <img
     src={mobileImageMain}
     className={styles.mainImage}
-    alt="호현센트럴아이파크 mobilemain-image1"
+    alt="청주센텀푸르지오자이 mobilemain-image1"
   />
   <div className={styles.overlay}></div>
 
@@ -536,7 +536,7 @@ const handleInputChange = (e) => {
         </div>
         <div className={styles.mainImageTitleBox1}>
           <div className={styles.mainImageText1}>
-            호현 센트럴 아이파크
+            청주 센텀 푸르지오자이
             <br />
           </div>
 
@@ -550,7 +550,7 @@ const handleInputChange = (e) => {
         <div className={styles.container1}>
           <div className={styles.text1}>Location</div>
           <div className={styles.text2}>
-            안양 호현 센트럴 아이파크의 중요 POINT
+            청주 센텀 푸르지오자이의 중요 POINT
           </div>
           <div className={styles.text3}>
             -안양 지하철 및 주요 도로 접근 용이, 서울 중심부 이동 편리
@@ -602,13 +602,13 @@ const handleInputChange = (e) => {
                 <div className={styles.subText}>
                   완벽한 비전중심에서 완벽한 주거가치까지 더해
                   <br />
-                  호현센트럴아이파크가 함께합니다
+                  청주센텀푸르지오자이가 함께합니다
                 </div>
               </div>
             </div>
             <img
               src={section8Img3}
-              alt="호현센트럴아이파크 mobile입지안내-image1"
+              alt="청주센텀푸르지오자이 mobile입지안내-image1"
             />
           </div> */}
 
@@ -620,19 +620,19 @@ const handleInputChange = (e) => {
               <div className={`${styles.text2} fadeUpRepeat`}>
                 기대한 모든 프리미엄이
                 <br />
-                호현센트럴아이파크에서 펼쳐집니다
+                청주센텀푸르지오자이에서 펼쳐집니다
               </div>
               <div className={`${styles.text3} fadeUpRepeat`}>SPECIAL PLAN</div>
               <div className={`${styles.text4} fadeUpRepeat`}>
                 살수록 자부심이 차원이 다른
                 <br />
-                프리미엄 주거라이프를 호현센트럴아이파크에서<br />
+                프리미엄 주거라이프를 청주센텀푸르지오자이에서<br />
                 확인하세요
               </div>
             </div>
             <img
               src={section2_Image1}
-              alt="호현센트럴아이파크 mobile조감도-image1"
+              alt="청주센텀푸르지오자이 mobile조감도-image1"
             />
           </div>
 
@@ -664,7 +664,7 @@ const handleInputChange = (e) => {
             <div>
               <img
                 src={section1_Image1}
-                alt="호현센트럴아이파크 브랜드소개 mobile-image5"
+                alt="청주센텀푸르지오자이 브랜드소개 mobile-image5"
               />
               <Link to="/Brand/intro" className={styles.btn}>
                 브랜드 소개 {">"}
@@ -674,7 +674,7 @@ const handleInputChange = (e) => {
 
           {/* 모바일 방문예약 섹션 */}
 <div className={styles.mobileVisitContainer}>
-  <h2>호현 센트럴 아이파크</h2>
+  <h2>청주 센텀 푸르지오자이</h2>
   <p className={styles.mobileSubTitle}>방문예약</p>
   <p className={styles.mobileInfoText}>
     방문예약 등록 시 모델하우스 주소 SMS발송 및<br />
@@ -731,7 +731,7 @@ const handleInputChange = (e) => {
             <div className={styles.section9}>
               <img
                 src={mobilemap1}
-                alt="호현센트럴아이파크 오시는길안내-mobileimage2"
+                alt="청주센텀푸르지오자이 오시는길안내-mobileimage2"
               />
             </div>
           </div> */}

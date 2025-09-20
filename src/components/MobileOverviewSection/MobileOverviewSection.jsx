@@ -24,7 +24,7 @@ const items = [
       <ul className={styles.detailList}>
         <li>
           <strong>사업명</strong>
-          <span>호현 센트럴 아이파크</span>
+          <span>청주 센텀 푸르지오자이</span>
         </li>
         <li>
           <strong>대지위치</strong>
@@ -125,7 +125,7 @@ function PremiumSlider() {
       img: slide5,
       title: "507세대 재건축 단지 프리미엄",
       desc:
-        "총 507세대 호현센트럴아이파크<br />브랜드 프리미엄과 커뮤니티, 멀티 발코니 적용",
+        "총 507세대 청주센텀푸르지오자이<br />브랜드 프리미엄과 커뮤니티, 멀티 발코니 적용",
     },
     {
       img: slide6,

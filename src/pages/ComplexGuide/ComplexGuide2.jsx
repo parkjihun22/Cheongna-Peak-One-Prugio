@@ -56,7 +56,7 @@ const ComplexGuide1 = () => {
       <Bener title="단지안내" />
       <MenuBar contents={menuContents} />
       <h1 className={styles.screenReaderOnly}>
-        호현 센트럴 아이파크 - 호수배치도
+        청주 센텀 푸르지오자이 - 호수배치도
       </h1>
       <p className={styles.screenReaderOnly}>
         호수 배치도 페이지는 각 세대의 위치와 평면도를 제공합니다. 고객들이
@@ -65,7 +65,7 @@ const ComplexGuide1 = () => {
       </p>
 
       <div className={styles.textBox}>
-        <div>호현 센트럴 아이파크가 눈부신 가치 위에</div>
+        <div>청주 센텀 푸르지오자이가 눈부신 가치 위에</div>
         <div>새로운 자부심으로 찾아옵니다.</div>
       </div>
 
@@ -73,7 +73,7 @@ const ComplexGuide1 = () => {
       <img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="호현 센트럴 아이파크 호수배치도-image1"
+				alt="청주 센텀 푸르지오자이 호수배치도-image1"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 

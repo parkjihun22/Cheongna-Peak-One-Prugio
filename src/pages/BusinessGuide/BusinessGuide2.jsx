@@ -58,18 +58,18 @@ const BusinessGuide2 = () => {
             <Bener title="분양일정" />
             <MenuBar contents={menuContents} />
 
-            <h1 className={styles.screenReaderOnly}>호현센트럴아이파크 - 분양일정</h1>
+            <h1 className={styles.screenReaderOnly}>청주센텀푸르지오자이 - 분양일정</h1>
             <p className={styles.screenReaderOnly}>
-			호현센트럴아이파크의 분양 일정은 중요한 날짜들을 안내하는 핵심 정보입니다.
+			청주센텀푸르지오자이의 분양 일정은 중요한 날짜들을 안내하는 핵심 정보입니다.
             </p>
 
             <div className={styles.textBox}>
                 <div>안양의 눈부신 가치 위에</div>
-                <div>호현 센트럴 아이파크의 새로운 자부심으로 찾아옵니다.</div>
+                <div>청주 센텀 푸르지오자이의 새로운 자부심으로 찾아옵니다.</div>
             </div>
 
             {/* ✅ 기존 이미지 부분 주석 처리하고 Ready 컴포넌트 표시 */}
-            <img className={`${styles.image4} ${isImageVisible ? styles.visible : ''}`} src={page1} alt="호현 센트럴 아이파크 분양일정안내-image1" />
+            <img className={`${styles.image4} ${isImageVisible ? styles.visible : ''}`} src={page1} alt="청주 센텀 푸르지오자이 분양일정안내-image1" />
             <div className={styles.readyContainer}>
            
             </div>

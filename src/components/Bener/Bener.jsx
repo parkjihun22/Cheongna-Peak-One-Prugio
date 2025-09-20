@@ -20,7 +20,7 @@ const Bener = ({ title }) => {
             <img
                 className={`${styles.benerImage} ${isLoaded ? styles.showImage : ''}`}
                 src={img}
-                alt="호현 센트럴 아이파크 배너 이미지"
+                alt="청주 센텀 푸르지오자이 배너 이미지"
             />
             <div className={styles.overlay}></div>
             <div
@@ -50,7 +50,7 @@ const contents = (text, isLoaded) => {
                 생활과 편리함이 만나는 곳
             </div>
             <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                신뢰의 1군 브랜드, 호현 센트럴 아이파크
+                신뢰의 1군 브랜드, 청주 센텀 푸르지오자이
             </div>
             </>
         );
@@ -67,7 +67,7 @@ const contents = (text, isLoaded) => {
                 입주민 중심 설계로 완성된 주거 프리미엄
             </div>
             <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                호현 센트럴 아이파크
+                청주 센텀 푸르지오자이
             </div>
             </>
         );
@@ -92,7 +92,7 @@ const contents = (text, isLoaded) => {
                 실용성과 쾌적함을 겸비한 주거 공간
             </div>
             <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                안양 박달2동의 핵심 입지, 호현 센트럴 아이파크
+                안양 박달2동의 핵심 입지, 청주 센텀 푸르지오자이
             </div>
             </>
         );

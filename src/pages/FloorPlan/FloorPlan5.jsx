@@ -73,7 +73,7 @@ const FloorPlan5 = () => {
 			<img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="호현 센트럴 아이파크 119OC 평면안내 이미지"
+				alt="청주 센텀 푸르지오자이 119OC 평면안내 이미지"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 

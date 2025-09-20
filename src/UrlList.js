@@ -15,7 +15,7 @@
 //     { image: img1, name: "평택 브레인시티 아이파크", url: "https://www.cialisknfrx.com", image_alt: "평택브레인시티아이파크" },
 //     { image: img4, name: "힐스테이트 안양마크밸리", url: "https://www.alwatanyh.com", image_alt: "힐스테이트안양마크밸리" },
 //     { image: img1, name: "브레인시티 아이파크", url: "https://www.bunyang-114.com", image_alt: "브레인시티아이파크" },
-//     { image: img3, name: "호현 센트럴 아이파크", url: "https://www.beyinegzersizi.com", image_alt: "호현 센트럴 아이파크" },
+//     { image: img3, name: "청주 센텀 푸르지오자이", url: "https://www.beyinegzersizi.com", image_alt: "청주 센텀 푸르지오자이" },
 //     { image: img5, name: "대전도안 벽산블루밍", url: "https://www.abcya4.com", image_alt: "도안벽산블루밍" },
 //     { image: img6, name: "대전 하늘채 스카이앤 3차", url: "https://buysildenafilv.com", image_alt: "대전하늘채스카이앤3차" },
 //     { image: img2, name: "평택 브레인시티 수자인", url: "https://www.ys-sujain.co.kr", image_alt: "평택브레인시티수자인" },

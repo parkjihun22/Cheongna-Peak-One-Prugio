@@ -59,7 +59,7 @@ const FloorPlan6 = () => {
 			<Header isChanged={isScroll} />
 			<FixIcon />
 
-			<Bener title="호현 센트럴 아이파크 119B 평면image" />
+			<Bener title="청주 센텀 푸르지오자이 119B 평면image" />
 
 			<MenuBar contents={menuContents} />
 

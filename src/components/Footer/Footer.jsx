@@ -11,7 +11,7 @@ import InterestPopup from "../InterestPopup/InterestPopup";
 
 // FAMILY SITE 목록 예시
 const partnerSites = [
-  { name: "호현 센트럴 아이파크", url: "https://www.bunyang-114.com/" },
+  { name: "청주 센텀 푸르지오자이", url: "https://www.bunyang-114.com/" },
 ];
 
 const Footer = () => {
@@ -48,7 +48,7 @@ const Footer = () => {
         <div className={styles.mobileWrapper}>
           {/* 상단 로고 */}
           <div className={styles.mobileLogo}>
-            <h2>호현 센트럴 아이파크 </h2>
+            <h2>청주 센텀 푸르지오자이 </h2>
           </div>
 
           {/* 안내문구 */}
@@ -104,7 +104,7 @@ const Footer = () => {
           {/* COPYRIGHT */}
           <div className={styles.mobileCopyright}>
             <p>
-              COPYRIGHTⓒ 2024 호현 센트럴 아이파크  INC. ALL RIGHTS RESERVED.
+              COPYRIGHTⓒ 2024 청주 센텀 푸르지오자이  INC. ALL RIGHTS RESERVED.
             </p>
           </div>
         </div>
@@ -112,7 +112,7 @@ const Footer = () => {
         <>
           <div className={styles.desktopWrapper}>
             <div className={styles.leftSide}>
-              <h2>호현 센트럴 아이파크 </h2>
+              <h2>청주 센텀 푸르지오자이 </h2>
               <p>
                 본 웹사이트에서 사용된 사진 및 이미지는 소비자의 이해를 돕기 위한
                 것으로 실제와 다를 수 있습니다.
@@ -156,7 +156,7 @@ const Footer = () => {
           </div>
           <div className={styles.desktopCopyright}>
             <p>
-              COPYRIGHTⓒ 2024 호현 센트럴 아이파크  INC. ALL RIGHTS RESERVED.
+              COPYRIGHTⓒ 2024 청주 센텀 푸르지오자이  INC. ALL RIGHTS RESERVED.
             </p>
           </div>
         </>

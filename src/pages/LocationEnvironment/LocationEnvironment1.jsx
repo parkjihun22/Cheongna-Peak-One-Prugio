@@ -101,24 +101,24 @@ const LocationEnvironment1 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        호현 센트럴 아이파크 - 입지안내
+        청주 센텀 푸르지오자이 - 입지안내
       </h1>
       <p className={styles.screenReaderOnly}>
-        호현 센트럴 아이파크의 입지 정보를 확인하세요. 뛰어난 교통망, 생활
+        청주 센텀 푸르지오자이의 입지 정보를 확인하세요. 뛰어난 교통망, 생활
         인프라, 교육 및 쇼핑 시설 등 편리한 주변 환경을 소개하며, 안양의
         중심에서 누릴 수 있는 생활의 편리함과 가치를 제공합니다
       </p>
 
       <div className={styles.textBox}>
-        <div>갈수록 완벽해질 호현 센트럴 아이파크</div>
-        <div>살수록 높아질 호현 센트럴 아이파크</div>
+        <div>갈수록 완벽해질 청주 센텀 푸르지오자이</div>
+        <div>살수록 높아질 청주 센텀 푸르지오자이</div>
 
       </div>
 
       <img
         src={page1}
         className={styles.image2}
-        alt="호현 센트럴 아이파크입지환경-image1"
+        alt="청주 센텀 푸르지오자이입지환경-image1"
       />
 
       <div className={styles.section2}>
@@ -133,7 +133,7 @@ const LocationEnvironment1 = () => {
 
       <div className={styles.commonBox}>
         <div className={styles.notice}>
-          ※본 홍보물의 내용과 지역도는 소비자의 이해를 돕기 위한 것으로, 개발 예정•계획 및 교통, 학교 계획 등에 관한 사항은 해당 기관의 아래 자료를 토대로 제작되었습니다. 사업계획 및 일정은 개발계획별 사업주체에 의해 변경될 수 있으며, 호현 센트럴 아이파크 사업주체 및 시공사와 무관합니다.
+          ※본 홍보물의 내용과 지역도는 소비자의 이해를 돕기 위한 것으로, 개발 예정•계획 및 교통, 학교 계획 등에 관한 사항은 해당 기관의 아래 자료를 토대로 제작되었습니다. 사업계획 및 일정은 개발계획별 사업주체에 의해 변경될 수 있으며, 청주 센텀 푸르지오자이 사업주체 및 시공사와 무관합니다.
         </div>
         
       </div>

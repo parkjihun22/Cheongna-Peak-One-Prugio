@@ -64,7 +64,7 @@ const FloorPlanVideos = () => {
       <MenuBar contents={menuContents} />
 
       <h1 className={styles.screenReaderOnly}>
-        호현센트럴아이파크 - 홍보영상
+        청주센텀푸르지오자이 - 홍보영상
       </h1>
       <p className={styles.screenReaderOnly}>세대안내영상 안내 페이지입니다.</p>
 
